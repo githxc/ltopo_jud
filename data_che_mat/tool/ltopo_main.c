@@ -10,6 +10,7 @@
 #include "ltopo_define.h"
 #include "ltopo_xml.h"
 #include "pul_data.h"
+#incldue "cha_ext.h"
 
 #define TOOL_TEST_INPUT_PATH "../test/tool"
 #define TOOL_XML_FILE TOOL_TEST_INPUT_PATH "/tool.xml"
