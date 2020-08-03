@@ -1,0 +1,4658 @@
+ltopo_alg_set_path, start at 'Tue Jul 28 22:40:00 CST 2020', end 1595950799
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595947200-1595950799
+
+got the S1 jump, sline 86, ts 1595947286, mbox mt-000000001014
+
+got the S1 jump, sline 244, ts 1595947444, mbox mt-000000001018
+
+got the S1 jump, sline 247, ts 1595947447, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 1392 6175 [ 8321 2173 2187 2191 ] 2208 2208 
+
+got the S1 jump, sline 499, ts 1595947699, mbox mt-000000001016
+
+got the S1 jump, sline 502, ts 1595947702, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 5378 5763 [ 16465 6427 6438 6427 ] 6210 6212 
+
+got the S1 jump, sline 629, ts 1595947829, mbox mt-000000001013
+
+got the S1 jump, sline 632, ts 1595947832, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 568 568 [ 10996 1708 1386 1355 ] 1343 1342 
+##DATA-LOSS### bt-000000001005-3 [0 0]: 12484 12533 [ 12582 -1 10832 10832 ] 10832 10832 
+
+got the S1 jump, sline 819, ts 1595948019, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 6310 6362 [ 13036 7101 7076 7125 ] 7125 7125 
+##DATA-LOSS### bt-000000001001-4 [0 0]: 7239 7242 [ 7245 -1 6946 6921 ] 6896 6871 
+
+got the S1 jump, sline 1040, ts 1595948240, mbox mt-000000001004
+
+got the S1 jump, sline 1119, ts 1595948319, mbox mt-000000001004
+
+got the S1 jump, sline 1623, ts 1595948823, mbox mt-000000001014
+
+got the S1 jump, sline 1952, ts 1595949152, mbox mt-000000001012
+
+got the S1 jump, sline 1953, ts 1595949153, mbox mt-000000001012
+
+got the S1 jump, sline 2067, ts 1595949267, mbox mt-000000001016
+
+got the S1 jump, sline 2070, ts 1595949270, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 5308 5316 [ 15302 6075 6034 6057 ] 6056 6047 
+##DATA-LOSS### bt-000000001005-5 [0 0]: 13824 13898 [ 13972 -1 13675 13666 ] 13657 13648 
+
+got the S1 jump, sline 2693, ts 1595949893, mbox mt-000000001016
+
+got the S1 jump, sline 2696, ts 1595949896, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 5369 5378 [ 16177 6999 6395 6415 ] 6430 6429 
+
+got the S1 jump, sline 2805, ts 1595950005, mbox mt-000000001018
+
+got the S1 jump, sline 2806, ts 1595950006, mbox mt-000000001018
+
+got the S1 jump, sline 3166, ts 1595950366, mbox mt-000000001014
+
+got the S1 jump, sline 3167, ts 1595950367, mbox mt-000000001014
+
+got the S1 jump, sline 3213, ts 1595950413, mbox mt-000000001004
+
+got the S1 jump, sline 3276, ts 1595950476, mbox mt-000000001018
+
+got the S1 jump, sline 3277, ts 1595950477, mbox mt-000000001018
+
+got the S1 jump, sline 3279, ts 1595950479, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 855 847 [ 5875 7556 1633 1659 ] 1667 1671 
+##DATA-LOSS### bt-000000001005-2 [0 0]: 17744 17778 [ 17812 -1 16298 16173 ] 16048 15923 
+
+got the S1 jump, sline 3300, ts 1595950500, mbox mt-000000001004
+
+got the S1 jump, sline 3315, ts 1595950515, mbox mt-000000001016
+
+got the S1 jump, sline 3318, ts 1595950518, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 5828 5763 [ 13193 6711 6557 6571 ] 6532 6545 
+
+got the S1 jump, sline 3329, ts 1595950529, mbox mt-000000001011
+ltopo_alg_set_path, start at 'Tue Jul 28 23:40:00 CST 2020', end 1595954399
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595950800-1595954399
+
+got the S1 jump, sline 109, ts 1595950909, mbox mt-000000001011
+
+got the S1 jump, sline 832, ts 1595951632, mbox mt-000000001013
+
+got the S1 jump, sline 835, ts 1595951635, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 564 849 [ 7507 1394 1394 1357 ] 1339 1337 
+##DATA-LOSS### bt-000000001005-3 [0 0]: 10476 10580 [ 10684 -1 -1 -1 ] 8276 8280 
+
+got the S1 jump, sline 855, ts 1595951655, mbox mt-000000001004
+
+got the S1 jump, sline 858, ts 1595951658, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 2595 2595 [ 12724 3552 3633 3731 ] 3752 3753 
+##DATA-LOSS### bt-000000001020-5 [0 0]: 4684 4688 [ -1 3613 3616 3619 ] 3622 3625 
+
+got the S1 jump, sline 1126, ts 1595951926, mbox mt-000000001014
+
+got the S1 jump, sline 1127, ts 1595951927, mbox mt-000000001014
+
+got the S1 jump, sline 1461, ts 1595952261, mbox mt-000000001016
+
+got the S1 jump, sline 1464, ts 1595952264, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 4857 4829 [ 14395 5651 5673 5681 ] 5850 5850 
+
+got the S1 jump, sline 1593, ts 1595952393, mbox mt-000000001004
+
+got the S1 jump, sline 1671, ts 1595952471, mbox mt-000000001004
+
+got the S1 jump, sline 1987, ts 1595952787, mbox mt-000000001017
+
+got the S1 jump, sline 1990, ts 1595952790, mbox mt-000000001017
+##PULSE-DOWN## mt-000000001017 [0 1]: 3216 3236 [ 12785 4080 4093 4105 ] 4129 4127 
+##DATA-LOSS### bt-000000001020-3 [0 0]: 6832 6836 [ -1 4125 4124 4123 ] 4122 4121 
+
+got the S1 jump, sline 2092, ts 1595952892, mbox mt-000000001013
+
+got the S1 jump, sline 2095, ts 1595952895, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 568 564 [ 9308 1957 1368 1357 ] 1343 1343 
+
+got the S1 jump, sline 2126, ts 1595952926, mbox mt-000000001004
+
+got the S1 jump, sline 2129, ts 1595952929, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 2569 2551 [ 12755 3540 3772 3846 ] 3886 3886 
+
+got the S1 jump, sline 2220, ts 1595953020, mbox mt-000000001016
+
+got the S1 jump, sline 2223, ts 1595953023, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 5867 5885 [ 12139 6821 6485 6507 ] 6507 6507 
+##DATA-LOSS### bt-000000001001-4 [0 0]: 9577 9599 [ 9621 -1 6328 6341 ] 6354 6367 
+
+got the S1 jump, sline 3179, ts 1595953979, mbox mt-000000001002
+
+got the S1 jump, sline 3345, ts 1595954145, mbox mt-000000001013
+
+got the S1 jump, sline 3348, ts 1595954148, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 570 570 [ 7399 2407 1418 1359 ] 1345 1345 
+ltopo_alg_set_path, start at 'Wed Jul 29 00:40:00 CST 2020', end 1595957999
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595954400-1595957999
+
+got the S1 jump, sline 136, ts 1595954536, mbox mt-000000001010
+
+got the S1 jump, sline 326, ts 1595954726, mbox mt-000000001010
+
+got the S1 jump, sline 359, ts 1595954759, mbox mt-000000001016
+
+got the S1 jump, sline 362, ts 1595954762, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 5100 6591 [ 15458 5895 5793 5767 ] 5820 5821 
+
+got the S1 jump, sline 431, ts 1595954831, mbox mt-000000001004
+
+got the S1 jump, sline 493, ts 1595954893, mbox mt-000000001017
+##PULSE-DOWN## mt-000000001017 [0 1]: 3331 3337 [ 12029 4918 4172 4203 ] 4223 4223 
+
+got the S1 jump, sline 673, ts 1595955073, mbox mt-000000001014
+
+got the S1 jump, sline 674, ts 1595955074, mbox mt-000000001014
+
+got the S1 jump, sline 920, ts 1595955320, mbox mt-000000001004
+
+got the S1 jump, sline 923, ts 1595955323, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 3456 3462 [ 13865 5173 4400 4370 ] 4466 4464 
+
+got the S1 jump, sline 1111, ts 1595955511, mbox mt-000000001016
+
+got the S1 jump, sline 1112, ts 1595955512, mbox mt-000000001016
+
+got the S1 jump, sline 1121, ts 1595955521, mbox mt-000000001016
+
+got the S1 jump, sline 1122, ts 1595955522, mbox mt-000000001016
+
+got the S1 jump, sline 1123, ts 1595955523, mbox mt-000000001016
+
+got the S1 jump, sline 1806, ts 1595956206, mbox mt-000000001011
+
+got the S1 jump, sline 1807, ts 1595956207, mbox mt-000000001011
+
+got the S1 jump, sline 1822, ts 1595956222, mbox mt-000000001016
+
+got the S1 jump, sline 1823, ts 1595956223, mbox mt-000000001016
+
+got the S1 jump, sline 1872, ts 1595956272, mbox mt-000000001016
+
+got the S1 jump, sline 1873, ts 1595956273, mbox mt-000000001016
+
+got the S1 jump, sline 1991, ts 1595956391, mbox mt-000000001011
+
+got the S1 jump, sline 2172, ts 1595956572, mbox mt-000000001018
+
+got the S1 jump, sline 2175, ts 1595956575, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 1368 1372 [ 7819 2320 2171 2189 ] 2189 2189 
+
+got the S1 jump, sline 2245, ts 1595956645, mbox mt-000000001014
+
+got the S1 jump, sline 2298, ts 1595956698, mbox mt-000000001013
+
+got the S1 jump, sline 2301, ts 1595956701, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 572 570 [ 10585 1767 1374 1364 ] 1349 1349 
+
+got the S1 jump, sline 2320, ts 1595956720, mbox mt-000000001016
+
+got the S1 jump, sline 2321, ts 1595956721, mbox mt-000000001016
+
+got the S1 jump, sline 2322, ts 1595956722, mbox mt-000000001016
+
+got the S1 jump, sline 2372, ts 1595956772, mbox mt-000000001016
+
+got the S1 jump, sline 2375, ts 1595956775, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 38141 38318 [ 46544 39024 38997 39050 ] 39022 38969 
+##DATA-LOSS### bt-000000001005-5 [0 0]: 49377 49485 [ 49593 -1 46280 46231 ] 46182 46133 
+
+got the S1 jump, sline 2543, ts 1595956943, mbox mt-000000001012
+
+got the S1 jump, sline 2688, ts 1595957088, mbox mt-000000001004
+
+got the S1 jump, sline 2766, ts 1595957166, mbox mt-000000001004
+
+got the S1 jump, sline 2830, ts 1595957230, mbox mt-000000001016
+
+got the S1 jump, sline 2833, ts 1595957233, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 38191 38120 [ 46499 38918 38873 38991 ] 39012 38993 
+
+got the S1 jump, sline 2870, ts 1595957270, mbox mt-000000001016
+
+got the S1 jump, sline 3530, ts 1595957930, mbox mt-000000001004
+
+got the S1 jump, sline 3533, ts 1595957933, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 2286 3250 [ 12333 3321 3515 3523 ] 3531 3539 
+
+got the S1 jump, sline 3570, ts 1595957970, mbox mt-000000001013
+
+got the S1 jump, sline 3571, ts 1595957971, mbox mt-000000001013
+
+got the S1 jump, sline 3572, ts 1595957972, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 570 568 [ 568 9795 8690 1396 ] 1355 1345 
+ltopo_alg_set_path, start at 'Wed Jul 29 01:40:00 CST 2020', end 1595961599
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595958000-1595961599
+
+got the S1 jump, sline 105, ts 1595958105, mbox mt-000000001016
+
+got the S1 jump, sline 184, ts 1595958184, mbox mt-000000001016
+
+got the S1 jump, sline 185, ts 1595958185, mbox mt-000000001016
+
+got the S1 jump, sline 193, ts 1595958193, mbox mt-000000001014
+
+got the S1 jump, sline 217, ts 1595958217, mbox mt-000000001016
+
+got the S1 jump, sline 290, ts 1595958290, mbox mt-000000001016
+
+got the S1 jump, sline 291, ts 1595958291, mbox mt-000000001016
+
+got the S1 jump, sline 338, ts 1595958338, mbox mt-000000001016
+
+got the S1 jump, sline 339, ts 1595958339, mbox mt-000000001016
+
+got the S1 jump, sline 384, ts 1595958384, mbox mt-000000001016
+
+got the S1 jump, sline 434, ts 1595958434, mbox mt-000000001017
+##PULSE-DOWN## mt-000000001017 [0 1]: 1176 1153 [ 7613 2022 2016 2055 ] 2193 2193 
+
+got the S1 jump, sline 448, ts 1595958448, mbox mt-000000001010
+
+got the S1 jump, sline 449, ts 1595958449, mbox mt-000000001010
+
+got the S1 jump, sline 450, ts 1595958450, mbox mt-000000001010
+
+got the S1 jump, sline 451, ts 1595958451, mbox mt-000000001010
+
+got the S1 jump, sline 463, ts 1595958463, mbox mt-000000001016
+
+got the S1 jump, sline 464, ts 1595958464, mbox mt-000000001016
+
+got the S1 jump, sline 501, ts 1595958501, mbox mt-000000001016
+
+got the S1 jump, sline 502, ts 1595958502, mbox mt-000000001016
+
+got the S1 jump, sline 543, ts 1595958543, mbox mt-000000001016
+
+got the S1 jump, sline 544, ts 1595958544, mbox mt-000000001016
+
+got the S1 jump, sline 562, ts 1595958562, mbox mt-000000001016
+
+got the S1 jump, sline 721, ts 1595958721, mbox mt-000000001010
+
+got the S1 jump, sline 722, ts 1595958722, mbox mt-000000001010
+
+got the S1 jump, sline 1187, ts 1595959187, mbox mt-000000001004
+
+got the S1 jump, sline 1190, ts 1595959190, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 3093 3105 [ 10230 4180 4198 4253 ] 4337 4305 
+
+got the S1 jump, sline 1235, ts 1595959235, mbox mt-000000001013
+
+got the S1 jump, sline 1238, ts 1595959238, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 570 572 [ 10919 1710 1392 1362 ] 1343 1342 
+
+got the S1 jump, sline 1502, ts 1595959502, mbox mt-000000001004
+
+got the S1 jump, sline 1503, ts 1595959503, mbox mt-000000001004
+
+got the S1 jump, sline 1581, ts 1595959581, mbox mt-000000001004
+
+got the S1 jump, sline 1582, ts 1595959582, mbox mt-000000001004
+
+got the S1 jump, sline 1599, ts 1595959599, mbox mt-000000001018
+
+got the S1 jump, sline 1602, ts 1595959602, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 1394 1392 [ 8411 2314 2179 2193 ] 2208 2208 
+
+got the S1 jump, sline 1745, ts 1595959745, mbox mt-000000001014
+
+got the S1 jump, sline 1746, ts 1595959746, mbox mt-000000001014
+
+got the S1 jump, sline 2492, ts 1595960492, mbox mt-000000001013
+
+got the S1 jump, sline 2495, ts 1595960495, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 572 570 [ 10374 8288 1404 1378 ] 1355 1345 
+
+got the S1 jump, sline 2532, ts 1595960532, mbox mt-000000001016
+
+got the S1 jump, sline 2535, ts 1595960535, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 4737 4749 [ 13120 5453 5563 5651 ] 5655 5655 
+
+got the S1 jump, sline 3014, ts 1595961014, mbox mt-000000001002
+
+got the S1 jump, sline 3017, ts 1595961017, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 3831 3809 [ 13516 6340 5895 5887 ] 5865 5865 
+
+got the S1 jump, sline 3069, ts 1595961069, mbox mt-000000001017
+
+got the S1 jump, sline 3072, ts 1595961072, mbox mt-000000001017
+##PULSE-DOWN## mt-000000001017 [0 1]: 2328 5253 [ 9860 3992 3984 3974 ] 3949 3947 
+
+got the S1 jump, sline 3319, ts 1595961319, mbox mt-000000001014
+
+got the S1 jump, sline 3320, ts 1595961320, mbox mt-000000001014
+ltopo_alg_set_path, start at 'Wed Jul 29 02:40:00 CST 2020', end 1595965199
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595961600-1595965199
+
+got the S1 jump, sline 203, ts 1595961803, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 578 578 [ 570 568 570 10629 ] 10629 1425 
+
+got the S1 jump, sline 212, ts 1595961812, mbox mt-000000001009
+
+got the S1 jump, sline 215, ts 1595961815, mbox mt-000000001009
+##PULSE-DOWN## mt-000000001009 [0 1]: 136 604 [ 10068 982 945 937 ] 898 898 
+
+got the S1 jump, sline 333, ts 1595961933, mbox mt-000000001004
+
+got the S1 jump, sline 411, ts 1595962011, mbox mt-000000001004
+
+got the S1 jump, sline 1035, ts 1595962635, mbox mt-000000001018
+
+got the S1 jump, sline 1038, ts 1595962638, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 1396 6234 [ 8341 2416 2191 2218 ] 2236 2236 
+##DATA-LOSS### bt-000000001020-4 [0 0]: 6075 6084 [ -1 2199 2199 2199 ] 2199 2199 
+
+got the S1 jump, sline 1290, ts 1595962890, mbox mt-000000001014
+
+got the S1 jump, sline 1396, ts 1595962996, mbox mt-000000001004
+
+got the S1 jump, sline 1397, ts 1595962997, mbox mt-000000001004
+
+got the S1 jump, sline 1398, ts 1595962998, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 2503 2663 [ 2669 9428 7666 3664 ] 3776 3829 
+##DATA-LOSS### bt-000000001005-2 [0 0]: 8602 8600 [ 8598 -1 -1 9588 ] 9589 9590 
+
+got the S1 jump, sline 1862, ts 1595963462, mbox mt-000000001010
+
+got the S1 jump, sline 2056, ts 1595963656, mbox mt-000000001010
+
+got the S1 jump, sline 2658, ts 1595964258, mbox mt-000000001004
+
+got the S1 jump, sline 2661, ts 1595964261, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 4447 4498 [ 15088 5459 5504 5600 ] 5634 5633 
+
+got the S1 jump, sline 2698, ts 1595964298, mbox mt-000000001016
+
+got the S1 jump, sline 2701, ts 1595964301, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 4310 4298 [ 14082 4758 4741 4766 ] 4772 4773 
+
+got the S1 jump, sline 2736, ts 1595964336, mbox mt-000000001013
+
+got the S1 jump, sline 2739, ts 1595964339, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 570 1779 [ 11653 1581 1355 1347 ] 1347 1347 
+
+got the S1 jump, sline 2777, ts 1595964377, mbox mt-000000001004
+
+got the S1 jump, sline 2853, ts 1595964453, mbox mt-000000001004
+
+got the S1 jump, sline 2861, ts 1595964461, mbox mt-000000001014
+
+got the S1 jump, sline 3002, ts 1595964602, mbox mt-000000001016
+
+got the S1 jump, sline 3005, ts 1595964605, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 4704 5547 [ 15680 5536 5526 5563 ] 5604 5601 
+ltopo_alg_set_path, start at 'Wed Jul 29 03:40:00 CST 2020', end 1595968799
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595965200-1595968799
+
+got the S1 jump, sline 345, ts 1595965545, mbox mt-000000001016
+
+got the S1 jump, sline 348, ts 1595965548, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 4663 4645 [ 13920 5416 5416 5430 ] 5396 5396 
+##DATA-LOSS### bt-000000001001-4 [0 0]: 7874 7881 [ 7888 -1 6115 6116 ] 6117 6118 
+
+got the S1 jump, sline 391, ts 1595965591, mbox mt-000000001013
+
+got the S1 jump, sline 447, ts 1595965647, mbox mt-000000001018
+
+got the S1 jump, sline 450, ts 1595965650, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 1412 1406 [ 7886 2344 2197 2201 ] 2216 2216 
+##DATA-LOSS### bt-000000001005-2 [0 0]: 11982 12020 [ 12058 -1 10006 10000 ] 9994 9988 
+
+got the S1 jump, sline 825, ts 1595966025, mbox mt-000000001014
+
+got the S1 jump, sline 826, ts 1595966026, mbox mt-000000001014
+
+got the S1 jump, sline 1269, ts 1595966469, mbox mt-000000001017
+
+got the S1 jump, sline 1272, ts 1595966472, mbox mt-000000001017
+##PULSE-DOWN## mt-000000001017 [0 1]: 2608 2612 [ 10295 3503 3472 3483 ] 3505 3505 
+
+got the S1 jump, sline 1535, ts 1595966735, mbox mt-000000001004
+
+got the S1 jump, sline 1595, ts 1595966795, mbox mt-000000001016
+
+got the S1 jump, sline 1596, ts 1595966796, mbox mt-000000001016
+
+got the S1 jump, sline 1597, ts 1595966797, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 3962 3945 [ 3927 10725 9553 4709 ] 4719 4707 
+
+got the S1 jump, sline 1617, ts 1595966817, mbox mt-000000001004
+
+got the S1 jump, sline 1778, ts 1595966978, mbox mt-000000001016
+
+got the S1 jump, sline 1781, ts 1595966981, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 4690 4723 [ 14335 5475 5504 5542 ] 5571 5575 
+##DATA-LOSS### bt-000000001005-5 [0 0]: 15017 15153 [ 15289 -1 13654 13668 ] 13682 13696 
+
+got the S1 jump, sline 2380, ts 1595967580, mbox mt-000000001014
+
+got the S1 jump, sline 2381, ts 1595967581, mbox mt-000000001014
+
+got the S1 jump, sline 2468, ts 1595967668, mbox mt-000000001018
+
+got the S1 jump, sline 2469, ts 1595967669, mbox mt-000000001018
+
+got the S1 jump, sline 2680, ts 1595967880, mbox mt-000000001018
+
+got the S1 jump, sline 2763, ts 1595967963, mbox mt-000000001002
+
+got the S1 jump, sline 2766, ts 1595967966, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 4188 4198 [ 12604 6134 5769 5767 ] 5763 5778 
+
+got the S1 jump, sline 2842, ts 1595968042, mbox mt-000000001016
+
+got the S1 jump, sline 2845, ts 1595968045, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 4659 4641 [ 14511 7627 5406 5410 ] 5388 5393 
+
+got the S1 jump, sline 2866, ts 1595968066, mbox mt-000000001004
+
+got the S1 jump, sline 2869, ts 1595968069, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 3544 3546 [ 12659 4498 4547 4651 ] 4700 4699 
+
+got the S1 jump, sline 2944, ts 1595968144, mbox mt-000000001013
+
+got the S1 jump, sline 2947, ts 1595968147, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 578 572 [ 11531 1604 1394 1368 ] 1349 1348 
+##DATA-LOSS### bt-000000001005-3 [0 0]: 8934 8970 [ 9006 -1 7056 7044 ] 7032 7020 
+ltopo_alg_set_path, start at 'Wed Jul 29 04:40:00 CST 2020', end 1595972399
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595968800-1595972399
+
+got the S1 jump, sline 431, ts 1595969231, mbox mt-000000001004
+
+got the S1 jump, sline 529, ts 1595969329, mbox mt-000000001004
+
+got the S1 jump, sline 590, ts 1595969390, mbox mt-000000001013
+
+got the S1 jump, sline 593, ts 1595969393, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 570 568 [ 11007 1698 1376 1375 ] 1374 1373 
+
+got the S1 jump, sline 908, ts 1595969708, mbox mt-000000001002
+
+got the S1 jump, sline 911, ts 1595969711, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 4190 4188 [ 13275 5820 5781 5771 ] 5789 5790 
+
+got the S1 jump, sline 1569, ts 1595970369, mbox mt-000000001004
+
+got the S1 jump, sline 1578, ts 1595970378, mbox mt-000000001004
+
+got the S1 jump, sline 1677, ts 1595970477, mbox mt-000000001004
+
+got the S1 jump, sline 1678, ts 1595970478, mbox mt-000000001004
+
+got the S1 jump, sline 1726, ts 1595970526, mbox mt-000000001017
+
+got the S1 jump, sline 1751, ts 1595970551, mbox mt-000000001016
+
+got the S1 jump, sline 1754, ts 1595970554, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 4678 4694 [ 13294 5506 5438 5473 ] 5463 5461 
+
+got the S1 jump, sline 1764, ts 1595970564, mbox mt-000000001004
+
+got the S1 jump, sline 1765, ts 1595970565, mbox mt-000000001004
+
+got the S1 jump, sline 1779, ts 1595970579, mbox mt-000000001004
+
+got the S1 jump, sline 1780, ts 1595970580, mbox mt-000000001004
+
+got the S1 jump, sline 1805, ts 1595970605, mbox mt-000000001004
+
+got the S1 jump, sline 1819, ts 1595970619, mbox mt-000000001004
+
+got the S1 jump, sline 1820, ts 1595970620, mbox mt-000000001004
+
+got the S1 jump, sline 1839, ts 1595970639, mbox mt-000000001004
+
+got the S1 jump, sline 1840, ts 1595970640, mbox mt-000000001004
+
+got the S1 jump, sline 1860, ts 1595970660, mbox mt-000000001004
+
+got the S1 jump, sline 1879, ts 1595970679, mbox mt-000000001004
+
+got the S1 jump, sline 1880, ts 1595970680, mbox mt-000000001004
+
+got the S1 jump, sline 1900, ts 1595970700, mbox mt-000000001004
+
+got the S1 jump, sline 1910, ts 1595970710, mbox mt-000000001014
+
+got the S1 jump, sline 1911, ts 1595970711, mbox mt-000000001014
+
+got the S1 jump, sline 1939, ts 1595970739, mbox mt-000000001004
+
+got the S1 jump, sline 1947, ts 1595970747, mbox mt-000000001004
+
+got the S1 jump, sline 1959, ts 1595970759, mbox mt-000000001004
+
+got the S1 jump, sline 1960, ts 1595970760, mbox mt-000000001004
+
+got the S1 jump, sline 1980, ts 1595970780, mbox mt-000000001004
+
+got the S1 jump, sline 1981, ts 1595970781, mbox mt-000000001004
+
+got the S1 jump, sline 1999, ts 1595970799, mbox mt-000000001004
+
+got the S1 jump, sline 2000, ts 1595970800, mbox mt-000000001004
+
+got the S1 jump, sline 2019, ts 1595970819, mbox mt-000000001004
+
+got the S1 jump, sline 2020, ts 1595970820, mbox mt-000000001004
+
+got the S1 jump, sline 2030, ts 1595970830, mbox mt-000000001004
+
+got the S1 jump, sline 2031, ts 1595970831, mbox mt-000000001004
+
+got the S1 jump, sline 2040, ts 1595970840, mbox mt-000000001004
+
+got the S1 jump, sline 2041, ts 1595970841, mbox mt-000000001004
+
+got the S1 jump, sline 2065, ts 1595970865, mbox mt-000000001004
+
+got the S1 jump, sline 2066, ts 1595970866, mbox mt-000000001004
+
+got the S1 jump, sline 2080, ts 1595970880, mbox mt-000000001004
+
+got the S1 jump, sline 2081, ts 1595970881, mbox mt-000000001004
+
+got the S1 jump, sline 2100, ts 1595970900, mbox mt-000000001004
+
+got the S1 jump, sline 2117, ts 1595970917, mbox mt-000000001004
+
+got the S1 jump, sline 2118, ts 1595970918, mbox mt-000000001004
+
+got the S1 jump, sline 2121, ts 1595970921, mbox mt-000000001004
+
+got the S1 jump, sline 2122, ts 1595970922, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 29234 51023 [ 48245 39476 14413 4502 ] 4494 4494 
+
+got the S1 jump, sline 2140, ts 1595970940, mbox mt-000000001004
+
+got the S1 jump, sline 2161, ts 1595970961, mbox mt-000000001004
+
+got the S1 jump, sline 2180, ts 1595970980, mbox mt-000000001004
+
+got the S1 jump, sline 2200, ts 1595971000, mbox mt-000000001004
+
+got the S1 jump, sline 2201, ts 1595971001, mbox mt-000000001004
+
+got the S1 jump, sline 2225, ts 1595971025, mbox mt-000000001004
+
+got the S1 jump, sline 2240, ts 1595971040, mbox mt-000000001004
+
+got the S1 jump, sline 2253, ts 1595971053, mbox mt-000000001004
+
+got the S1 jump, sline 2261, ts 1595971061, mbox mt-000000001004
+
+got the S1 jump, sline 2280, ts 1595971080, mbox mt-000000001004
+
+got the S1 jump, sline 2293, ts 1595971093, mbox mt-000000001004
+
+got the S1 jump, sline 2301, ts 1595971101, mbox mt-000000001004
+
+got the S1 jump, sline 2313, ts 1595971113, mbox mt-000000001004
+
+got the S1 jump, sline 2314, ts 1595971114, mbox mt-000000001004
+
+got the S1 jump, sline 2333, ts 1595971133, mbox mt-000000001004
+
+got the S1 jump, sline 2341, ts 1595971141, mbox mt-000000001004
+
+got the S1 jump, sline 2354, ts 1595971154, mbox mt-000000001004
+
+got the S1 jump, sline 2373, ts 1595971173, mbox mt-000000001004
+
+got the S1 jump, sline 2381, ts 1595971181, mbox mt-000000001004
+
+got the S1 jump, sline 2400, ts 1595971200, mbox mt-000000001004
+
+got the S1 jump, sline 2414, ts 1595971214, mbox mt-000000001004
+
+got the S1 jump, sline 2433, ts 1595971233, mbox mt-000000001004
+
+got the S1 jump, sline 2434, ts 1595971234, mbox mt-000000001004
+
+got the S1 jump, sline 2435, ts 1595971235, mbox mt-000000001004
+
+got the S1 jump, sline 2454, ts 1595971254, mbox mt-000000001004
+
+got the S1 jump, sline 2475, ts 1595971275, mbox mt-000000001004
+
+got the S1 jump, sline 2607, ts 1595971407, mbox mt-000000001004
+
+got the S1 jump, sline 2626, ts 1595971426, mbox mt-000000001004
+
+got the S1 jump, sline 2627, ts 1595971427, mbox mt-000000001004
+
+got the S1 jump, sline 2635, ts 1595971435, mbox mt-000000001004
+
+got the S1 jump, sline 2644, ts 1595971444, mbox mt-000000001004
+
+got the S1 jump, sline 2655, ts 1595971455, mbox mt-000000001002
+
+got the S1 jump, sline 2658, ts 1595971458, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 4152 4142 [ 12824 8912 5761 5738 ] 5738 5755 
+
+got the S1 jump, sline 2718, ts 1595971518, mbox mt-000000001004
+
+got the S1 jump, sline 2719, ts 1595971519, mbox mt-000000001004
+
+got the S1 jump, sline 2729, ts 1595971529, mbox mt-000000001004
+
+got the S1 jump, sline 2730, ts 1595971530, mbox mt-000000001004
+
+got the S1 jump, sline 2733, ts 1595971533, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 2916 19830 [ 37584 19682 2934 2914 ] 2924 2914 
+
+got the S1 jump, sline 2788, ts 1595971588, mbox mt-000000001004
+
+got the S1 jump, sline 2807, ts 1595971607, mbox mt-000000001004
+
+got the S1 jump, sline 2808, ts 1595971608, mbox mt-000000001004
+
+got the S1 jump, sline 2827, ts 1595971627, mbox mt-000000001004
+
+got the S1 jump, sline 2835, ts 1595971635, mbox mt-000000001004
+
+got the S1 jump, sline 2847, ts 1595971647, mbox mt-000000001004
+
+got the S1 jump, sline 2848, ts 1595971648, mbox mt-000000001004
+
+got the S1 jump, sline 2867, ts 1595971667, mbox mt-000000001004
+
+got the S1 jump, sline 2868, ts 1595971668, mbox mt-000000001004
+
+got the S1 jump, sline 2876, ts 1595971676, mbox mt-000000001004
+
+got the S1 jump, sline 2888, ts 1595971688, mbox mt-000000001004
+
+got the S1 jump, sline 2910, ts 1595971710, mbox mt-000000001004
+
+got the S1 jump, sline 2922, ts 1595971722, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 1368 1372 [ 9116 2259 2154 2163 ] 2191 2191 
+
+got the S1 jump, sline 2930, ts 1595971730, mbox mt-000000001004
+
+got the S1 jump, sline 2944, ts 1595971744, mbox mt-000000001004
+
+got the S1 jump, sline 2945, ts 1595971745, mbox mt-000000001004
+
+got the S1 jump, sline 2946, ts 1595971746, mbox mt-000000001004
+
+got the S1 jump, sline 2947, ts 1595971747, mbox mt-000000001004
+
+got the S1 jump, sline 2948, ts 1595971748, mbox mt-000000001004
+
+got the S1 jump, sline 2968, ts 1595971768, mbox mt-000000001004
+
+got the S1 jump, sline 2969, ts 1595971769, mbox mt-000000001004
+
+got the S1 jump, sline 2994, ts 1595971794, mbox mt-000000001004
+
+got the S1 jump, sline 2995, ts 1595971795, mbox mt-000000001004
+
+got the S1 jump, sline 3043, ts 1595971843, mbox mt-000000001010
+
+got the S1 jump, sline 3059, ts 1595971859, mbox mt-000000001004
+
+got the S1 jump, sline 3060, ts 1595971860, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 3811 3797 [ 6008 4757 16343 16797 ] 16852 16828 
+
+got the S1 jump, sline 3068, ts 1595971868, mbox mt-000000001004
+
+got the S1 jump, sline 3069, ts 1595971869, mbox mt-000000001004
+
+got the S1 jump, sline 3077, ts 1595971877, mbox mt-000000001004
+
+got the S1 jump, sline 3085, ts 1595971885, mbox mt-000000001004
+
+got the S1 jump, sline 3099, ts 1595971899, mbox mt-000000001004
+
+got the S1 jump, sline 3119, ts 1595971919, mbox mt-000000001004
+
+got the S1 jump, sline 3120, ts 1595971920, mbox mt-000000001004
+
+got the S1 jump, sline 3128, ts 1595971928, mbox mt-000000001004
+
+got the S1 jump, sline 3145, ts 1595971945, mbox mt-000000001004
+
+got the S1 jump, sline 3146, ts 1595971946, mbox mt-000000001004
+
+got the S1 jump, sline 3209, ts 1595972009, mbox mt-000000001004
+
+got the S1 jump, sline 3210, ts 1595972010, mbox mt-000000001004
+
+got the S1 jump, sline 3229, ts 1595972029, mbox mt-000000001004
+
+got the S1 jump, sline 3230, ts 1595972030, mbox mt-000000001004
+
+got the S1 jump, sline 3238, ts 1595972038, mbox mt-000000001004
+
+got the S1 jump, sline 3249, ts 1595972049, mbox mt-000000001004
+
+got the S1 jump, sline 3250, ts 1595972050, mbox mt-000000001004
+
+got the S1 jump, sline 3258, ts 1595972058, mbox mt-000000001004
+
+got the S1 jump, sline 3367, ts 1595972167, mbox mt-000000001004
+
+got the S1 jump, sline 3380, ts 1595972180, mbox mt-000000001004
+
+got the S1 jump, sline 3388, ts 1595972188, mbox mt-000000001004
+
+got the S1 jump, sline 3403, ts 1595972203, mbox mt-000000001004
+
+got the S1 jump, sline 3411, ts 1595972211, mbox mt-000000001004
+
+got the S1 jump, sline 3468, ts 1595972268, mbox mt-000000001004
+
+got the S1 jump, sline 3469, ts 1595972269, mbox mt-000000001004
+
+got the S1 jump, sline 3478, ts 1595972278, mbox mt-000000001014
+
+got the S1 jump, sline 3508, ts 1595972308, mbox mt-000000001004
+
+got the S1 jump, sline 3527, ts 1595972327, mbox mt-000000001004
+
+got the S1 jump, sline 3573, ts 1595972373, mbox mt-000000001004
+
+got the S1 jump, sline 3587, ts 1595972387, mbox mt-000000001004
+
+got the S1 jump, sline 3588, ts 1595972388, mbox mt-000000001004
+ltopo_alg_set_path, start at 'Wed Jul 29 05:40:00 CST 2020', end 1595975999
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595972400-1595975999
+
+got the S1 jump, sline 30, ts 1595972430, mbox mt-000000001004
+
+got the S1 jump, sline 39, ts 1595972439, mbox mt-000000001004
+
+got the S1 jump, sline 47, ts 1595972447, mbox mt-000000001004
+
+got the S1 jump, sline 59, ts 1595972459, mbox mt-000000001004
+
+got the S1 jump, sline 60, ts 1595972460, mbox mt-000000001004
+
+got the S1 jump, sline 73, ts 1595972473, mbox mt-000000001004
+
+got the S1 jump, sline 74, ts 1595972474, mbox mt-000000001004
+
+got the S1 jump, sline 84, ts 1595972484, mbox mt-000000001004
+
+got the S1 jump, sline 98, ts 1595972498, mbox mt-000000001004
+
+got the S1 jump, sline 156, ts 1595972556, mbox mt-000000001004
+
+got the S1 jump, sline 208, ts 1595972608, mbox mt-000000001004
+
+got the S1 jump, sline 209, ts 1595972609, mbox mt-000000001004
+
+got the S1 jump, sline 212, ts 1595972612, mbox mt-000000001004
+
+got the S1 jump, sline 213, ts 1595972613, mbox mt-000000001004
+
+got the S1 jump, sline 214, ts 1595972614, mbox mt-000000001004
+
+got the S1 jump, sline 222, ts 1595972622, mbox mt-000000001004
+
+got the S1 jump, sline 233, ts 1595972633, mbox mt-000000001004
+
+got the S1 jump, sline 234, ts 1595972634, mbox mt-000000001004
+
+got the S1 jump, sline 242, ts 1595972642, mbox mt-000000001004
+
+got the S1 jump, sline 254, ts 1595972654, mbox mt-000000001004
+
+got the S1 jump, sline 255, ts 1595972655, mbox mt-000000001004
+
+got the S1 jump, sline 463, ts 1595972863, mbox mt-000000001004
+
+got the S1 jump, sline 475, ts 1595972875, mbox mt-000000001004
+
+got the S1 jump, sline 476, ts 1595972876, mbox mt-000000001004
+
+got the S1 jump, sline 484, ts 1595972884, mbox mt-000000001004
+
+got the S1 jump, sline 496, ts 1595972896, mbox mt-000000001004
+
+got the S1 jump, sline 497, ts 1595972897, mbox mt-000000001004
+
+got the S1 jump, sline 654, ts 1595973054, mbox mt-000000001016
+
+got the S1 jump, sline 657, ts 1595973057, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 3860 3844 [ 12814 5263 4680 4713 ] 5110 5109 
+##DATA-LOSS### bt-000000001001-4 [0 0]: 3939 -1 [ -1 -1 -1 -1 ] 4998 4997 
+
+got the S1 jump, sline 758, ts 1595973158, mbox mt-000000001004
+
+got the S1 jump, sline 766, ts 1595973166, mbox mt-000000001004
+
+got the S1 jump, sline 779, ts 1595973179, mbox mt-000000001004
+
+got the S1 jump, sline 787, ts 1595973187, mbox mt-000000001004
+
+got the S1 jump, sline 810, ts 1595973210, mbox mt-000000001013
+
+got the S1 jump, sline 940, ts 1595973340, mbox mt-000000001004
+
+got the S1 jump, sline 941, ts 1595973341, mbox mt-000000001004
+
+got the S1 jump, sline 960, ts 1595973360, mbox mt-000000001004
+
+got the S1 jump, sline 961, ts 1595973361, mbox mt-000000001004
+
+got the S1 jump, sline 969, ts 1595973369, mbox mt-000000001004
+
+got the S1 jump, sline 1274, ts 1595973674, mbox mt-000000001004
+
+got the S1 jump, sline 1282, ts 1595973682, mbox mt-000000001004
+
+got the S1 jump, sline 1294, ts 1595973694, mbox mt-000000001004
+
+got the S1 jump, sline 1302, ts 1595973702, mbox mt-000000001004
+
+got the S1 jump, sline 1320, ts 1595973720, mbox mt-000000001004
+
+got the S1 jump, sline 1389, ts 1595973789, mbox mt-000000001004
+
+got the S1 jump, sline 1442, ts 1595973842, mbox mt-000000001014
+
+got the S1 jump, sline 1547, ts 1595973947, mbox mt-000000001004
+
+got the S1 jump, sline 1566, ts 1595973966, mbox mt-000000001004
+
+got the S1 jump, sline 1567, ts 1595973967, mbox mt-000000001004
+
+got the S1 jump, sline 1575, ts 1595973975, mbox mt-000000001004
+
+got the S1 jump, sline 1698, ts 1595974098, mbox mt-000000001004
+
+got the S1 jump, sline 1709, ts 1595974109, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 3937 3923 [ 13507 5100 4707 4741 ] 4780 4781 
+##DATA-LOSS### bt-000000001005-5 [0 0]: 14066 14122 [ 14178 -1 12670 12673 ] 12676 12679 
+
+got the S1 jump, sline 1718, ts 1595974118, mbox mt-000000001004
+
+got the S1 jump, sline 1726, ts 1595974126, mbox mt-000000001004
+
+got the S1 jump, sline 1845, ts 1595974245, mbox mt-000000001004
+
+got the S1 jump, sline 1846, ts 1595974246, mbox mt-000000001004
+
+got the S1 jump, sline 1898, ts 1595974298, mbox mt-000000001016
+
+got the S1 jump, sline 1901, ts 1595974301, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 5122 5133 [ 15121 5916 5867 5904 ] 5910 5910 
+##DATA-LOSS### bt-000000001005-5 [0 0]: 13072 13126 [ 13180 -1 13978 13976 ] 13974 13972 
+
+got the S1 jump, sline 2062, ts 1595974462, mbox mt-000000001004
+
+got the S1 jump, sline 2070, ts 1595974470, mbox mt-000000001004
+
+got the S1 jump, sline 2088, ts 1595974488, mbox mt-000000001004
+
+got the S1 jump, sline 2102, ts 1595974502, mbox mt-000000001004
+
+got the S1 jump, sline 2110, ts 1595974510, mbox mt-000000001004
+
+got the S1 jump, sline 2122, ts 1595974522, mbox mt-000000001004
+
+got the S1 jump, sline 2123, ts 1595974523, mbox mt-000000001004
+
+got the S1 jump, sline 2143, ts 1595974543, mbox mt-000000001004
+
+got the S1 jump, sline 2165, ts 1595974565, mbox mt-000000001004
+
+got the S1 jump, sline 2184, ts 1595974584, mbox mt-000000001004
+
+got the S1 jump, sline 2203, ts 1595974603, mbox mt-000000001004
+
+got the S1 jump, sline 2211, ts 1595974611, mbox mt-000000001004
+
+got the S1 jump, sline 2223, ts 1595974623, mbox mt-000000001004
+
+got the S1 jump, sline 2224, ts 1595974624, mbox mt-000000001004
+
+got the S1 jump, sline 2243, ts 1595974643, mbox mt-000000001004
+
+got the S1 jump, sline 2244, ts 1595974644, mbox mt-000000001004
+
+got the S1 jump, sline 2252, ts 1595974652, mbox mt-000000001004
+
+got the S1 jump, sline 2263, ts 1595974663, mbox mt-000000001004
+
+got the S1 jump, sline 2264, ts 1595974664, mbox mt-000000001004
+
+got the S1 jump, sline 2272, ts 1595974672, mbox mt-000000001004
+
+got the S1 jump, sline 2289, ts 1595974689, mbox mt-000000001004
+
+got the S1 jump, sline 2290, ts 1595974690, mbox mt-000000001004
+
+got the S1 jump, sline 2330, ts 1595974730, mbox mt-000000001018
+
+got the S1 jump, sline 2365, ts 1595974765, mbox mt-000000001004
+
+got the S1 jump, sline 2373, ts 1595974773, mbox mt-000000001004
+
+got the S1 jump, sline 2385, ts 1595974785, mbox mt-000000001004
+
+got the S1 jump, sline 2456, ts 1595974856, mbox mt-000000001004
+
+got the S1 jump, sline 2457, ts 1595974857, mbox mt-000000001004
+
+got the S1 jump, sline 2476, ts 1595974876, mbox mt-000000001004
+
+got the S1 jump, sline 2477, ts 1595974877, mbox mt-000000001004
+
+got the S1 jump, sline 2578, ts 1595974978, mbox mt-000000001004
+
+got the S1 jump, sline 2596, ts 1595974996, mbox mt-000000001004
+
+got the S1 jump, sline 2597, ts 1595974997, mbox mt-000000001004
+
+got the S1 jump, sline 2605, ts 1595975005, mbox mt-000000001004
+
+got the S1 jump, sline 2617, ts 1595975017, mbox mt-000000001004
+
+got the S1 jump, sline 2618, ts 1595975018, mbox mt-000000001004
+
+got the S1 jump, sline 2759, ts 1595975159, mbox mt-000000001004
+
+got the S1 jump, sline 2760, ts 1595975160, mbox mt-000000001004
+
+got the S1 jump, sline 2779, ts 1595975179, mbox mt-000000001004
+
+got the S1 jump, sline 2787, ts 1595975187, mbox mt-000000001004
+
+got the S1 jump, sline 2823, ts 1595975223, mbox mt-000000001004
+
+got the S1 jump, sline 2831, ts 1595975231, mbox mt-000000001004
+
+got the S1 jump, sline 2855, ts 1595975255, mbox mt-000000001004
+
+got the S1 jump, sline 2940, ts 1595975340, mbox mt-000000001004
+
+got the S1 jump, sline 2941, ts 1595975341, mbox mt-000000001004
+
+got the S1 jump, sline 2952, ts 1595975352, mbox mt-000000001012
+
+got the S1 jump, sline 2968, ts 1595975368, mbox mt-000000001004
+
+got the S1 jump, sline 3033, ts 1595975433, mbox mt-000000001014
+
+got the S1 jump, sline 3034, ts 1595975434, mbox mt-000000001014
+
+got the S1 jump, sline 3160, ts 1595975560, mbox mt-000000001004
+
+got the S1 jump, sline 3172, ts 1595975572, mbox mt-000000001004
+
+got the S1 jump, sline 3173, ts 1595975573, mbox mt-000000001004
+
+got the S1 jump, sline 3181, ts 1595975581, mbox mt-000000001004
+
+got the S1 jump, sline 3193, ts 1595975593, mbox mt-000000001004
+
+got the S1 jump, sline 3252, ts 1595975652, mbox mt-000000001017
+
+got the S1 jump, sline 3255, ts 1595975655, mbox mt-000000001017
+##PULSE-DOWN## mt-000000001017 [0 1]: 3407 3405 [ 11343 4317 4229 4178 ] 4168 4166 
+
+got the S1 jump, sline 3316, ts 1595975716, mbox mt-000000001013
+
+got the S1 jump, sline 3319, ts 1595975719, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 570 568 [ 9055 1398 1364 1347 ] 1337 1337 
+
+got the S1 jump, sline 3350, ts 1595975750, mbox mt-000000001004
+
+got the S1 jump, sline 3456, ts 1595975856, mbox mt-000000001004
+
+got the S1 jump, sline 3464, ts 1595975864, mbox mt-000000001004
+
+got the S1 jump, sline 3478, ts 1595975878, mbox mt-000000001004
+ltopo_alg_set_path, start at 'Wed Jul 29 06:40:00 CST 2020', end 1595979599
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595976000-1595979599
+
+got the S1 jump, sline 474, ts 1595976474, mbox mt-000000001016
+
+got the S1 jump, sline 477, ts 1595976477, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 3805 3829 [ 14994 4629 4600 4633 ] 4674 4678 
+##DATA-LOSS### bt-000000001005-5 [0 0]: 35264 35264 [ 35264 35264 -1 -1 ] -1 36053 
+
+got the S1 jump, sline 524, ts 1595976524, mbox mt-000000001012
+
+got the S1 jump, sline 536, ts 1595976536, mbox mt-000000001015
+
+got the S1 jump, sline 537, ts 1595976537, mbox mt-000000001015
+
+got the S1 jump, sline 551, ts 1595976551, mbox mt-000000001016
+
+got the S1 jump, sline 552, ts 1595976552, mbox mt-000000001016
+
+got the S1 jump, sline 684, ts 1595976684, mbox mt-000000001015
+
+got the S1 jump, sline 685, ts 1595976685, mbox mt-000000001015
+
+got the S1 jump, sline 800, ts 1595976800, mbox mt-000000001016
+
+got the S1 jump, sline 803, ts 1595976803, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 21046 21011 [ 29760 21903 21780 21817 ] 21654 21656 
+
+got the S1 jump, sline 866, ts 1595976866, mbox mt-000000001016
+
+got the S1 jump, sline 867, ts 1595976867, mbox mt-000000001016
+
+got the S1 jump, sline 997, ts 1595976997, mbox mt-000000001014
+
+got the S1 jump, sline 1127, ts 1595977127, mbox mt-000000001016
+
+got the S1 jump, sline 1135, ts 1595977135, mbox mt-000000001016
+
+got the S1 jump, sline 1136, ts 1595977136, mbox mt-000000001016
+
+got the S1 jump, sline 1137, ts 1595977137, mbox mt-000000001016
+
+got the S1 jump, sline 1150, ts 1595977150, mbox mt-000000001016
+
+got the S1 jump, sline 1161, ts 1595977161, mbox mt-000000001016
+
+got the S1 jump, sline 1162, ts 1595977162, mbox mt-000000001016
+
+got the S1 jump, sline 1163, ts 1595977163, mbox mt-000000001016
+
+got the S1 jump, sline 1164, ts 1595977164, mbox mt-000000001016
+
+got the S1 jump, sline 1165, ts 1595977165, mbox mt-000000001016
+
+got the S1 jump, sline 1189, ts 1595977189, mbox mt-000000001016
+
+got the S1 jump, sline 1190, ts 1595977190, mbox mt-000000001016
+
+got the S1 jump, sline 1251, ts 1595977251, mbox mt-000000001017
+
+got the S1 jump, sline 1252, ts 1595977252, mbox mt-000000001017
+
+got the S1 jump, sline 1320, ts 1595977320, mbox mt-000000001017
+
+got the S1 jump, sline 1321, ts 1595977321, mbox mt-000000001017
+
+got the S1 jump, sline 1335, ts 1595977335, mbox mt-000000001016
+
+got the S1 jump, sline 1336, ts 1595977336, mbox mt-000000001016
+
+got the S1 jump, sline 1337, ts 1595977337, mbox mt-000000001016
+
+got the S1 jump, sline 1338, ts 1595977338, mbox mt-000000001016
+
+got the S1 jump, sline 1339, ts 1595977339, mbox mt-000000001016
+
+got the S1 jump, sline 1340, ts 1595977340, mbox mt-000000001016
+
+got the S1 jump, sline 1341, ts 1595977341, mbox mt-000000001016
+
+got the S1 jump, sline 1342, ts 1595977342, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 50685 52253 [ 52687 47260 7405 4663 ] 4698 4674 
+
+got the S1 jump, sline 1411, ts 1595977411, mbox mt-000000001015
+
+got the S1 jump, sline 1552, ts 1595977552, mbox mt-000000001015
+
+got the S1 jump, sline 1553, ts 1595977553, mbox mt-000000001015
+
+got the S1 jump, sline 1554, ts 1595977554, mbox mt-000000001015
+
+got the S1 jump, sline 1724, ts 1595977724, mbox mt-000000001018
+
+got the S1 jump, sline 1727, ts 1595977727, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 1339 1343 [ 8219 2249 2122 2134 ] 2150 2150 
+##DATA-LOSS### bt-000000001020-4 [0 0]: 4511 4517 [ -1 2128 2128 2128 ] 2128 2128 
+
+got the S1 jump, sline 1934, ts 1595977934, mbox mt-000000001017
+
+got the S1 jump, sline 1935, ts 1595977935, mbox mt-000000001017
+
+got the S1 jump, sline 1977, ts 1595977977, mbox mt-000000001004
+
+got the S1 jump, sline 2195, ts 1595978195, mbox mt-000000001013
+
+got the S1 jump, sline 2198, ts 1595978198, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 572 570 [ 9583 1906 1359 1339 ] 1335 1335 
+##DATA-LOSS### bt-000000001003-5 [0 0]: 2266 2268 [ -1 1406 1406 1406 ] 1406 1406 
+
+got the S1 jump, sline 2223, ts 1595978223, mbox mt-000000001017
+
+got the S1 jump, sline 2226, ts 1595978226, mbox mt-000000001017
+##PULSE-DOWN## mt-000000001017 [0 1]: 17571 17571 [ 25150 18384 18352 18441 ] 18423 18421 
+
+got the S1 jump, sline 2567, ts 1595978567, mbox mt-000000001014
+
+got the S1 jump, sline 2966, ts 1595978966, mbox mt-000000001010
+
+got the S1 jump, sline 3143, ts 1595979143, mbox mt-000000001016
+
+got the S1 jump, sline 3144, ts 1595979144, mbox mt-000000001016
+
+got the S1 jump, sline 3145, ts 1595979145, mbox mt-000000001016
+
+got the S1 jump, sline 3178, ts 1595979178, mbox mt-000000001016
+
+got the S1 jump, sline 3305, ts 1595979305, mbox mt-000000001016
+
+got the S1 jump, sline 3308, ts 1595979308, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 19068 19771 [ 29070 19814 19847 19843 ] 19824 19821 
+
+got the S1 jump, sline 3344, ts 1595979344, mbox mt-000000001016
+
+got the S1 jump, sline 3431, ts 1595979431, mbox mt-000000001004
+
+got the S1 jump, sline 3434, ts 1595979434, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 3011 3017 [ 13401 4011 4355 4409 ] 4449 4447 
+##DATA-LOSS### bt-000000001020-5 [0 0]: 4644 4653 [ -1 4288 4287 4286 ] 4285 4284 
+
+got the S1 jump, sline 3442, ts 1595979442, mbox mt-000000001013
+
+got the S1 jump, sline 3445, ts 1595979445, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 558 560 [ 11358 5934 1364 1339 ] 1327 1327 
+##DATA-LOSS### bt-000000001005-3 [0 0]: 11403 11428 [ 11453 -1 9018 8991 ] 8964 8937 
+
+got the S1 jump, sline 3522, ts 1595979522, mbox mt-000000001016
+
+got the S1 jump, sline 3523, ts 1595979523, mbox mt-000000001016
+ltopo_alg_set_path, start at 'Wed Jul 29 07:40:00 CST 2020', end 1595983199
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595979600-1595983199
+
+got the S1 jump, sline 56, ts 1595979656, mbox mt-000000001016
+
+got the S1 jump, sline 57, ts 1595979657, mbox mt-000000001016
+
+got the S1 jump, sline 60, ts 1595979660, mbox mt-000000001016
+
+got the S1 jump, sline 61, ts 1595979661, mbox mt-000000001016
+
+got the S1 jump, sline 62, ts 1595979662, mbox mt-000000001016
+
+got the S1 jump, sline 80, ts 1595979680, mbox mt-000000001016
+
+got the S1 jump, sline 81, ts 1595979681, mbox mt-000000001016
+
+got the S1 jump, sline 82, ts 1595979682, mbox mt-000000001016
+
+got the S1 jump, sline 83, ts 1595979683, mbox mt-000000001016
+
+got the S1 jump, sline 84, ts 1595979684, mbox mt-000000001016
+
+got the S1 jump, sline 85, ts 1595979685, mbox mt-000000001016
+
+got the S1 jump, sline 88, ts 1595979688, mbox mt-000000001016
+
+got the S1 jump, sline 89, ts 1595979689, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 68160 72079 [ 71112 70155 9045 7790 ] 7809 7811 
+
+got the S1 jump, sline 118, ts 1595979718, mbox mt-000000001010
+
+got the S1 jump, sline 119, ts 1595979719, mbox mt-000000001010
+
+got the S1 jump, sline 231, ts 1595979831, mbox mt-000000001016
+
+got the S1 jump, sline 232, ts 1595979832, mbox mt-000000001016
+
+got the S1 jump, sline 233, ts 1595979833, mbox mt-000000001016
+
+got the S1 jump, sline 236, ts 1595979836, mbox mt-000000001016
+
+got the S1 jump, sline 239, ts 1595979839, mbox mt-000000001016
+
+got the S1 jump, sline 248, ts 1595979848, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 42444 45604 [ 42479 7503 7225 7211 ] 7209 7201 
+
+got the S1 jump, sline 270, ts 1595979870, mbox mt-000000001016
+
+got the S1 jump, sline 271, ts 1595979871, mbox mt-000000001016
+
+got the S1 jump, sline 274, ts 1595979874, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 7154 13163 [ 64673 60104 58417 65401 ] 65374 65026 
+
+got the S1 jump, sline 283, ts 1595979883, mbox mt-000000001016
+
+got the S1 jump, sline 296, ts 1595979896, mbox mt-000000001016
+
+got the S1 jump, sline 526, ts 1595980126, mbox mt-000000001014
+
+got the S1 jump, sline 556, ts 1595980156, mbox mt-000000001016
+
+got the S1 jump, sline 557, ts 1595980157, mbox mt-000000001016
+
+got the S1 jump, sline 644, ts 1595980244, mbox mt-000000001016
+
+got the S1 jump, sline 645, ts 1595980245, mbox mt-000000001016
+
+got the S1 jump, sline 721, ts 1595980321, mbox mt-000000001002
+
+got the S1 jump, sline 722, ts 1595980322, mbox mt-000000001002
+
+got the S1 jump, sline 723, ts 1595980323, mbox mt-000000001002
+
+got the S1 jump, sline 727, ts 1595980327, mbox mt-000000001002
+
+got the S1 jump, sline 728, ts 1595980328, mbox mt-000000001002
+
+got the S1 jump, sline 729, ts 1595980329, mbox mt-000000001002
+
+got the S1 jump, sline 730, ts 1595980330, mbox mt-000000001002
+
+got the S1 jump, sline 731, ts 1595980331, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 14698 16502 [ 7262 6303 7156 13146 ] 12820 16740 
+
+got the S1 jump, sline 739, ts 1595980339, mbox mt-000000001002
+
+got the S1 jump, sline 740, ts 1595980340, mbox mt-000000001002
+
+got the S1 jump, sline 743, ts 1595980343, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 6320 10222 [ 14232 8121 12718 12990 ] 13383 6350 
+
+got the S1 jump, sline 753, ts 1595980353, mbox mt-000000001002
+
+got the S1 jump, sline 756, ts 1595980356, mbox mt-000000001002
+
+got the S1 jump, sline 758, ts 1595980358, mbox mt-000000001002
+
+got the S1 jump, sline 759, ts 1595980359, mbox mt-000000001002
+
+got the S1 jump, sline 760, ts 1595980360, mbox mt-000000001002
+
+got the S1 jump, sline 761, ts 1595980361, mbox mt-000000001002
+
+got the S1 jump, sline 763, ts 1595980363, mbox mt-000000001002
+
+got the S1 jump, sline 765, ts 1595980365, mbox mt-000000001002
+
+got the S1 jump, sline 766, ts 1595980366, mbox mt-000000001002
+
+got the S1 jump, sline 769, ts 1595980369, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 13840 17417 [ 18795 17630 16826 8206 ] 8553 13110 
+
+got the S1 jump, sline 845, ts 1595980445, mbox mt-000000001004
+
+got the S1 jump, sline 928, ts 1595980528, mbox mt-000000001004
+
+got the S1 jump, sline 1086, ts 1595980686, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 2948 2952 [ 11655 4103 4111 4164 ] 4263 4260 
+
+got the S1 jump, sline 1110, ts 1595980710, mbox mt-000000001013
+
+got the S1 jump, sline 1113, ts 1595980713, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 562 558 [ 10848 1427 1357 1357 ] 1333 1332 
+
+got the S1 jump, sline 1141, ts 1595980741, mbox mt-000000001018
+
+got the S1 jump, sline 1144, ts 1595980744, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 1329 1325 [ 10060 2179 2095 2112 ] 2130 2127 
+
+got the S1 jump, sline 1272, ts 1595980872, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 4727 4727 [ 4694 4692 4690 12149 ] 11890 10530 
+
+got the S1 jump, sline 1290, ts 1595980890, mbox mt-000000001002
+
+got the S1 jump, sline 1291, ts 1595980891, mbox mt-000000001002
+
+got the S1 jump, sline 1294, ts 1595980894, mbox mt-000000001002
+
+got the S1 jump, sline 1298, ts 1595980898, mbox mt-000000001002
+
+got the S1 jump, sline 1301, ts 1595980901, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 4798 7377 [ 9957 4704 4711 4704 ] 4707 4682 
+
+got the S1 jump, sline 1314, ts 1595980914, mbox mt-000000001002
+
+got the S1 jump, sline 1315, ts 1595980915, mbox mt-000000001002
+
+got the S1 jump, sline 1325, ts 1595980925, mbox mt-000000001002
+
+got the S1 jump, sline 1423, ts 1595981023, mbox mt-000000001002
+
+got the S1 jump, sline 1449, ts 1595981049, mbox mt-000000001002
+
+got the S1 jump, sline 1534, ts 1595981134, mbox mt-000000001002
+
+got the S1 jump, sline 1537, ts 1595981137, mbox mt-000000001002
+
+got the S1 jump, sline 1541, ts 1595981141, mbox mt-000000001002
+
+got the S1 jump, sline 1542, ts 1595981142, mbox mt-000000001002
+
+got the S1 jump, sline 1546, ts 1595981146, mbox mt-000000001002
+
+got the S1 jump, sline 1547, ts 1595981147, mbox mt-000000001002
+
+got the S1 jump, sline 1557, ts 1595981157, mbox mt-000000001002
+
+got the S1 jump, sline 1591, ts 1595981191, mbox mt-000000001002
+
+got the S1 jump, sline 1592, ts 1595981192, mbox mt-000000001002
+
+got the S1 jump, sline 1595, ts 1595981195, mbox mt-000000001002
+
+got the S1 jump, sline 1630, ts 1595981230, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 4819 4848 [ 4877 6122 11390 10185 ] 10301 10305 
+
+got the S1 jump, sline 1638, ts 1595981238, mbox mt-000000001002
+
+got the S1 jump, sline 1650, ts 1595981250, mbox mt-000000001016
+
+got the S1 jump, sline 1651, ts 1595981251, mbox mt-000000001016
+
+got the S1 jump, sline 1652, ts 1595981252, mbox mt-000000001016
+
+got the S1 jump, sline 1653, ts 1595981253, mbox mt-000000001016
+
+got the S1 jump, sline 1654, ts 1595981254, mbox mt-000000001016
+
+got the S1 jump, sline 1691, ts 1595981291, mbox mt-000000001016
+
+got the S1 jump, sline 1694, ts 1595981294, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 7429 11509 [ 46152 42528 10491 7376 ] 7370 7405 
+
+got the S1 jump, sline 1711, ts 1595981311, mbox mt-000000001002
+
+got the S1 jump, sline 1712, ts 1595981312, mbox mt-000000001002
+
+got the S1 jump, sline 1713, ts 1595981313, mbox mt-000000001002
+
+got the S1 jump, sline 1714, ts 1595981314, mbox mt-000000001002
+
+got the S1 jump, sline 1715, ts 1595981315, mbox mt-000000001002
+
+got the S1 jump, sline 1716, ts 1595981316, mbox mt-000000001002
+
+got the S1 jump, sline 1718, ts 1595981318, mbox mt-000000001002
+
+got the S1 jump, sline 1719, ts 1595981319, mbox mt-000000001002
+
+got the S1 jump, sline 1722, ts 1595981322, mbox mt-000000001002
+
+got the S1 jump, sline 1779, ts 1595981379, mbox mt-000000001016
+
+got the S1 jump, sline 1780, ts 1595981380, mbox mt-000000001016
+
+got the S1 jump, sline 1781, ts 1595981381, mbox mt-000000001016
+
+got the S1 jump, sline 1782, ts 1595981382, mbox mt-000000001016
+
+got the S1 jump, sline 1783, ts 1595981383, mbox mt-000000001016
+
+got the S1 jump, sline 1784, ts 1595981384, mbox mt-000000001016
+
+got the S1 jump, sline 1786, ts 1595981386, mbox mt-000000001016
+
+got the S1 jump, sline 1787, ts 1595981387, mbox mt-000000001016
+
+got the S1 jump, sline 1788, ts 1595981388, mbox mt-000000001016
+
+got the S1 jump, sline 1789, ts 1595981389, mbox mt-000000001016
+
+got the S1 jump, sline 1792, ts 1595981392, mbox mt-000000001016
+
+got the S1 jump, sline 1800, ts 1595981400, mbox mt-000000001015
+
+got the S1 jump, sline 1803, ts 1595981403, mbox mt-000000001015
+
+got the S1 jump, sline 1817, ts 1595981417, mbox mt-000000001002
+
+got the S1 jump, sline 1818, ts 1595981418, mbox mt-000000001002
+
+got the S1 jump, sline 1821, ts 1595981421, mbox mt-000000001002
+
+got the S1 jump, sline 1845, ts 1595981445, mbox mt-000000001004
+
+got the S1 jump, sline 1856, ts 1595981456, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 5277 17401 [ 24302 20375 18511 15174 ] 15288 15953 
+##DATA-LOSS### bt-000000001003-3 [0 0]: 5700 23423 [ 19965 19065 18166 15392 ] -1 16630 
+##DATA-LOSS### bt-000000001005-3 [0 0]: 8240 15182 [ 25309 22697 22697 20684 ] -1 18223 
+
+got the S1 jump, sline 1864, ts 1595981464, mbox mt-000000001015
+
+got the S1 jump, sline 1872, ts 1595981472, mbox mt-000000001015
+
+got the S1 jump, sline 1873, ts 1595981473, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 5585 5239 [ 5241 13821 29772 27781 ] 27830 27722 
+
+got the S1 jump, sline 1971, ts 1595981571, mbox mt-000000001002
+
+got the S1 jump, sline 1972, ts 1595981572, mbox mt-000000001002
+
+got the S1 jump, sline 1973, ts 1595981573, mbox mt-000000001002
+
+got the S1 jump, sline 1983, ts 1595981583, mbox mt-000000001002
+
+got the S1 jump, sline 1991, ts 1595981591, mbox mt-000000001002
+
+got the S1 jump, sline 1992, ts 1595981592, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 4380 12169 [ 10210 10026 5261 4808 ] 4780 4786 
+
+got the S1 jump, sline 2024, ts 1595981624, mbox mt-000000001002
+
+got the S1 jump, sline 2027, ts 1595981627, mbox mt-000000001002
+
+got the S1 jump, sline 2028, ts 1595981628, mbox mt-000000001002
+
+got the S1 jump, sline 2029, ts 1595981629, mbox mt-000000001002
+
+got the S1 jump, sline 2046, ts 1595981646, mbox mt-000000001002
+
+got the S1 jump, sline 2047, ts 1595981647, mbox mt-000000001002
+
+got the S1 jump, sline 2049, ts 1595981649, mbox mt-000000001002
+
+got the S1 jump, sline 2050, ts 1595981650, mbox mt-000000001002
+
+got the S1 jump, sline 2051, ts 1595981651, mbox mt-000000001002
+
+got the S1 jump, sline 2052, ts 1595981652, mbox mt-000000001002
+
+got the S1 jump, sline 2094, ts 1595981694, mbox mt-000000001014
+##PULSE-DOWN## mt-000000001014 [0 1]: 1548 1532 [ 1512 1514 1510 8794 ] 9193 7578 
+
+got the S1 jump, sline 2132, ts 1595981732, mbox mt-000000001014
+
+got the S1 jump, sline 2191, ts 1595981791, mbox mt-000000001014
+##PULSE-DOWN## mt-000000001014 [0 1]: -1 8778 [ 8451 9499 8822 2867 ] 2916 2981 
+##DATA-LOSS### bt-000000001005-3 [0 0]: -1 -1 [ 15349 16095 12498 9560 ] 9520 9640 
+
+got the S1 jump, sline 2233, ts 1595981833, mbox mt-000000001002
+
+got the S1 jump, sline 2234, ts 1595981834, mbox mt-000000001002
+
+got the S1 jump, sline 2243, ts 1595981843, mbox mt-000000001002
+
+got the S1 jump, sline 2267, ts 1595981867, mbox mt-000000001002
+
+got the S1 jump, sline 2268, ts 1595981868, mbox mt-000000001002
+
+got the S1 jump, sline 2269, ts 1595981869, mbox mt-000000001002
+
+got the S1 jump, sline 2277, ts 1595981877, mbox mt-000000001002
+
+got the S1 jump, sline 2278, ts 1595981878, mbox mt-000000001002
+
+got the S1 jump, sline 2279, ts 1595981879, mbox mt-000000001002
+
+got the S1 jump, sline 2281, ts 1595981881, mbox mt-000000001002
+
+got the S1 jump, sline 2282, ts 1595981882, mbox mt-000000001002
+
+got the S1 jump, sline 2283, ts 1595981883, mbox mt-000000001002
+
+got the S1 jump, sline 2288, ts 1595981888, mbox mt-000000001002
+
+got the S1 jump, sline 2289, ts 1595981889, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 7268 10452 [ 10644 10577 5055 4345 ] 4339 4345 
+
+got the S1 jump, sline 2361, ts 1595981961, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 9359 54297 [ 58858 9555 7788 7811 ] 7809 7846 
+
+got the S1 jump, sline 2408, ts 1595982008, mbox mt-000000001002
+
+got the S1 jump, sline 2411, ts 1595982011, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 4356 4351 [ 13999 5906 5869 5865 ] 5859 5868 
+
+got the S1 jump, sline 2443, ts 1595982043, mbox mt-000000001002
+
+got the S1 jump, sline 2444, ts 1595982044, mbox mt-000000001002
+
+got the S1 jump, sline 2456, ts 1595982056, mbox mt-000000001002
+
+got the S1 jump, sline 2457, ts 1595982057, mbox mt-000000001002
+
+got the S1 jump, sline 2469, ts 1595982069, mbox mt-000000001002
+
+got the S1 jump, sline 2473, ts 1595982073, mbox mt-000000001002
+
+got the S1 jump, sline 2474, ts 1595982074, mbox mt-000000001002
+
+got the S1 jump, sline 2475, ts 1595982075, mbox mt-000000001002
+
+got the S1 jump, sline 2489, ts 1595982089, mbox mt-000000001016
+
+got the S1 jump, sline 2490, ts 1595982090, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 62847 74336 [ 75024 70924 65721 61311 ] 61107 61107 
+
+got the S1 jump, sline 2502, ts 1595982102, mbox mt-000000001016
+
+got the S1 jump, sline 2503, ts 1595982103, mbox mt-000000001016
+
+got the S1 jump, sline 2586, ts 1595982186, mbox mt-000000001015
+
+got the S1 jump, sline 2587, ts 1595982187, mbox mt-000000001015
+
+got the S1 jump, sline 2658, ts 1595982258, mbox mt-000000001002
+
+got the S1 jump, sline 2681, ts 1595982281, mbox mt-000000001002
+
+got the S1 jump, sline 2867, ts 1595982467, mbox mt-000000001017
+
+got the S1 jump, sline 2989, ts 1595982589, mbox mt-000000001017
+
+got the S1 jump, sline 2990, ts 1595982590, mbox mt-000000001017
+
+got the S1 jump, sline 3127, ts 1595982727, mbox mt-000000001017
+
+got the S1 jump, sline 3128, ts 1595982728, mbox mt-000000001017
+
+got the S1 jump, sline 3370, ts 1595982970, mbox mt-000000001004
+
+got the S1 jump, sline 3475, ts 1595983075, mbox mt-000000001004
+
+got the S1 jump, sline 3476, ts 1595983076, mbox mt-000000001004
+
+got the S1 jump, sline 3509, ts 1595983109, mbox mt-000000001010
+
+got the S1 jump, sline 3510, ts 1595983110, mbox mt-000000001010
+
+got the S1 jump, sline 3511, ts 1595983111, mbox mt-000000001010
+
+got the S1 jump, sline 3512, ts 1595983112, mbox mt-000000001010
+
+got the S1 jump, sline 3513, ts 1595983113, mbox mt-000000001010
+ltopo_alg_set_path, start at 'Wed Jul 29 08:40:00 CST 2020', end 1595986799
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595983200-1595986799
+
+got the S1 jump, sline 30, ts 1595983230, mbox mt-000000001004
+
+got the S1 jump, sline 33, ts 1595983233, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 2818 2820 [ 13189 4257 3805 3907 ] 3955 3954 
+
+got the S1 jump, sline 61, ts 1595983261, mbox mt-000000001013
+
+got the S1 jump, sline 64, ts 1595983264, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 555 553 [ 9073 1382 1347 1337 ] 1316 1316 
+
+got the S1 jump, sline 211, ts 1595983411, mbox mt-000000001016
+
+got the S1 jump, sline 212, ts 1595983412, mbox mt-000000001016
+
+got the S1 jump, sline 213, ts 1595983413, mbox mt-000000001016
+
+got the S1 jump, sline 214, ts 1595983414, mbox mt-000000001016
+
+got the S1 jump, sline 215, ts 1595983415, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 6546 13218 [ 39199 56816 63141 63592 ] 63732 62645 
+
+got the S1 jump, sline 240, ts 1595983440, mbox mt-000000001016
+
+got the S1 jump, sline 248, ts 1595983448, mbox mt-000000001016
+
+got the S1 jump, sline 249, ts 1595983449, mbox mt-000000001016
+
+got the S1 jump, sline 250, ts 1595983450, mbox mt-000000001016
+
+got the S1 jump, sline 253, ts 1595983453, mbox mt-000000001016
+
+got the S1 jump, sline 262, ts 1595983462, mbox mt-000000001016
+
+got the S1 jump, sline 276, ts 1595983476, mbox mt-000000001016
+
+got the S1 jump, sline 301, ts 1595983501, mbox mt-000000001010
+
+got the S1 jump, sline 358, ts 1595983558, mbox mt-000000001016
+
+got the S1 jump, sline 359, ts 1595983559, mbox mt-000000001016
+
+got the S1 jump, sline 360, ts 1595983560, mbox mt-000000001016
+
+got the S1 jump, sline 361, ts 1595983561, mbox mt-000000001016
+
+got the S1 jump, sline 478, ts 1595983678, mbox mt-000000001014
+
+got the S1 jump, sline 480, ts 1595983680, mbox mt-000000001014
+##PULSE-DOWN## mt-000000001014 [0 1]: 2306 7725 [ 8357 7719 4523 2771 ] 2726 2716 
+##DATA-LOSS### bt-000000001005-3 [0 0]: 6956 13683 [ 11881 10716 7184 6976 ] -1 -1 
+
+got the S1 jump, sline 562, ts 1595983762, mbox mt-000000001002
+
+got the S1 jump, sline 565, ts 1595983765, mbox mt-000000001002
+
+got the S1 jump, sline 693, ts 1595983893, mbox mt-000000001011
+
+got the S1 jump, sline 694, ts 1595983894, mbox mt-000000001011
+
+got the S1 jump, sline 706, ts 1595983906, mbox mt-000000001011
+
+got the S1 jump, sline 775, ts 1595983975, mbox mt-000000001018
+
+got the S1 jump, sline 784, ts 1595983984, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 2383 2387 [ 32072 17611 17012 16946 ] 16926 -1 
+
+got the S1 jump, sline 793, ts 1595983993, mbox mt-000000001018
+
+got the S1 jump, sline 928, ts 1595984128, mbox mt-000000001015
+
+got the S1 jump, sline 954, ts 1595984154, mbox mt-000000001004
+
+got the S1 jump, sline 967, ts 1595984167, mbox mt-000000001004
+
+got the S1 jump, sline 968, ts 1595984168, mbox mt-000000001004
+
+got the S1 jump, sline 970, ts 1595984170, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 3672 3682 [ 14562 15439 8975 3795 ] 3684 3619 
+
+got the S1 jump, sline 1014, ts 1595984214, mbox mt-000000001016
+
+got the S1 jump, sline 1015, ts 1595984215, mbox mt-000000001016
+
+got the S1 jump, sline 1016, ts 1595984216, mbox mt-000000001016
+
+got the S1 jump, sline 1017, ts 1595984217, mbox mt-000000001016
+
+got the S1 jump, sline 1018, ts 1595984218, mbox mt-000000001016
+
+got the S1 jump, sline 1033, ts 1595984233, mbox mt-000000001016
+
+got the S1 jump, sline 1034, ts 1595984234, mbox mt-000000001016
+
+got the S1 jump, sline 1035, ts 1595984235, mbox mt-000000001016
+
+got the S1 jump, sline 1036, ts 1595984236, mbox mt-000000001016
+
+got the S1 jump, sline 1037, ts 1595984237, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 38059 70681 [ 83627 84096 84902 90999 ] 90835 89479 
+
+got the S1 jump, sline 1127, ts 1595984327, mbox mt-000000001016
+
+got the S1 jump, sline 1130, ts 1595984330, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 38065 37955 [ 47941 40498 38809 38751 ] 38710 38717 
+
+got the S1 jump, sline 1163, ts 1595984363, mbox mt-000000001016
+
+got the S1 jump, sline 1164, ts 1595984364, mbox mt-000000001016
+
+got the S1 jump, sline 1165, ts 1595984365, mbox mt-000000001016
+
+got the S1 jump, sline 1175, ts 1595984375, mbox mt-000000001016
+
+got the S1 jump, sline 1246, ts 1595984446, mbox mt-000000001004
+
+got the S1 jump, sline 1247, ts 1595984447, mbox mt-000000001004
+
+got the S1 jump, sline 1286, ts 1595984486, mbox mt-000000001011
+
+got the S1 jump, sline 1309, ts 1595984509, mbox mt-000000001004
+
+got the S1 jump, sline 1312, ts 1595984512, mbox mt-000000001004
+
+got the S1 jump, sline 1488, ts 1595984688, mbox mt-000000001004
+
+got the S1 jump, sline 1489, ts 1595984689, mbox mt-000000001004
+
+got the S1 jump, sline 1500, ts 1595984700, mbox mt-000000001011
+
+got the S1 jump, sline 1501, ts 1595984701, mbox mt-000000001011
+
+got the S1 jump, sline 1502, ts 1595984702, mbox mt-000000001011
+
+got the S1 jump, sline 1675, ts 1595984875, mbox mt-000000001014
+
+got the S1 jump, sline 1724, ts 1595984924, mbox mt-000000001004
+
+got the S1 jump, sline 1743, ts 1595984943, mbox mt-000000001004
+
+got the S1 jump, sline 1746, ts 1595984946, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 4478 4482 [ 10497 4565 4496 4492 ] 4492 4492 
+
+got the S1 jump, sline 1776, ts 1595984976, mbox mt-000000001011
+
+got the S1 jump, sline 1779, ts 1595984979, mbox mt-000000001011
+##PULSE-DOWN## mt-000000001011 [0 1]: 61750 64359 [ 80770 74265 74143 74200 ] 74188 74351 
+
+got the S1 jump, sline 1944, ts 1595985144, mbox mt-000000001011
+
+got the S1 jump, sline 2001, ts 1595985201, mbox mt-000000001011
+
+got the S1 jump, sline 2002, ts 1595985202, mbox mt-000000001011
+
+got the S1 jump, sline 2109, ts 1595985309, mbox mt-000000001004
+
+got the S1 jump, sline 2152, ts 1595985352, mbox mt-000000001016
+
+got the S1 jump, sline 2155, ts 1595985355, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 4270 4266 [ 15099 6052 6065 6083 ] 6140 6110 
+
+got the S1 jump, sline 2164, ts 1595985364, mbox mt-000000001011
+
+got the S1 jump, sline 2165, ts 1595985365, mbox mt-000000001011
+
+got the S1 jump, sline 2192, ts 1595985392, mbox mt-000000001004
+
+got the S1 jump, sline 2306, ts 1595985506, mbox mt-000000001002
+
+got the S1 jump, sline 2309, ts 1595985509, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 4327 4327 [ 15158 5934 5875 5857 ] 5889 5892 
+
+got the S1 jump, sline 2373, ts 1595985573, mbox mt-000000001016
+
+got the S1 jump, sline 2376, ts 1595985576, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 5325 5327 [ 13479 9820 6191 6091 ] 6103 6082 
+
+got the S1 jump, sline 2384, ts 1595985584, mbox mt-000000001014
+
+got the S1 jump, sline 2430, ts 1595985630, mbox mt-000000001014
+
+got the S1 jump, sline 2439, ts 1595985639, mbox mt-000000001014
+
+got the S1 jump, sline 2440, ts 1595985640, mbox mt-000000001014
+
+got the S1 jump, sline 2456, ts 1595985656, mbox mt-000000001004
+
+got the S1 jump, sline 2483, ts 1595985683, mbox mt-000000001014
+
+got the S1 jump, sline 2571, ts 1595985771, mbox mt-000000001013
+
+got the S1 jump, sline 2574, ts 1595985774, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 555 558 [ 8417 2199 1349 1329 ] 1316 1316 
+
+got the S1 jump, sline 2594, ts 1595985794, mbox mt-000000001011
+
+got the S1 jump, sline 2602, ts 1595985802, mbox mt-000000001011
+
+got the S1 jump, sline 2603, ts 1595985803, mbox mt-000000001011
+
+got the S1 jump, sline 2604, ts 1595985804, mbox mt-000000001011
+
+got the S1 jump, sline 2617, ts 1595985817, mbox mt-000000001004
+
+got the S1 jump, sline 2620, ts 1595985820, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 5469 5434 [ 13206 6528 6477 6552 ] 6593 6592 
+
+got the S1 jump, sline 2666, ts 1595985866, mbox mt-000000001004
+
+got the S1 jump, sline 2667, ts 1595985867, mbox mt-000000001004
+
+got the S1 jump, sline 2677, ts 1595985877, mbox mt-000000001011
+
+got the S1 jump, sline 2754, ts 1595985954, mbox mt-000000001011
+
+got the S1 jump, sline 2755, ts 1595985955, mbox mt-000000001011
+
+got the S1 jump, sline 2756, ts 1595985956, mbox mt-000000001011
+
+got the S1 jump, sline 2928, ts 1595986128, mbox mt-000000001004
+
+got the S1 jump, sline 2929, ts 1595986129, mbox mt-000000001004
+
+got the S1 jump, sline 2966, ts 1595986166, mbox mt-000000001011
+
+got the S1 jump, sline 2969, ts 1595986169, mbox mt-000000001011
+##PULSE-DOWN## mt-000000001011 [0 1]: 64785 64781 [ 82619 76962 76870 76857 ] 76835 76835 
+
+got the S1 jump, sline 3173, ts 1595986373, mbox mt-000000001004
+
+got the S1 jump, sline 3174, ts 1595986374, mbox mt-000000001004
+
+got the S1 jump, sline 3224, ts 1595986424, mbox mt-000000001014
+
+got the S1 jump, sline 3271, ts 1595986471, mbox mt-000000001017
+
+got the S1 jump, sline 3424, ts 1595986624, mbox mt-000000001011
+
+got the S1 jump, sline 3425, ts 1595986625, mbox mt-000000001011
+
+got the S1 jump, sline 3443, ts 1595986643, mbox mt-000000001004
+
+got the S1 jump, sline 3467, ts 1595986667, mbox mt-000000001011
+
+got the S1 jump, sline 3468, ts 1595986668, mbox mt-000000001011
+
+got the S1 jump, sline 3474, ts 1595986674, mbox mt-000000001011
+
+got the S1 jump, sline 3492, ts 1595986692, mbox mt-000000001011
+
+got the S1 jump, sline 3493, ts 1595986693, mbox mt-000000001011
+
+got the S1 jump, sline 3496, ts 1595986696, mbox mt-000000001011
+##PULSE-DOWN## mt-000000001011 [0 1]: 65040 70951 [ 73564 65093 65077 65125 ] 65105 65101 
+
+got the S1 jump, sline 3518, ts 1595986718, mbox mt-000000001011
+
+got the S1 jump, sline 3519, ts 1595986719, mbox mt-000000001011
+##PULSE-DOWN## mt-000000001011 [0 1]: 65037 65024 [ 65745 65020 78018 76876 ] 76629 76574 
+
+got the S1 jump, sline 3529, ts 1595986729, mbox mt-000000001017
+
+got the S1 jump, sline 3561, ts 1595986761, mbox mt-000000001017
+
+got the S1 jump, sline 3570, ts 1595986770, mbox mt-000000001017
+
+got the S1 jump, sline 3589, ts 1595986789, mbox mt-000000001017
+ltopo_alg_set_path, start at 'Wed Jul 29 09:40:00 CST 2020', end 1595990399
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595986800-1595990399
+
+got the S1 jump, sline 0, ts 1595986800, mbox mt-000000001017
+
+got the S1 jump, sline 44, ts 1595986844, mbox mt-000000001018
+
+got the S1 jump, sline 45, ts 1595986845, mbox mt-000000001018
+
+got the S1 jump, sline 46, ts 1595986846, mbox mt-000000001018
+
+got the S1 jump, sline 64, ts 1595986864, mbox mt-000000001017
+
+got the S1 jump, sline 75, ts 1595986875, mbox mt-000000001017
+
+got the S1 jump, sline 88, ts 1595986888, mbox mt-000000001017
+
+got the S1 jump, sline 97, ts 1595986897, mbox mt-000000001004
+
+got the S1 jump, sline 113, ts 1595986913, mbox mt-000000001017
+
+got the S1 jump, sline 121, ts 1595986921, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 5702 15343 [ 16550 4916 4770 4837 ] 4879 4914 
+
+got the S1 jump, sline 137, ts 1595986937, mbox mt-000000001017
+
+got the S1 jump, sline 151, ts 1595986951, mbox mt-000000001017
+
+got the S1 jump, sline 162, ts 1595986962, mbox mt-000000001017
+
+got the S1 jump, sline 202, ts 1595987002, mbox mt-000000001017
+
+got the S1 jump, sline 212, ts 1595987012, mbox mt-000000001017
+
+got the S1 jump, sline 213, ts 1595987013, mbox mt-000000001017
+
+got the S1 jump, sline 237, ts 1595987037, mbox mt-000000001017
+
+got the S1 jump, sline 238, ts 1595987038, mbox mt-000000001017
+
+got the S1 jump, sline 252, ts 1595987052, mbox mt-000000001017
+
+got the S1 jump, sline 253, ts 1595987053, mbox mt-000000001017
+
+got the S1 jump, sline 269, ts 1595987069, mbox mt-000000001011
+
+got the S1 jump, sline 278, ts 1595987078, mbox mt-000000001017
+
+got the S1 jump, sline 279, ts 1595987079, mbox mt-000000001017
+
+got the S1 jump, sline 289, ts 1595987089, mbox mt-000000001017
+
+got the S1 jump, sline 303, ts 1595987103, mbox mt-000000001017
+
+got the S1 jump, sline 304, ts 1595987104, mbox mt-000000001017
+
+got the S1 jump, sline 313, ts 1595987113, mbox mt-000000001017
+
+got the S1 jump, sline 324, ts 1595987124, mbox mt-000000001011
+
+got the S1 jump, sline 335, ts 1595987135, mbox mt-000000001011
+
+got the S1 jump, sline 336, ts 1595987136, mbox mt-000000001011
+
+got the S1 jump, sline 386, ts 1595987186, mbox mt-000000001004
+
+got the S1 jump, sline 387, ts 1595987187, mbox mt-000000001004
+
+got the S1 jump, sline 423, ts 1595987223, mbox mt-000000001015
+
+got the S1 jump, sline 481, ts 1595987281, mbox mt-000000001017
+
+got the S1 jump, sline 506, ts 1595987306, mbox mt-000000001017
+
+got the S1 jump, sline 515, ts 1595987315, mbox mt-000000001017
+
+got the S1 jump, sline 516, ts 1595987316, mbox mt-000000001017
+
+got the S1 jump, sline 531, ts 1595987331, mbox mt-000000001017
+
+got the S1 jump, sline 541, ts 1595987341, mbox mt-000000001017
+
+got the S1 jump, sline 542, ts 1595987342, mbox mt-000000001017
+
+got the S1 jump, sline 556, ts 1595987356, mbox mt-000000001017
+
+got the S1 jump, sline 557, ts 1595987357, mbox mt-000000001017
+
+got the S1 jump, sline 567, ts 1595987367, mbox mt-000000001017
+
+got the S1 jump, sline 581, ts 1595987381, mbox mt-000000001017
+
+got the S1 jump, sline 582, ts 1595987382, mbox mt-000000001017
+
+got the S1 jump, sline 593, ts 1595987393, mbox mt-000000001017
+
+got the S1 jump, sline 607, ts 1595987407, mbox mt-000000001017
+
+got the S1 jump, sline 618, ts 1595987418, mbox mt-000000001017
+
+got the S1 jump, sline 632, ts 1595987432, mbox mt-000000001017
+
+got the S1 jump, sline 648, ts 1595987448, mbox mt-000000001004
+
+got the S1 jump, sline 658, ts 1595987458, mbox mt-000000001017
+
+got the S1 jump, sline 668, ts 1595987468, mbox mt-000000001017
+
+got the S1 jump, sline 683, ts 1595987483, mbox mt-000000001017
+
+got the S1 jump, sline 693, ts 1595987493, mbox mt-000000001017
+
+got the S1 jump, sline 796, ts 1595987596, mbox mt-000000001017
+
+got the S1 jump, sline 810, ts 1595987610, mbox mt-000000001017
+
+got the S1 jump, sline 811, ts 1595987611, mbox mt-000000001017
+
+got the S1 jump, sline 821, ts 1595987621, mbox mt-000000001017
+
+got the S1 jump, sline 822, ts 1595987622, mbox mt-000000001017
+
+got the S1 jump, sline 836, ts 1595987636, mbox mt-000000001017
+
+got the S1 jump, sline 847, ts 1595987647, mbox mt-000000001017
+
+got the S1 jump, sline 861, ts 1595987661, mbox mt-000000001017
+
+got the S1 jump, sline 880, ts 1595987680, mbox mt-000000001004
+
+got the S1 jump, sline 912, ts 1595987712, mbox mt-000000001017
+
+got the S1 jump, sline 923, ts 1595987723, mbox mt-000000001017
+
+got the S1 jump, sline 937, ts 1595987737, mbox mt-000000001017
+
+got the S1 jump, sline 963, ts 1595987763, mbox mt-000000001017
+
+got the S1 jump, sline 975, ts 1595987775, mbox mt-000000001017
+
+got the S1 jump, sline 988, ts 1595987788, mbox mt-000000001017
+
+got the S1 jump, sline 989, ts 1595987789, mbox mt-000000001017
+
+got the S1 jump, sline 1051, ts 1595987851, mbox mt-000000001017
+
+got the S1 jump, sline 1065, ts 1595987865, mbox mt-000000001017
+
+got the S1 jump, sline 1075, ts 1595987875, mbox mt-000000001017
+
+got the S1 jump, sline 1076, ts 1595987876, mbox mt-000000001017
+
+got the S1 jump, sline 1089, ts 1595987889, mbox mt-000000001017
+
+got the S1 jump, sline 1101, ts 1595987901, mbox mt-000000001017
+
+got the S1 jump, sline 1133, ts 1595987933, mbox mt-000000001004
+
+got the S1 jump, sline 1171, ts 1595987971, mbox mt-000000001017
+
+got the S1 jump, sline 1275, ts 1595988075, mbox mt-000000001016
+
+got the S1 jump, sline 1278, ts 1595988078, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 4631 4727 [ 14068 5551 5465 5493 ] 5465 5465 
+##DATA-LOSS### bt-000000001005-5 [0 0]: 82904 82919 [ -1 -1 83654 83657 ] 83660 83663 
+
+got the S1 jump, sline 1350, ts 1595988150, mbox mt-000000001017
+
+got the S1 jump, sline 1358, ts 1595988158, mbox mt-000000001017
+
+got the S1 jump, sline 1359, ts 1595988159, mbox mt-000000001017
+
+got the S1 jump, sline 1368, ts 1595988168, mbox mt-000000001004
+
+got the S1 jump, sline 1369, ts 1595988169, mbox mt-000000001004
+
+got the S1 jump, sline 1400, ts 1595988200, mbox mt-000000001017
+
+got the S1 jump, sline 1433, ts 1595988233, mbox mt-000000001017
+
+got the S1 jump, sline 1434, ts 1595988234, mbox mt-000000001017
+
+got the S1 jump, sline 1457, ts 1595988257, mbox mt-000000001017
+
+got the S1 jump, sline 1481, ts 1595988281, mbox mt-000000001017
+
+got the S1 jump, sline 1534, ts 1595988334, mbox mt-000000001017
+
+got the S1 jump, sline 1569, ts 1595988369, mbox mt-000000001018
+
+got the S1 jump, sline 1572, ts 1595988372, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 2828 2830 [ 27616 19492 16763 16553 ] 16553 16575 
+
+got the S1 jump, sline 1597, ts 1595988397, mbox mt-000000001017
+
+got the S1 jump, sline 1778, ts 1595988578, mbox mt-000000001014
+
+got the S1 jump, sline 1779, ts 1595988579, mbox mt-000000001014
+
+got the S1 jump, sline 1780, ts 1595988580, mbox mt-000000001014
+
+got the S1 jump, sline 1802, ts 1595988602, mbox mt-000000001014
+
+got the S1 jump, sline 1812, ts 1595988612, mbox mt-000000001014
+
+got the S1 jump, sline 1853, ts 1595988653, mbox mt-000000001014
+
+got the S1 jump, sline 1873, ts 1595988673, mbox mt-000000001004
+
+got the S1 jump, sline 1881, ts 1595988681, mbox mt-000000001004
+
+got the S1 jump, sline 2074, ts 1595988874, mbox mt-000000001004
+
+got the S1 jump, sline 2075, ts 1595988875, mbox mt-000000001004
+
+got the S1 jump, sline 2093, ts 1595988893, mbox mt-000000001004
+
+got the S1 jump, sline 2094, ts 1595988894, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 6352 6356 [ 6360 6365 12388 18107 ] 18119 10232 
+
+got the S1 jump, sline 2104, ts 1595988904, mbox mt-000000001018
+
+got the S1 jump, sline 2111, ts 1595988911, mbox mt-000000001018
+
+got the S1 jump, sline 2112, ts 1595988912, mbox mt-000000001018
+
+got the S1 jump, sline 2113, ts 1595988913, mbox mt-000000001018
+
+got the S1 jump, sline 2114, ts 1595988914, mbox mt-000000001018
+
+got the S1 jump, sline 2115, ts 1595988915, mbox mt-000000001018
+
+got the S1 jump, sline 2120, ts 1595988920, mbox mt-000000001018
+
+got the S1 jump, sline 2121, ts 1595988921, mbox mt-000000001018
+
+got the S1 jump, sline 2198, ts 1595988998, mbox mt-000000001002
+
+got the S1 jump, sline 2201, ts 1595989001, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 4331 4345 [ 15239 6921 5848 5852 ] 5852 5852 
+
+got the S1 jump, sline 2272, ts 1595989072, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 1745 1745 [ 1731 1739 1739 25107 ] 25107 16253 
+
+got the S1 jump, sline 2286, ts 1595989086, mbox mt-000000001018
+
+got the S1 jump, sline 2287, ts 1595989087, mbox mt-000000001018
+
+got the S1 jump, sline 2288, ts 1595989088, mbox mt-000000001018
+
+got the S1 jump, sline 2333, ts 1595989133, mbox mt-000000001004
+
+got the S1 jump, sline 2334, ts 1595989134, mbox mt-000000001004
+
+got the S1 jump, sline 2378, ts 1595989178, mbox mt-000000001018
+
+got the S1 jump, sline 2381, ts 1595989181, mbox mt-000000001018
+
+got the S1 jump, sline 2384, ts 1595989184, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 11099 13879 [ 20063 12767 1739 1726 ] 1730 1731 
+
+got the S1 jump, sline 2521, ts 1595989321, mbox mt-000000001016
+
+got the S1 jump, sline 2579, ts 1595989379, mbox mt-000000001012
+
+got the S1 jump, sline 2580, ts 1595989380, mbox mt-000000001012
+
+got the S1 jump, sline 2625, ts 1595989425, mbox mt-000000001012
+
+got the S1 jump, sline 2626, ts 1595989426, mbox mt-000000001012
+
+got the S1 jump, sline 2661, ts 1595989461, mbox mt-000000001012
+
+got the S1 jump, sline 2662, ts 1595989462, mbox mt-000000001012
+
+got the S1 jump, sline 2663, ts 1595989463, mbox mt-000000001012
+
+got the S1 jump, sline 2681, ts 1595989481, mbox mt-000000001018
+
+got the S1 jump, sline 2682, ts 1595989482, mbox mt-000000001018
+
+got the S1 jump, sline 2683, ts 1595989483, mbox mt-000000001018
+
+got the S1 jump, sline 2684, ts 1595989484, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 1726 1728 [ 26361 25509 16895 17493 ] 17823 17107 
+##DATA-LOSS### bt-000000001020-4 [0 0]: 1741 8353 [ 20328 16946 17425 17864 ] -1 -1 
+
+got the S1 jump, sline 2732, ts 1595989532, mbox mt-000000001004
+
+got the S1 jump, sline 2758, ts 1595989558, mbox mt-000000001010
+
+got the S1 jump, sline 2904, ts 1595989704, mbox mt-000000001012
+
+got the S1 jump, sline 2905, ts 1595989705, mbox mt-000000001012
+##PULSE-DOWN## mt-000000001012 [0 1]: 22262 22217 [ 23429 24389 15137 5875 ] 5563 5555 
+
+got the S1 jump, sline 2959, ts 1595989759, mbox mt-000000001004
+
+got the S1 jump, sline 2960, ts 1595989760, mbox mt-000000001004
+
+got the S1 jump, sline 2973, ts 1595989773, mbox mt-000000001004
+
+got the S1 jump, sline 2976, ts 1595989776, mbox mt-000000001004
+
+got the S1 jump, sline 3193, ts 1595989993, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 5416 14953 [ 17089 17087 6460 5316 ] 5320 5312 
+
+got the S1 jump, sline 3369, ts 1595990169, mbox mt-000000001004
+
+got the S1 jump, sline 3419, ts 1595990219, mbox mt-000000001015
+
+got the S1 jump, sline 3450, ts 1595990250, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 9544 9565 [ 9573 17167 21246 21289 ] 21256 15949 
+
+got the S1 jump, sline 3536, ts 1595990336, mbox mt-000000001004
+
+got the S1 jump, sline 3561, ts 1595990361, mbox mt-000000001015
+ltopo_alg_set_path, start at 'Wed Jul 29 10:40:00 CST 2020', end 1595993999
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595990400-1595993999
+
+got the S1 jump, sline 227, ts 1595990627, mbox mt-000000001014
+##PULSE-DOWN## mt-000000001014 [0 1]: 2186 2228 [ 2228 2226 11235 9795 ] 9795 10048 
+
+got the S1 jump, sline 298, ts 1595990698, mbox mt-000000001004
+
+got the S1 jump, sline 315, ts 1595990715, mbox mt-000000001014
+
+got the S1 jump, sline 324, ts 1595990724, mbox mt-000000001014
+
+got the S1 jump, sline 325, ts 1595990725, mbox mt-000000001014
+##PULSE-DOWN## mt-000000001014 [0 1]: 2078 2085 [ 2085 2085 9369 8363 ] 8584 8602 
+
+got the S1 jump, sline 369, ts 1595990769, mbox mt-000000001015
+
+got the S1 jump, sline 445, ts 1595990845, mbox mt-000000001013
+
+got the S1 jump, sline 448, ts 1595990848, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 549 549 [ 9167 2041 2041 1349 ] 1323 1322 
+
+got the S1 jump, sline 556, ts 1595990956, mbox mt-000000001015
+
+got the S1 jump, sline 618, ts 1595991018, mbox mt-000000001015
+
+got the S1 jump, sline 645, ts 1595991045, mbox mt-000000001015
+
+got the S1 jump, sline 672, ts 1595991072, mbox mt-000000001015
+
+got the S1 jump, sline 673, ts 1595991073, mbox mt-000000001015
+
+got the S1 jump, sline 711, ts 1595991111, mbox mt-000000001015
+
+got the S1 jump, sline 712, ts 1595991112, mbox mt-000000001015
+
+got the S1 jump, sline 795, ts 1595991195, mbox mt-000000001015
+
+got the S1 jump, sline 798, ts 1595991198, mbox mt-000000001015
+
+got the S1 jump, sline 801, ts 1595991201, mbox mt-000000001015
+
+got the S1 jump, sline 822, ts 1595991222, mbox mt-000000001015
+
+got the S1 jump, sline 823, ts 1595991223, mbox mt-000000001015
+
+got the S1 jump, sline 826, ts 1595991226, mbox mt-000000001015
+
+got the S1 jump, sline 852, ts 1595991252, mbox mt-000000001015
+
+got the S1 jump, sline 853, ts 1595991253, mbox mt-000000001015
+
+got the S1 jump, sline 854, ts 1595991254, mbox mt-000000001015
+
+got the S1 jump, sline 855, ts 1595991255, mbox mt-000000001015
+
+got the S1 jump, sline 862, ts 1595991262, mbox mt-000000001015
+
+got the S1 jump, sline 863, ts 1595991263, mbox mt-000000001015
+
+got the S1 jump, sline 864, ts 1595991264, mbox mt-000000001015
+
+got the S1 jump, sline 886, ts 1595991286, mbox mt-000000001015
+
+got the S1 jump, sline 899, ts 1595991299, mbox mt-000000001015
+
+got the S1 jump, sline 924, ts 1595991324, mbox mt-000000001015
+
+got the S1 jump, sline 976, ts 1595991376, mbox mt-000000001004
+
+got the S1 jump, sline 1008, ts 1595991408, mbox mt-000000001015
+
+got the S1 jump, sline 1019, ts 1595991419, mbox mt-000000001015
+
+got the S1 jump, sline 1052, ts 1595991452, mbox mt-000000001015
+
+got the S1 jump, sline 1096, ts 1595991496, mbox mt-000000001015
+
+got the S1 jump, sline 1107, ts 1595991507, mbox mt-000000001015
+
+got the S1 jump, sline 1147, ts 1595991547, mbox mt-000000001015
+
+got the S1 jump, sline 1148, ts 1595991548, mbox mt-000000001015
+
+got the S1 jump, sline 1408, ts 1595991808, mbox mt-000000001004
+
+got the S1 jump, sline 1420, ts 1595991820, mbox mt-000000001015
+
+got the S1 jump, sline 1490, ts 1595991890, mbox mt-000000001015
+
+got the S1 jump, sline 1520, ts 1595991920, mbox mt-000000001015
+
+got the S1 jump, sline 1521, ts 1595991921, mbox mt-000000001015
+
+got the S1 jump, sline 1558, ts 1595991958, mbox mt-000000001015
+
+got the S1 jump, sline 1623, ts 1595992023, mbox mt-000000001004
+
+got the S1 jump, sline 1772, ts 1595992172, mbox mt-000000001013
+
+got the S1 jump, sline 1775, ts 1595992175, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 545 545 [ 9867 1388 1323 1308 ] 1300 1299 
+
+got the S1 jump, sline 1848, ts 1595992248, mbox mt-000000001004
+
+got the S1 jump, sline 1849, ts 1595992249, mbox mt-000000001004
+
+got the S1 jump, sline 1998, ts 1595992398, mbox mt-000000001015
+
+got the S1 jump, sline 1999, ts 1595992399, mbox mt-000000001015
+
+got the S1 jump, sline 2018, ts 1595992418, mbox mt-000000001015
+
+got the S1 jump, sline 2052, ts 1595992452, mbox mt-000000001015
+
+got the S1 jump, sline 2053, ts 1595992453, mbox mt-000000001015
+
+got the S1 jump, sline 2070, ts 1595992470, mbox mt-000000001004
+
+got the S1 jump, sline 2089, ts 1595992489, mbox mt-000000001004
+
+got the S1 jump, sline 2090, ts 1595992490, mbox mt-000000001004
+
+got the S1 jump, sline 2165, ts 1595992565, mbox mt-000000001004
+
+got the S1 jump, sline 2254, ts 1595992654, mbox mt-000000001017
+
+got the S1 jump, sline 2257, ts 1595992657, mbox mt-000000001017
+##PULSE-DOWN## mt-000000001017 [0 1]: 6593 6573 [ 12606 7407 7454 7450 ] 7448 7449 
+
+got the S1 jump, sline 2292, ts 1595992692, mbox mt-000000001014
+
+got the S1 jump, sline 2564, ts 1595992964, mbox mt-000000001004
+
+got the S1 jump, sline 2565, ts 1595992965, mbox mt-000000001004
+
+got the S1 jump, sline 2620, ts 1595993020, mbox mt-000000001017
+
+got the S1 jump, sline 2621, ts 1595993021, mbox mt-000000001017
+
+got the S1 jump, sline 2653, ts 1595993053, mbox mt-000000001004
+
+got the S1 jump, sline 2669, ts 1595993069, mbox mt-000000001004
+
+got the S1 jump, sline 2670, ts 1595993070, mbox mt-000000001004
+
+got the S1 jump, sline 2748, ts 1595993148, mbox mt-000000001004
+
+got the S1 jump, sline 2772, ts 1595993172, mbox mt-000000001014
+
+got the S1 jump, sline 2793, ts 1595993193, mbox mt-000000001004
+
+got the S1 jump, sline 2826, ts 1595993226, mbox mt-000000001014
+
+got the S1 jump, sline 2890, ts 1595993290, mbox mt-000000001017
+
+got the S1 jump, sline 2930, ts 1595993330, mbox mt-000000001004
+
+got the S1 jump, sline 2931, ts 1595993331, mbox mt-000000001004
+
+got the S1 jump, sline 2933, ts 1595993333, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 5649 5604 [ 10990 11706 6503 6662 ] 6626 6632 
+
+got the S1 jump, sline 3007, ts 1595993407, mbox mt-000000001004
+
+got the S1 jump, sline 3008, ts 1595993408, mbox mt-000000001004
+
+got the S1 jump, sline 3144, ts 1595993544, mbox mt-000000001017
+
+got the S1 jump, sline 3252, ts 1595993652, mbox mt-000000001017
+
+got the S1 jump, sline 3253, ts 1595993653, mbox mt-000000001017
+
+got the S1 jump, sline 3266, ts 1595993666, mbox mt-000000001017
+
+got the S1 jump, sline 3267, ts 1595993667, mbox mt-000000001017
+
+got the S1 jump, sline 3338, ts 1595993738, mbox mt-000000001017
+
+got the S1 jump, sline 3339, ts 1595993739, mbox mt-000000001017
+
+got the S1 jump, sline 3340, ts 1595993740, mbox mt-000000001017
+
+got the S1 jump, sline 3343, ts 1595993743, mbox mt-000000001017
+
+got the S1 jump, sline 3380, ts 1595993780, mbox mt-000000001017
+
+got the S1 jump, sline 3381, ts 1595993781, mbox mt-000000001017
+
+got the S1 jump, sline 3382, ts 1595993782, mbox mt-000000001017
+
+got the S1 jump, sline 3422, ts 1595993822, mbox mt-000000001017
+
+got the S1 jump, sline 3467, ts 1595993867, mbox mt-000000001017
+
+got the S1 jump, sline 3468, ts 1595993868, mbox mt-000000001017
+
+got the S1 jump, sline 3486, ts 1595993886, mbox mt-000000001017
+
+got the S1 jump, sline 3487, ts 1595993887, mbox mt-000000001017
+
+got the S1 jump, sline 3498, ts 1595993898, mbox mt-000000001017
+
+got the S1 jump, sline 3499, ts 1595993899, mbox mt-000000001017
+
+got the S1 jump, sline 3553, ts 1595993953, mbox mt-000000001017
+
+got the S1 jump, sline 3561, ts 1595993961, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 3721 3713 [ 14556 14556 4296 4325 ] 4368 4370 
+
+got the S1 jump, sline 3571, ts 1595993971, mbox mt-000000001017
+
+got the S1 jump, sline 3585, ts 1595993985, mbox mt-000000001017
+
+got the S1 jump, sline 3586, ts 1595993986, mbox mt-000000001017
+ltopo_alg_set_path, start at 'Wed Jul 29 11:40:00 CST 2020', end 1595997599
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595994000-1595997599
+
+got the S1 jump, sline 7, ts 1595994007, mbox mt-000000001017
+
+got the S1 jump, sline 22, ts 1595994022, mbox mt-000000001017
+
+got the S1 jump, sline 23, ts 1595994023, mbox mt-000000001017
+
+got the S1 jump, sline 43, ts 1595994043, mbox mt-000000001017
+
+got the S1 jump, sline 57, ts 1595994057, mbox mt-000000001017
+
+got the S1 jump, sline 58, ts 1595994058, mbox mt-000000001017
+
+got the S1 jump, sline 93, ts 1595994093, mbox mt-000000001017
+
+got the S1 jump, sline 94, ts 1595994094, mbox mt-000000001017
+
+got the S1 jump, sline 115, ts 1595994115, mbox mt-000000001017
+
+got the S1 jump, sline 124, ts 1595994124, mbox mt-000000001017
+
+got the S1 jump, sline 148, ts 1595994148, mbox mt-000000001012
+
+got the S1 jump, sline 160, ts 1595994160, mbox mt-000000001017
+
+got the S1 jump, sline 188, ts 1595994188, mbox mt-000000001017
+
+got the S1 jump, sline 189, ts 1595994189, mbox mt-000000001017
+
+got the S1 jump, sline 197, ts 1595994197, mbox mt-000000001017
+
+got the S1 jump, sline 225, ts 1595994225, mbox mt-000000001017
+
+got the S1 jump, sline 261, ts 1595994261, mbox mt-000000001017
+
+got the S1 jump, sline 271, ts 1595994271, mbox mt-000000001017
+
+got the S1 jump, sline 334, ts 1595994334, mbox mt-000000001017
+
+got the S1 jump, sline 348, ts 1595994348, mbox mt-000000001012
+
+got the S1 jump, sline 349, ts 1595994349, mbox mt-000000001012
+
+got the S1 jump, sline 379, ts 1595994379, mbox mt-000000001017
+
+got the S1 jump, sline 415, ts 1595994415, mbox mt-000000001017
+
+got the S1 jump, sline 442, ts 1595994442, mbox mt-000000001017
+
+got the S1 jump, sline 450, ts 1595994450, mbox mt-000000001017
+
+got the S1 jump, sline 451, ts 1595994451, mbox mt-000000001017
+
+got the S1 jump, sline 479, ts 1595994479, mbox mt-000000001017
+
+got the S1 jump, sline 522, ts 1595994522, mbox mt-000000001017
+
+got the S1 jump, sline 624, ts 1595994624, mbox mt-000000001017
+
+got the S1 jump, sline 632, ts 1595994632, mbox mt-000000001017
+
+got the S1 jump, sline 690, ts 1595994690, mbox mt-000000001013
+
+got the S1 jump, sline 696, ts 1595994696, mbox mt-000000001017
+
+got the S1 jump, sline 705, ts 1595994705, mbox mt-000000001017
+
+got the S1 jump, sline 706, ts 1595994706, mbox mt-000000001017
+
+got the S1 jump, sline 732, ts 1595994732, mbox mt-000000001017
+
+got the S1 jump, sline 733, ts 1595994733, mbox mt-000000001017
+
+got the S1 jump, sline 769, ts 1595994769, mbox mt-000000001017
+
+got the S1 jump, sline 797, ts 1595994797, mbox mt-000000001017
+
+got the S1 jump, sline 869, ts 1595994869, mbox mt-000000001017
+
+got the S1 jump, sline 877, ts 1595994877, mbox mt-000000001017
+
+got the S1 jump, sline 878, ts 1595994878, mbox mt-000000001017
+
+got the S1 jump, sline 886, ts 1595994886, mbox mt-000000001004
+
+got the S1 jump, sline 905, ts 1595994905, mbox mt-000000001017
+
+got the S1 jump, sline 914, ts 1595994914, mbox mt-000000001017
+
+got the S1 jump, sline 950, ts 1595994950, mbox mt-000000001017
+
+got the S1 jump, sline 997, ts 1595994997, mbox mt-000000001017
+
+got the S1 jump, sline 1291, ts 1595995291, mbox mt-000000001004
+
+got the S1 jump, sline 1299, ts 1595995299, mbox mt-000000001004
+
+got the S1 jump, sline 1422, ts 1595995422, mbox mt-000000001017
+
+got the S1 jump, sline 1425, ts 1595995425, mbox mt-000000001017
+##PULSE-DOWN## mt-000000001017 [0 1]: 7466 8206 [ 14911 7811 7485 7487 ] 7485 7482 
+
+got the S1 jump, sline 1448, ts 1595995448, mbox mt-000000001014
+
+got the S1 jump, sline 1451, ts 1595995451, mbox mt-000000001014
+##PULSE-DOWN## mt-000000001014 [0 1]: 2608 2604 [ 16216 8484 8657 8604 ] 8908 -1 
+##DATA-LOSS### bt-000000001005-3 [0 0]: 9376 9357 [ 11980 15449 15517 15552 ] -1 -1 
+
+got the S1 jump, sline 1461, ts 1595995461, mbox mt-000000001017
+##PULSE-DOWN## mt-000000001017 [0 1]: 7380 9177 [ 15190 12196 7390 7395 ] 7395 7400 
+
+got the S1 jump, sline 1479, ts 1595995479, mbox mt-000000001004
+
+got the S1 jump, sline 1538, ts 1595995538, mbox mt-000000001004
+
+got the S1 jump, sline 1539, ts 1595995539, mbox mt-000000001004
+
+got the S1 jump, sline 1775, ts 1595995775, mbox mt-000000001004
+
+got the S1 jump, sline 1859, ts 1595995859, mbox mt-000000001014
+
+got the S1 jump, sline 1881, ts 1595995881, mbox mt-000000001014
+
+got the S1 jump, sline 2016, ts 1595996016, mbox mt-000000001004
+
+got the S1 jump, sline 2017, ts 1595996017, mbox mt-000000001004
+
+got the S1 jump, sline 2258, ts 1595996258, mbox mt-000000001004
+
+got the S1 jump, sline 2499, ts 1595996499, mbox mt-000000001004
+
+got the S1 jump, sline 2500, ts 1595996500, mbox mt-000000001004
+
+got the S1 jump, sline 2714, ts 1595996714, mbox mt-000000001017
+
+got the S1 jump, sline 2748, ts 1595996748, mbox mt-000000001004
+
+got the S1 jump, sline 2834, ts 1595996834, mbox mt-000000001016
+
+got the S1 jump, sline 2837, ts 1595996837, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 31938 31910 [ 43439 34883 33374 33294 ] 33178 33175 
+
+got the S1 jump, sline 2984, ts 1595996984, mbox mt-000000001004
+
+got the S1 jump, sline 2985, ts 1595996985, mbox mt-000000001004
+
+got the S1 jump, sline 3106, ts 1595997106, mbox mt-000000001004
+
+got the S1 jump, sline 3184, ts 1595997184, mbox mt-000000001004
+
+got the S1 jump, sline 3206, ts 1595997206, mbox mt-000000001013
+
+got the S1 jump, sline 3219, ts 1595997219, mbox mt-000000001004
+
+got the S1 jump, sline 3220, ts 1595997220, mbox mt-000000001004
+
+got the S1 jump, sline 3228, ts 1595997228, mbox mt-000000001004
+
+got the S1 jump, sline 3327, ts 1595997327, mbox mt-000000001017
+##PULSE-DOWN## mt-000000001017 [0 1]: 34174 34137 [ 43095 35199 34382 34373 ] 34402 34402 
+
+got the S1 jump, sline 3461, ts 1595997461, mbox mt-000000001004
+
+got the S1 jump, sline 3462, ts 1595997462, mbox mt-000000001004
+
+got the S1 jump, sline 3467, ts 1595997467, mbox mt-000000001004
+
+got the S1 jump, sline 3468, ts 1595997468, mbox mt-000000001004
+
+got the S1 jump, sline 3539, ts 1595997539, mbox mt-000000001016
+
+got the S1 jump, sline 3583, ts 1595997583, mbox mt-000000001012
+
+got the S1 jump, sline 3584, ts 1595997584, mbox mt-000000001012
+ltopo_alg_set_path, start at 'Wed Jul 29 12:40:00 CST 2020', end 1596001199
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1595997600-1596001199
+
+got the S1 jump, sline 63, ts 1595997663, mbox mt-000000001016
+
+got the S1 jump, sline 168, ts 1595997768, mbox mt-000000001002
+
+got the S1 jump, sline 349, ts 1595997949, mbox mt-000000001004
+
+got the S1 jump, sline 357, ts 1595997957, mbox mt-000000001004
+
+got the S1 jump, sline 371, ts 1595997971, mbox mt-000000001011
+
+got the S1 jump, sline 372, ts 1595997972, mbox mt-000000001011
+
+got the S1 jump, sline 551, ts 1595998151, mbox mt-000000001011
+
+got the S1 jump, sline 552, ts 1595998152, mbox mt-000000001011
+
+got the S1 jump, sline 553, ts 1595998153, mbox mt-000000001011
+
+got the S1 jump, sline 591, ts 1595998191, mbox mt-000000001004
+
+got the S1 jump, sline 798, ts 1595998398, mbox mt-000000001015
+
+got the S1 jump, sline 817, ts 1595998417, mbox mt-000000001015
+
+got the S1 jump, sline 839, ts 1595998439, mbox mt-000000001004
+
+got the S1 jump, sline 870, ts 1595998470, mbox mt-000000001013
+
+got the S1 jump, sline 962, ts 1595998562, mbox mt-000000001012
+
+got the S1 jump, sline 963, ts 1595998563, mbox mt-000000001012
+
+got the S1 jump, sline 1101, ts 1595998701, mbox mt-000000001004
+
+got the S1 jump, sline 1342, ts 1595998942, mbox mt-000000001004
+
+got the S1 jump, sline 1343, ts 1595998943, mbox mt-000000001004
+
+got the S1 jump, sline 1465, ts 1595999065, mbox mt-000000001014
+
+got the S1 jump, sline 1502, ts 1595999102, mbox mt-000000001018
+
+got the S1 jump, sline 1505, ts 1595999105, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 817 815 [ 9393 1608 1618 1624 ] 1641 1641 
+
+got the S1 jump, sline 1584, ts 1595999184, mbox mt-000000001004
+
+got the S1 jump, sline 1585, ts 1595999185, mbox mt-000000001004
+
+got the S1 jump, sline 1738, ts 1595999338, mbox mt-000000001016
+
+got the S1 jump, sline 1741, ts 1595999341, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 6828 6850 [ 14527 7548 7539 7596 ] 7603 7613 
+
+got the S1 jump, sline 1803, ts 1595999403, mbox mt-000000001004
+
+got the S1 jump, sline 1828, ts 1595999428, mbox mt-000000001004
+
+got the S1 jump, sline 1829, ts 1595999429, mbox mt-000000001004
+
+got the S1 jump, sline 1861, ts 1595999461, mbox mt-000000001011
+
+got the S1 jump, sline 1862, ts 1595999462, mbox mt-000000001011
+
+got the S1 jump, sline 1863, ts 1595999463, mbox mt-000000001011
+
+got the S1 jump, sline 1864, ts 1595999464, mbox mt-000000001011
+
+got the S1 jump, sline 1884, ts 1595999484, mbox mt-000000001004
+
+got the S1 jump, sline 1910, ts 1595999510, mbox mt-000000001002
+
+got the S1 jump, sline 2003, ts 1595999603, mbox mt-000000001009
+
+got the S1 jump, sline 2006, ts 1595999606, mbox mt-000000001009
+##PULSE-DOWN## mt-000000001009 [0 1]: 132 130 [ 9124 5251 906 908 ] 896 896 
+##DATA-LOSS### bt-000000001003-2 [0 0]: 962 963 [ 964 -1 986 986 ] 986 986 
+##DATA-LOSS### bt-000000001005-3 [0 0]: 7567 7567 [ 7567 7567 -1 8045 ] 8046 8047 
+
+got the S1 jump, sline 2014, ts 1595999614, mbox mt-000000001011
+
+got the S1 jump, sline 2015, ts 1595999615, mbox mt-000000001011
+
+got the S1 jump, sline 2075, ts 1595999675, mbox mt-000000001004
+
+got the S1 jump, sline 2076, ts 1595999676, mbox mt-000000001004
+
+got the S1 jump, sline 2110, ts 1595999710, mbox mt-000000001011
+
+got the S1 jump, sline 2182, ts 1595999782, mbox mt-000000001013
+
+got the S1 jump, sline 2299, ts 1595999899, mbox mt-000000001017
+
+got the S1 jump, sline 2300, ts 1595999900, mbox mt-000000001017
+
+got the S1 jump, sline 2301, ts 1595999901, mbox mt-000000001017
+
+got the S1 jump, sline 2332, ts 1595999932, mbox mt-000000001004
+
+got the S1 jump, sline 2459, ts 1596000059, mbox mt-000000001011
+
+got the S1 jump, sline 2460, ts 1596000060, mbox mt-000000001011
+
+got the S1 jump, sline 2461, ts 1596000061, mbox mt-000000001011
+
+got the S1 jump, sline 2574, ts 1596000174, mbox mt-000000001004
+
+got the S1 jump, sline 2595, ts 1596000195, mbox mt-000000001016
+
+got the S1 jump, sline 2596, ts 1596000196, mbox mt-000000001016
+
+got the S1 jump, sline 2716, ts 1596000316, mbox mt-000000001011
+
+got the S1 jump, sline 2825, ts 1596000425, mbox mt-000000001004
+
+got the S1 jump, sline 3214, ts 1596000814, mbox mt-000000001004
+
+got the S1 jump, sline 3217, ts 1596000817, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 5072 5070 [ 15268 6191 6247 6356 ] 6360 6360 
+##DATA-LOSS### bt-000000001005-2 [0 0]: 17933 18023 [ 18113 -1 -1 16613 ] 16843 17073 
+
+got the S1 jump, sline 3280, ts 1596000880, mbox mt-000000001015
+
+got the S1 jump, sline 3283, ts 1596000883, mbox mt-000000001015
+
+got the S1 jump, sline 3286, ts 1596000886, mbox mt-000000001015
+
+got the S1 jump, sline 3301, ts 1596000901, mbox mt-000000001015
+
+got the S1 jump, sline 3304, ts 1596000904, mbox mt-000000001015
+
+got the S1 jump, sline 3305, ts 1596000905, mbox mt-000000001015
+
+got the S1 jump, sline 3308, ts 1596000908, mbox mt-000000001015
+
+got the S1 jump, sline 3319, ts 1596000919, mbox mt-000000001004
+
+got the S1 jump, sline 3327, ts 1596000927, mbox mt-000000001015
+
+got the S1 jump, sline 3328, ts 1596000928, mbox mt-000000001015
+
+got the S1 jump, sline 3331, ts 1596000931, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 4651 19329 [ 27451 22260 21091 21507 ] 21629 20677 
+
+got the S1 jump, sline 3339, ts 1596000939, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 5526 4780 [ 30669 25996 4778 4768 ] 4776 4766 
+
+got the S1 jump, sline 3357, ts 1596000957, mbox mt-000000001015
+
+got the S1 jump, sline 3358, ts 1596000958, mbox mt-000000001015
+
+got the S1 jump, sline 3359, ts 1596000959, mbox mt-000000001015
+
+got the S1 jump, sline 3360, ts 1596000960, mbox mt-000000001015
+
+got the S1 jump, sline 3361, ts 1596000961, mbox mt-000000001015
+
+got the S1 jump, sline 3371, ts 1596000971, mbox mt-000000001015
+
+got the S1 jump, sline 3372, ts 1596000972, mbox mt-000000001015
+
+got the S1 jump, sline 3373, ts 1596000973, mbox mt-000000001015
+
+got the S1 jump, sline 3376, ts 1596000976, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 4635 5047 [ 28950 15865 5322 5067 ] 5063 5082 
+
+got the S1 jump, sline 3387, ts 1596000987, mbox mt-000000001015
+
+got the S1 jump, sline 3390, ts 1596000990, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 5074 5076 [ 34024 27638 26290 26743 ] 26606 -1 
+##DATA-LOSS### bt-000000001003-3 [0 0]: 5086 31261 [ 26400 25840 26692 -1 ] -1 23074 
+##DATA-LOSS### bt-000000001005-3 [0 0]: 8396 8603 [ 34391 30005 30320 30472 ] -1 -1 
+
+got the S1 jump, sline 3398, ts 1596000998, mbox mt-000000001015
+
+got the S1 jump, sline 3401, ts 1596001001, mbox mt-000000001015
+
+got the S1 jump, sline 3402, ts 1596001002, mbox mt-000000001015
+
+got the S1 jump, sline 3403, ts 1596001003, mbox mt-000000001015
+
+got the S1 jump, sline 3483, ts 1596001083, mbox mt-000000001017
+
+got the S1 jump, sline 3486, ts 1596001086, mbox mt-000000001017
+##PULSE-DOWN## mt-000000001017 [0 1]: 7731 7723 [ 15323 8329 8331 8341 ] 8341 8341 
+
+got the S1 jump, sline 3575, ts 1596001175, mbox mt-000000001004
+ltopo_alg_set_path, start at 'Wed Jul 29 13:40:00 CST 2020', end 1596004799
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1596001200-1596004799
+
+got the S1 jump, sline 44, ts 1596001244, mbox mt-000000001011
+
+got the S1 jump, sline 217, ts 1596001417, mbox mt-000000001004
+
+got the S1 jump, sline 458, ts 1596001658, mbox mt-000000001004
+
+got the S1 jump, sline 466, ts 1596001666, mbox mt-000000001004
+
+got the S1 jump, sline 623, ts 1596001823, mbox mt-000000001004
+
+got the S1 jump, sline 637, ts 1596001837, mbox mt-000000001016
+
+got the S1 jump, sline 640, ts 1596001840, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 6175 6171 [ 15225 7005 6915 6938 ] 6919 6919 
+##DATA-LOSS### bt-000000001001-4 [0 0]: 9692 9701 [ 9710 -1 6950 6948 ] 6946 6944 
+
+got the S1 jump, sline 705, ts 1596001905, mbox mt-000000001004
+
+got the S1 jump, sline 720, ts 1596001920, mbox mt-000000001004
+
+got the S1 jump, sline 740, ts 1596001940, mbox mt-000000001004
+
+got the S1 jump, sline 741, ts 1596001941, mbox mt-000000001004
+
+got the S1 jump, sline 743, ts 1596001943, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 4148 8957 [ 15949 15508 4182 4158 ] 4154 4160 
+
+got the S1 jump, sline 848, ts 1596002048, mbox mt-000000001004
+
+got the S1 jump, sline 851, ts 1596002051, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 4227 4233 [ 14333 5183 5228 5325 ] 5296 5296 
+
+got the S1 jump, sline 1003, ts 1596002203, mbox mt-000000001004
+
+got the S1 jump, sline 1004, ts 1596002204, mbox mt-000000001004
+
+got the S1 jump, sline 1015, ts 1596002215, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 2746 2746 [ 9098 3699 3524 3544 ] 3544 3544 
+##DATA-LOSS### bt-000000001005-2 [0 0]: 17450 17442 [ 18726 -1 18223 18225 ] 18227 18229 
+
+got the S1 jump, sline 1244, ts 1596002444, mbox mt-000000001004
+
+got the S1 jump, sline 1245, ts 1596002445, mbox mt-000000001004
+
+got the S1 jump, sline 1288, ts 1596002488, mbox mt-000000001011
+
+got the S1 jump, sline 1486, ts 1596002686, mbox mt-000000001004
+
+got the S1 jump, sline 1487, ts 1596002687, mbox mt-000000001004
+
+got the S1 jump, sline 1659, ts 1596002859, mbox mt-000000001015
+
+got the S1 jump, sline 1663, ts 1596002863, mbox mt-000000001015
+
+got the S1 jump, sline 1666, ts 1596002866, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 13993 15776 [ 19612 16587 13776 3119 ] 3054 3054 
+
+got the S1 jump, sline 1679, ts 1596002879, mbox mt-000000001015
+
+got the S1 jump, sline 1680, ts 1596002880, mbox mt-000000001015
+
+got the S1 jump, sline 1683, ts 1596002883, mbox mt-000000001015
+
+got the S1 jump, sline 1684, ts 1596002884, mbox mt-000000001015
+
+got the S1 jump, sline 1685, ts 1596002885, mbox mt-000000001015
+
+got the S1 jump, sline 1735, ts 1596002935, mbox mt-000000001004
+
+got the S1 jump, sline 1784, ts 1596002984, mbox mt-000000001004
+
+got the S1 jump, sline 1785, ts 1596002985, mbox mt-000000001004
+
+got the S1 jump, sline 1800, ts 1596003000, mbox mt-000000001002
+
+got the S1 jump, sline 1803, ts 1596003003, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 4590 4602 [ 11323 6308 6120 6097 ] 6087 6093 
+
+got the S1 jump, sline 1849, ts 1596003049, mbox mt-000000001018
+
+got the S1 jump, sline 1969, ts 1596003169, mbox mt-000000001004
+
+got the S1 jump, sline 1970, ts 1596003170, mbox mt-000000001004
+
+got the S1 jump, sline 1978, ts 1596003178, mbox mt-000000001004
+
+got the S1 jump, sline 2074, ts 1596003274, mbox mt-000000001018
+
+got the S1 jump, sline 2075, ts 1596003275, mbox mt-000000001018
+
+got the S1 jump, sline 2289, ts 1596003489, mbox mt-000000001014
+
+got the S1 jump, sline 2303, ts 1596003503, mbox mt-000000001014
+
+got the S1 jump, sline 2304, ts 1596003504, mbox mt-000000001014
+
+got the S1 jump, sline 2335, ts 1596003535, mbox mt-000000001014
+
+got the S1 jump, sline 2344, ts 1596003544, mbox mt-000000001013
+
+got the S1 jump, sline 2347, ts 1596003547, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 549 545 [ 11080 1514 1364 1329 ] 1310 1309 
+
+got the S1 jump, sline 2364, ts 1596003564, mbox mt-000000001006
+
+got the S1 jump, sline 2383, ts 1596003583, mbox mt-000000001006
+
+got the S1 jump, sline 2384, ts 1596003584, mbox mt-000000001006
+
+got the S1 jump, sline 2452, ts 1596003652, mbox mt-000000001004
+
+got the S1 jump, sline 2453, ts 1596003653, mbox mt-000000001004
+
+got the S1 jump, sline 2615, ts 1596003815, mbox mt-000000001015
+
+got the S1 jump, sline 2618, ts 1596003818, mbox mt-000000001015
+
+got the S1 jump, sline 2620, ts 1596003820, mbox mt-000000001015
+
+got the S1 jump, sline 2626, ts 1596003826, mbox mt-000000001015
+
+got the S1 jump, sline 2638, ts 1596003838, mbox mt-000000001015
+
+got the S1 jump, sline 2639, ts 1596003839, mbox mt-000000001015
+
+got the S1 jump, sline 2640, ts 1596003840, mbox mt-000000001015
+
+got the S1 jump, sline 2641, ts 1596003841, mbox mt-000000001015
+
+got the S1 jump, sline 2642, ts 1596003842, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 1794 12420 [ 13518 16092 17907 23708 ] 23406 22386 
+
+got the S1 jump, sline 2685, ts 1596003885, mbox mt-000000001015
+
+got the S1 jump, sline 2686, ts 1596003886, mbox mt-000000001015
+
+got the S1 jump, sline 2694, ts 1596003894, mbox mt-000000001004
+
+got the S1 jump, sline 2695, ts 1596003895, mbox mt-000000001004
+
+got the S1 jump, sline 2705, ts 1596003905, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 1624 29201 [ 20326 2848 1534 1524 ] 1524 1526 
+
+got the S1 jump, sline 2938, ts 1596004138, mbox mt-000000001004
+
+got the S1 jump, sline 2985, ts 1596004185, mbox mt-000000001004
+
+got the S1 jump, sline 3067, ts 1596004267, mbox mt-000000001004
+
+got the S1 jump, sline 3178, ts 1596004378, mbox mt-000000001004
+
+got the S1 jump, sline 3186, ts 1596004386, mbox mt-000000001004
+
+got the S1 jump, sline 3343, ts 1596004543, mbox mt-000000001004
+
+got the S1 jump, sline 3346, ts 1596004546, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 3570 3913 [ 14027 4498 4576 4661 ] 4698 4892 
+##DATA-LOSS### bt-000000001005-2 [0 0]: 14081 14081 [ 14081 -1 13065 13081 ] 13097 13113 
+
+got the S1 jump, sline 3422, ts 1596004622, mbox mt-000000001004
+
+got the S1 jump, sline 3423, ts 1596004623, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 10035 10009 [ 9997 13257 20526 21948 ] 21956 19072 
+
+got the S1 jump, sline 3451, ts 1596004651, mbox mt-000000001004
+
+got the S1 jump, sline 3516, ts 1596004716, mbox mt-000000001015
+
+got the S1 jump, sline 3517, ts 1596004717, mbox mt-000000001015
+
+got the S1 jump, sline 3519, ts 1596004719, mbox mt-000000001015
+
+got the S1 jump, sline 3520, ts 1596004720, mbox mt-000000001015
+
+got the S1 jump, sline 3521, ts 1596004721, mbox mt-000000001015
+
+got the S1 jump, sline 3522, ts 1596004722, mbox mt-000000001015
+
+got the S1 jump, sline 3523, ts 1596004723, mbox mt-000000001015
+
+got the S1 jump, sline 3539, ts 1596004739, mbox mt-000000001015
+
+got the S1 jump, sline 3540, ts 1596004740, mbox mt-000000001015
+
+got the S1 jump, sline 3543, ts 1596004743, mbox mt-000000001015
+
+got the S1 jump, sline 3544, ts 1596004744, mbox mt-000000001015
+
+got the S1 jump, sline 3547, ts 1596004747, mbox mt-000000001015
+
+got the S1 jump, sline 3548, ts 1596004748, mbox mt-000000001015
+
+got the S1 jump, sline 3549, ts 1596004749, mbox mt-000000001015
+
+got the S1 jump, sline 3550, ts 1596004750, mbox mt-000000001015
+
+got the S1 jump, sline 3552, ts 1596004752, mbox mt-000000001015
+
+got the S1 jump, sline 3553, ts 1596004753, mbox mt-000000001015
+
+got the S1 jump, sline 3554, ts 1596004754, mbox mt-000000001015
+
+got the S1 jump, sline 3555, ts 1596004755, mbox mt-000000001015
+
+got the S1 jump, sline 3558, ts 1596004758, mbox mt-000000001015
+
+got the S1 jump, sline 3560, ts 1596004760, mbox mt-000000001015
+
+got the S1 jump, sline 3561, ts 1596004761, mbox mt-000000001015
+
+got the S1 jump, sline 3562, ts 1596004762, mbox mt-000000001015
+
+got the S1 jump, sline 3564, ts 1596004764, mbox mt-000000001015
+
+got the S1 jump, sline 3565, ts 1596004765, mbox mt-000000001015
+
+got the S1 jump, sline 3566, ts 1596004766, mbox mt-000000001015
+
+got the S1 jump, sline 3569, ts 1596004769, mbox mt-000000001015
+
+got the S1 jump, sline 3573, ts 1596004773, mbox mt-000000001015
+
+got the S1 jump, sline 3574, ts 1596004774, mbox mt-000000001015
+
+got the S1 jump, sline 3575, ts 1596004775, mbox mt-000000001015
+
+got the S1 jump, sline 3576, ts 1596004776, mbox mt-000000001015
+
+got the S1 jump, sline 3577, ts 1596004777, mbox mt-000000001015
+
+got the S1 jump, sline 3580, ts 1596004780, mbox mt-000000001015
+
+got the S1 jump, sline 3582, ts 1596004782, mbox mt-000000001015
+
+got the S1 jump, sline 3583, ts 1596004783, mbox mt-000000001015
+ltopo_alg_set_path, start at 'Wed Jul 29 14:40:00 CST 2020', end 1596008399
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1596004800-1596008399
+
+got the S1 jump, sline 37, ts 1596004837, mbox mt-000000001004
+
+got the S1 jump, sline 38, ts 1596004838, mbox mt-000000001004
+
+got the S1 jump, sline 48, ts 1596004848, mbox mt-000000001015
+
+got the S1 jump, sline 174, ts 1596004974, mbox mt-000000001015
+
+got the S1 jump, sline 187, ts 1596004987, mbox mt-000000001015
+
+got the S1 jump, sline 195, ts 1596004995, mbox mt-000000001015
+
+got the S1 jump, sline 197, ts 1596004997, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 1553 1545 [ 6905 6928 1737 1545 ] 1553 1545 
+
+got the S1 jump, sline 211, ts 1596005011, mbox mt-000000001015
+
+got the S1 jump, sline 212, ts 1596005012, mbox mt-000000001015
+
+got the S1 jump, sline 213, ts 1596005013, mbox mt-000000001015
+
+got the S1 jump, sline 215, ts 1596005015, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 1680 6693 [ 8841 7189 6320 1906 ] 1682 1676 
+##DATA-LOSS### bt-000000001003-3 [0 0]: 5009 -1 [ -1 -1 1739 1690 ] 1686 1686 
+##DATA-LOSS### bt-000000001005-3 [0 0]: 7213 -1 [ -1 -1 -1 -1 ] -1 5322 
+
+got the S1 jump, sline 223, ts 1596005023, mbox mt-000000001015
+
+got the S1 jump, sline 226, ts 1596005026, mbox mt-000000001015
+
+got the S1 jump, sline 231, ts 1596005031, mbox mt-000000001015
+
+got the S1 jump, sline 232, ts 1596005032, mbox mt-000000001015
+
+got the S1 jump, sline 249, ts 1596005049, mbox mt-000000001017
+
+got the S1 jump, sline 265, ts 1596005065, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 1545 2132 [ 6978 1581 6862 1688 ] 1686 1683 
+
+got the S1 jump, sline 273, ts 1596005073, mbox mt-000000001015
+
+got the S1 jump, sline 335, ts 1596005135, mbox mt-000000001015
+
+got the S1 jump, sline 338, ts 1596005138, mbox mt-000000001015
+
+got the S1 jump, sline 341, ts 1596005141, mbox mt-000000001015
+
+got the S1 jump, sline 350, ts 1596005150, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 2514 1682 [ 8025 1633 1545 1563 ] 1561 1698 
+
+got the S1 jump, sline 359, ts 1596005159, mbox mt-000000001015
+
+got the S1 jump, sline 361, ts 1596005161, mbox mt-000000001015
+
+got the S1 jump, sline 364, ts 1596005164, mbox mt-000000001015
+
+got the S1 jump, sline 370, ts 1596005170, mbox mt-000000001015
+
+got the S1 jump, sline 373, ts 1596005173, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 2844 2183 [ 7937 2183 2189 2183 ] 2193 2837 
+
+got the S1 jump, sline 404, ts 1596005204, mbox mt-000000001015
+
+got the S1 jump, sline 405, ts 1596005205, mbox mt-000000001015
+
+got the S1 jump, sline 406, ts 1596005206, mbox mt-000000001015
+
+got the S1 jump, sline 408, ts 1596005208, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 3138 3134 [ 8672 6830 3052 2591 ] 2561 4170 
+##DATA-LOSS### bt-000000001005-3 [0 0]: 6167 6151 [ 7108 -1 6307 6020 ] 6024 11944 
+
+got the S1 jump, sline 419, ts 1596005219, mbox mt-000000001014
+
+got the S1 jump, sline 420, ts 1596005220, mbox mt-000000001014
+
+got the S1 jump, sline 480, ts 1596005280, mbox mt-000000001014
+
+got the S1 jump, sline 489, ts 1596005289, mbox mt-000000001015
+
+got the S1 jump, sline 492, ts 1596005292, mbox mt-000000001015
+
+got the S1 jump, sline 711, ts 1596005511, mbox mt-000000001006
+
+got the S1 jump, sline 712, ts 1596005512, mbox mt-000000001006
+
+got the S1 jump, sline 713, ts 1596005513, mbox mt-000000001006
+
+got the S1 jump, sline 734, ts 1596005534, mbox mt-000000001006
+
+got the S1 jump, sline 748, ts 1596005548, mbox mt-000000001006
+
+got the S1 jump, sline 756, ts 1596005556, mbox mt-000000001006
+
+got the S1 jump, sline 757, ts 1596005557, mbox mt-000000001006
+
+got the S1 jump, sline 758, ts 1596005558, mbox mt-000000001006
+
+got the S1 jump, sline 759, ts 1596005559, mbox mt-000000001006
+
+got the S1 jump, sline 760, ts 1596005560, mbox mt-000000001006
+
+got the S1 jump, sline 794, ts 1596005594, mbox mt-000000001006
+
+got the S1 jump, sline 918, ts 1596005718, mbox mt-000000001010
+
+got the S1 jump, sline 919, ts 1596005719, mbox mt-000000001010
+
+got the S1 jump, sline 1088, ts 1596005888, mbox mt-000000001011
+
+got the S1 jump, sline 1089, ts 1596005889, mbox mt-000000001011
+
+got the S1 jump, sline 1110, ts 1596005910, mbox mt-000000001010
+
+got the S1 jump, sline 1204, ts 1596006004, mbox mt-000000001010
+
+got the S1 jump, sline 1246, ts 1596006046, mbox mt-000000001004
+
+got the S1 jump, sline 1280, ts 1596006080, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 549 549 [ 9732 1934 1337 1323 ] 1316 1315 
+
+got the S1 jump, sline 1363, ts 1596006163, mbox mt-000000001004
+
+got the S1 jump, sline 1377, ts 1596006177, mbox mt-000000001006
+
+got the S1 jump, sline 1380, ts 1596006180, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 411 411 [ 6175 486 486 486 ] 486 485 
+
+got the S1 jump, sline 1441, ts 1596006241, mbox mt-000000001006
+
+got the S1 jump, sline 1442, ts 1596006242, mbox mt-000000001006
+
+got the S1 jump, sline 1443, ts 1596006243, mbox mt-000000001006
+
+got the S1 jump, sline 1444, ts 1596006244, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 407 413 [ 5690 4786 2787 490 ] 450 455 
+
+got the S1 jump, sline 1482, ts 1596006282, mbox mt-000000001004
+
+got the S1 jump, sline 1490, ts 1596006290, mbox mt-000000001004
+
+got the S1 jump, sline 1500, ts 1596006300, mbox mt-000000001011
+
+got the S1 jump, sline 1539, ts 1596006339, mbox mt-000000001006
+
+got the S1 jump, sline 1542, ts 1596006342, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 3115 3119 [ 31997 19229 17187 16969 ] 17140 -1 
+
+got the S1 jump, sline 1570, ts 1596006370, mbox mt-000000001006
+
+got the S1 jump, sline 1571, ts 1596006371, mbox mt-000000001006
+
+got the S1 jump, sline 1613, ts 1596006413, mbox mt-000000001006
+
+got the S1 jump, sline 1614, ts 1596006414, mbox mt-000000001006
+
+got the S1 jump, sline 1615, ts 1596006415, mbox mt-000000001006
+
+got the S1 jump, sline 1616, ts 1596006416, mbox mt-000000001006
+
+got the S1 jump, sline 1617, ts 1596006417, mbox mt-000000001006
+
+got the S1 jump, sline 1634, ts 1596006434, mbox mt-000000001006
+
+got the S1 jump, sline 1635, ts 1596006435, mbox mt-000000001006
+
+got the S1 jump, sline 1796, ts 1596006596, mbox mt-000000001006
+
+got the S1 jump, sline 1797, ts 1596006597, mbox mt-000000001006
+
+got the S1 jump, sline 1798, ts 1596006598, mbox mt-000000001006
+
+got the S1 jump, sline 1850, ts 1596006650, mbox mt-000000001006
+
+got the S1 jump, sline 1853, ts 1596006653, mbox mt-000000001006
+
+got the S1 jump, sline 1874, ts 1596006674, mbox mt-000000001004
+
+got the S1 jump, sline 1965, ts 1596006765, mbox mt-000000001004
+
+got the S1 jump, sline 1966, ts 1596006766, mbox mt-000000001004
+
+got the S1 jump, sline 2033, ts 1596006833, mbox mt-000000001016
+
+got the S1 jump, sline 2036, ts 1596006836, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 4492 4629 [ 14350 5375 5590 5538 ] 5571 5576 
+
+got the S1 jump, sline 2207, ts 1596007007, mbox mt-000000001004
+
+got the S1 jump, sline 2215, ts 1596007015, mbox mt-000000001004
+
+got the S1 jump, sline 2235, ts 1596007035, mbox mt-000000001004
+
+got the S1 jump, sline 2238, ts 1596007038, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 3799 3643 [ 14046 4584 4633 4741 ] 4758 5131 
+
+got the S1 jump, sline 2277, ts 1596007077, mbox mt-000000001014
+
+got the S1 jump, sline 2434, ts 1596007234, mbox mt-000000001014
+##PULSE-DOWN## mt-000000001014 [0 1]: 2567 2563 [ 2549 2487 2477 9667 ] 9961 8814 
+
+got the S1 jump, sline 2459, ts 1596007259, mbox mt-000000001004
+
+got the S1 jump, sline 2460, ts 1596007260, mbox mt-000000001004
+
+got the S1 jump, sline 2471, ts 1596007271, mbox mt-000000001014
+
+got the S1 jump, sline 2474, ts 1596007274, mbox mt-000000001014
+##PULSE-DOWN## mt-000000001014 [0 1]: 2559 2559 [ 9035 3599 2424 8898 ] 8751 7970 
+
+got the S1 jump, sline 2503, ts 1596007303, mbox mt-000000001014
+
+got the S1 jump, sline 2504, ts 1596007304, mbox mt-000000001014
+
+got the S1 jump, sline 2505, ts 1596007305, mbox mt-000000001014
+
+got the S1 jump, sline 2514, ts 1596007314, mbox mt-000000001015
+
+got the S1 jump, sline 2515, ts 1596007315, mbox mt-000000001015
+
+got the S1 jump, sline 2518, ts 1596007318, mbox mt-000000001015
+
+got the S1 jump, sline 2528, ts 1596007328, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 545 549 [ 10491 7994 1368 1329 ] 1314 1298 
+
+got the S1 jump, sline 2542, ts 1596007342, mbox mt-000000001014
+
+got the S1 jump, sline 2558, ts 1596007358, mbox mt-000000001015
+
+got the S1 jump, sline 2572, ts 1596007372, mbox mt-000000001015
+
+got the S1 jump, sline 2583, ts 1596007383, mbox mt-000000001015
+
+got the S1 jump, sline 2586, ts 1596007386, mbox mt-000000001015
+
+got the S1 jump, sline 2590, ts 1596007390, mbox mt-000000001015
+
+got the S1 jump, sline 2591, ts 1596007391, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 22714 24051 [ 22366 21209 2762 29910 ] 29737 27793 
+
+got the S1 jump, sline 2609, ts 1596007409, mbox mt-000000001015
+
+got the S1 jump, sline 2623, ts 1596007423, mbox mt-000000001015
+
+got the S1 jump, sline 2624, ts 1596007424, mbox mt-000000001015
+
+got the S1 jump, sline 2626, ts 1596007426, mbox mt-000000001015
+
+got the S1 jump, sline 2627, ts 1596007427, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 3287 24016 [ 25536 22092 19720 22243 ] 21915 6173 
+
+got the S1 jump, sline 2646, ts 1596007446, mbox mt-000000001004
+
+got the S1 jump, sline 2659, ts 1596007459, mbox mt-000000001015
+
+got the S1 jump, sline 2660, ts 1596007460, mbox mt-000000001015
+
+got the S1 jump, sline 2677, ts 1596007477, mbox mt-000000001015
+
+got the S1 jump, sline 2678, ts 1596007478, mbox mt-000000001015
+
+got the S1 jump, sline 2700, ts 1596007500, mbox mt-000000001004
+
+got the S1 jump, sline 2701, ts 1596007501, mbox mt-000000001004
+
+got the S1 jump, sline 2709, ts 1596007509, mbox mt-000000001004
+
+got the S1 jump, sline 2914, ts 1596007714, mbox mt-000000001004
+
+got the S1 jump, sline 2952, ts 1596007752, mbox mt-000000001004
+
+got the S1 jump, sline 2978, ts 1596007778, mbox mt-000000001004
+
+got the S1 jump, sline 3024, ts 1596007824, mbox mt-000000001016
+
+got the S1 jump, sline 3067, ts 1596007867, mbox mt-000000001004
+
+got the S1 jump, sline 3115, ts 1596007915, mbox mt-000000001004
+
+got the S1 jump, sline 3152, ts 1596007952, mbox mt-000000001004
+
+got the S1 jump, sline 3153, ts 1596007953, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 4051 4045 [ 4027 6489 16426 15409 ] 15323 15318 
+
+got the S1 jump, sline 3187, ts 1596007987, mbox mt-000000001004
+
+got the S1 jump, sline 3188, ts 1596007988, mbox mt-000000001004
+
+got the S1 jump, sline 3282, ts 1596008082, mbox mt-000000001016
+
+got the S1 jump, sline 3285, ts 1596008085, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 5086 5104 [ 12047 6142 5722 5895 ] 5930 5930 
+
+got the S1 jump, sline 3374, ts 1596008174, mbox mt-000000001004
+
+got the S1 jump, sline 3433, ts 1596008233, mbox mt-000000001004
+
+got the S1 jump, sline 3434, ts 1596008234, mbox mt-000000001004
+
+got the S1 jump, sline 3464, ts 1596008264, mbox mt-000000001002
+
+got the S1 jump, sline 3467, ts 1596008267, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 4565 4567 [ 14696 6185 6105 6087 ] 6083 6083 
+
+got the S1 jump, sline 3496, ts 1596008296, mbox mt-000000001004
+
+got the S1 jump, sline 3499, ts 1596008299, mbox mt-000000001004
+ltopo_alg_set_path, start at 'Wed Jul 29 15:40:00 CST 2020', end 1596011999
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1596008400-1596011999
+
+got the S1 jump, sline 7, ts 1596008407, mbox mt-000000001018
+
+got the S1 jump, sline 10, ts 1596008410, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 1702 1710 [ 11047 2544 2487 2491 ] 2510 2510 
+
+got the S1 jump, sline 82, ts 1596008482, mbox mt-000000001004
+
+got the S1 jump, sline 189, ts 1596008589, mbox mt-000000001013
+
+got the S1 jump, sline 192, ts 1596008592, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 551 549 [ 9124 2051 1343 1317 ] 1304 1304 
+
+got the S1 jump, sline 268, ts 1596008668, mbox mt-000000001011
+
+got the S1 jump, sline 269, ts 1596008669, mbox mt-000000001011
+##PULSE-DOWN## mt-000000001011 [0 1]: 843 972 [ 972 996 10305 9010 ] 8990 9045 
+
+got the S1 jump, sline 324, ts 1596008724, mbox mt-000000001004
+
+got the S1 jump, sline 390, ts 1596008790, mbox mt-000000001004
+
+got the S1 jump, sline 399, ts 1596008799, mbox mt-000000001017
+##PULSE-DOWN## mt-000000001017 [0 1]: 8043 8072 [ 16865 8843 8853 8883 ] 8908 8907 
+
+got the S1 jump, sline 566, ts 1596008966, mbox mt-000000001004
+
+got the S1 jump, sline 567, ts 1596008967, mbox mt-000000001004
+
+got the S1 jump, sline 891, ts 1596009291, mbox mt-000000001010
+
+got the S1 jump, sline 892, ts 1596009292, mbox mt-000000001010
+
+got the S1 jump, sline 943, ts 1596009343, mbox mt-000000001006
+
+got the S1 jump, sline 960, ts 1596009360, mbox mt-000000001006
+
+got the S1 jump, sline 961, ts 1596009361, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 413 411 [ 405 407 10623 9298 ] 9298 9175 
+
+got the S1 jump, sline 969, ts 1596009369, mbox mt-000000001006
+
+got the S1 jump, sline 986, ts 1596009386, mbox mt-000000001006
+
+got the S1 jump, sline 987, ts 1596009387, mbox mt-000000001006
+
+got the S1 jump, sline 1126, ts 1596009526, mbox mt-000000001004
+
+got the S1 jump, sline 1127, ts 1596009527, mbox mt-000000001004
+
+got the S1 jump, sline 1138, ts 1596009538, mbox mt-000000001004
+
+got the S1 jump, sline 1141, ts 1596009541, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 3011 3017 [ 11743 3978 3992 4086 ] 4133 4133 
+
+got the S1 jump, sline 1179, ts 1596009579, mbox mt-000000001015
+
+got the S1 jump, sline 1180, ts 1596009580, mbox mt-000000001015
+
+got the S1 jump, sline 1181, ts 1596009581, mbox mt-000000001015
+
+got the S1 jump, sline 1182, ts 1596009582, mbox mt-000000001015
+
+got the S1 jump, sline 1222, ts 1596009622, mbox mt-000000001015
+
+got the S1 jump, sline 1374, ts 1596009774, mbox mt-000000001004
+
+got the S1 jump, sline 1397, ts 1596009797, mbox mt-000000001014
+
+got the S1 jump, sline 1411, ts 1596009811, mbox mt-000000001006
+
+got the S1 jump, sline 1428, ts 1596009828, mbox mt-000000001014
+
+got the S1 jump, sline 1439, ts 1596009839, mbox mt-000000001006
+
+got the S1 jump, sline 1440, ts 1596009840, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 411 411 [ 4370 2514 8586 9157 ] 9116 8978 
+
+got the S1 jump, sline 1462, ts 1596009862, mbox mt-000000001013
+
+got the S1 jump, sline 1465, ts 1596009865, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 551 551 [ 9967 1396 1396 1337 ] 1317 1317 
+
+got the S1 jump, sline 1575, ts 1596009975, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 407 411 [ 5463 421 411 411 ] 405 2859 
+
+got the S1 jump, sline 1583, ts 1596009983, mbox mt-000000001006
+
+got the S1 jump, sline 1591, ts 1596009991, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 6856 9155 [ 9555 6607 415 411 ] 411 415 
+
+got the S1 jump, sline 1618, ts 1596010018, mbox mt-000000001004
+
+got the S1 jump, sline 1739, ts 1596010139, mbox mt-000000001006
+
+got the S1 jump, sline 1742, ts 1596010142, mbox mt-000000001006
+
+got the S1 jump, sline 1743, ts 1596010143, mbox mt-000000001006
+
+got the S1 jump, sline 1744, ts 1596010144, mbox mt-000000001006
+
+got the S1 jump, sline 1861, ts 1596010261, mbox mt-000000001004
+
+got the S1 jump, sline 1862, ts 1596010262, mbox mt-000000001004
+
+got the S1 jump, sline 1915, ts 1596010315, mbox mt-000000001015
+
+got the S1 jump, sline 1916, ts 1596010316, mbox mt-000000001015
+
+got the S1 jump, sline 1924, ts 1596010324, mbox mt-000000001015
+
+got the S1 jump, sline 1940, ts 1596010340, mbox mt-000000001015
+
+got the S1 jump, sline 1952, ts 1596010352, mbox mt-000000001015
+
+got the S1 jump, sline 1953, ts 1596010353, mbox mt-000000001015
+
+got the S1 jump, sline 1954, ts 1596010354, mbox mt-000000001015
+
+got the S1 jump, sline 1962, ts 1596010362, mbox mt-000000001015
+
+got the S1 jump, sline 1963, ts 1596010363, mbox mt-000000001015
+
+got the S1 jump, sline 1971, ts 1596010371, mbox mt-000000001015
+
+got the S1 jump, sline 2005, ts 1596010405, mbox mt-000000001006
+
+got the S1 jump, sline 2006, ts 1596010406, mbox mt-000000001006
+
+got the S1 jump, sline 2027, ts 1596010427, mbox mt-000000001006
+
+got the S1 jump, sline 2167, ts 1596010567, mbox mt-000000001011
+
+got the S1 jump, sline 2253, ts 1596010653, mbox mt-000000001006
+
+got the S1 jump, sline 2267, ts 1596010667, mbox mt-000000001006
+
+got the S1 jump, sline 2268, ts 1596010668, mbox mt-000000001006
+
+got the S1 jump, sline 2269, ts 1596010669, mbox mt-000000001006
+
+got the S1 jump, sline 2273, ts 1596010673, mbox mt-000000001006
+
+got the S1 jump, sline 2348, ts 1596010748, mbox mt-000000001011
+
+got the S1 jump, sline 2430, ts 1596010830, mbox mt-000000001006
+
+got the S1 jump, sline 2443, ts 1596010843, mbox mt-000000001015
+
+got the S1 jump, sline 2444, ts 1596010844, mbox mt-000000001015
+
+got the S1 jump, sline 2445, ts 1596010845, mbox mt-000000001015
+
+got the S1 jump, sline 2446, ts 1596010846, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 2983 3317 [ 18700 17226 3945 3062 ] 3040 3044 
+
+got the S1 jump, sline 2511, ts 1596010911, mbox mt-000000001015
+
+got the S1 jump, sline 2529, ts 1596010929, mbox mt-000000001006
+
+got the S1 jump, sline 2554, ts 1596010954, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 3044 2971 [ 32784 28991 27991 26768 ] 26637 24740 
+
+got the S1 jump, sline 2577, ts 1596010977, mbox mt-000000001015
+
+got the S1 jump, sline 2587, ts 1596010987, mbox mt-000000001015
+
+got the S1 jump, sline 2588, ts 1596010988, mbox mt-000000001015
+
+got the S1 jump, sline 2589, ts 1596010989, mbox mt-000000001015
+
+got the S1 jump, sline 2592, ts 1596010992, mbox mt-000000001015
+
+got the S1 jump, sline 2614, ts 1596011014, mbox mt-000000001014
+
+got the S1 jump, sline 2615, ts 1596011015, mbox mt-000000001014
+
+got the S1 jump, sline 2616, ts 1596011016, mbox mt-000000001014
+
+got the S1 jump, sline 2627, ts 1596011027, mbox mt-000000001014
+
+got the S1 jump, sline 2663, ts 1596011063, mbox mt-000000001004
+
+got the S1 jump, sline 2664, ts 1596011064, mbox mt-000000001004
+
+got the S1 jump, sline 2702, ts 1596011102, mbox mt-000000001014
+
+got the S1 jump, sline 2763, ts 1596011163, mbox mt-000000001004
+
+got the S1 jump, sline 2846, ts 1596011246, mbox mt-000000001004
+
+got the S1 jump, sline 2905, ts 1596011305, mbox mt-000000001004
+
+got the S1 jump, sline 2916, ts 1596011316, mbox mt-000000001006
+
+got the S1 jump, sline 2924, ts 1596011324, mbox mt-000000001006
+
+got the S1 jump, sline 3134, ts 1596011534, mbox mt-000000001006
+
+got the S1 jump, sline 3137, ts 1596011537, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 407 411 [ 6762 3864 411 407 ] 407 407 
+
+got the S1 jump, sline 3167, ts 1596011567, mbox mt-000000001004
+
+got the S1 jump, sline 3181, ts 1596011581, mbox mt-000000001006
+
+got the S1 jump, sline 3183, ts 1596011583, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 405 411 [ 405 6240 3652 6505 ] 6614 1345 
+
+got the S1 jump, sline 3257, ts 1596011657, mbox mt-000000001006
+
+got the S1 jump, sline 3259, ts 1596011659, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 407 407 [ 405 5616 3572 9391 ] 9216 9086 
+
+got the S1 jump, sline 3267, ts 1596011667, mbox mt-000000001006
+
+got the S1 jump, sline 3318, ts 1596011718, mbox mt-000000001006
+
+got the S1 jump, sline 3326, ts 1596011726, mbox mt-000000001006
+
+got the S1 jump, sline 3327, ts 1596011727, mbox mt-000000001006
+
+got the S1 jump, sline 3385, ts 1596011785, mbox mt-000000001011
+
+got the S1 jump, sline 3484, ts 1596011884, mbox mt-000000001006
+
+got the S1 jump, sline 3498, ts 1596011898, mbox mt-000000001015
+
+got the S1 jump, sline 3506, ts 1596011906, mbox mt-000000001015
+
+got the S1 jump, sline 3507, ts 1596011907, mbox mt-000000001015
+
+got the S1 jump, sline 3508, ts 1596011908, mbox mt-000000001015
+
+got the S1 jump, sline 3511, ts 1596011911, mbox mt-000000001015
+
+got the S1 jump, sline 3525, ts 1596011925, mbox mt-000000001006
+
+got the S1 jump, sline 3527, ts 1596011927, mbox mt-000000001006
+
+got the S1 jump, sline 3528, ts 1596011928, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 1147 1141 [ 6987 4508 9691 10097 ] 10079 10093 
+
+got the S1 jump, sline 3536, ts 1596011936, mbox mt-000000001006
+
+got the S1 jump, sline 3579, ts 1596011979, mbox mt-000000001015
+
+got the S1 jump, sline 3580, ts 1596011980, mbox mt-000000001015
+
+got the S1 jump, sline 3581, ts 1596011981, mbox mt-000000001015
+
+got the S1 jump, sline 3589, ts 1596011989, mbox mt-000000001015
+ltopo_alg_set_path, start at 'Wed Jul 29 16:40:00 CST 2020', end 1596015599
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1596012000-1596015599
+
+got the S1 jump, sline 0, ts 1596012000, mbox mt-000000001015
+
+got the S1 jump, sline 1, ts 1596012001, mbox mt-000000001015
+
+got the S1 jump, sline 90, ts 1596012090, mbox mt-000000001004
+
+got the S1 jump, sline 91, ts 1596012091, mbox mt-000000001004
+
+got the S1 jump, sline 265, ts 1596012265, mbox mt-000000001006
+
+got the S1 jump, sline 358, ts 1596012358, mbox mt-000000001004
+
+got the S1 jump, sline 373, ts 1596012373, mbox mt-000000001004
+
+got the S1 jump, sline 376, ts 1596012376, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 4711 4711 [ 16316 12345 4563 4561 ] 4553 4555 
+
+got the S1 jump, sline 384, ts 1596012384, mbox mt-000000001006
+
+got the S1 jump, sline 395, ts 1596012395, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 415 411 [ 413 5198 2789 9222 ] 9232 9104 
+
+got the S1 jump, sline 403, ts 1596012403, mbox mt-000000001006
+
+got the S1 jump, sline 583, ts 1596012583, mbox mt-000000001006
+
+got the S1 jump, sline 586, ts 1596012586, mbox mt-000000001006
+
+got the S1 jump, sline 587, ts 1596012587, mbox mt-000000001006
+
+got the S1 jump, sline 590, ts 1596012590, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 413 2426 [ 15460 407 407 407 ] 411 411 
+
+got the S1 jump, sline 601, ts 1596012601, mbox mt-000000001006
+
+got the S1 jump, sline 604, ts 1596012604, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 411 407 [ 26084 1421 411 405 ] 411 411 
+
+got the S1 jump, sline 619, ts 1596012619, mbox mt-000000001006
+
+got the S1 jump, sline 622, ts 1596012622, mbox mt-000000001006
+
+got the S1 jump, sline 623, ts 1596012623, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 535 20916 [ 17057 15396 15080 535 ] 411 407 
+
+got the S1 jump, sline 648, ts 1596012648, mbox mt-000000001006
+
+got the S1 jump, sline 649, ts 1596012649, mbox mt-000000001006
+
+got the S1 jump, sline 666, ts 1596012666, mbox mt-000000001014
+
+got the S1 jump, sline 696, ts 1596012696, mbox mt-000000001014
+
+got the S1 jump, sline 742, ts 1596012742, mbox mt-000000001012
+
+got the S1 jump, sline 743, ts 1596012743, mbox mt-000000001012
+
+got the S1 jump, sline 753, ts 1596012753, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 407 407 [ 407 4574 3409 9004 ] 8971 8447 
+
+got the S1 jump, sline 761, ts 1596012761, mbox mt-000000001006
+
+got the S1 jump, sline 844, ts 1596012844, mbox mt-000000001012
+
+got the S1 jump, sline 845, ts 1596012845, mbox mt-000000001012
+
+got the S1 jump, sline 880, ts 1596012880, mbox mt-000000001014
+
+got the S1 jump, sline 881, ts 1596012881, mbox mt-000000001014
+
+got the S1 jump, sline 899, ts 1596012899, mbox mt-000000001004
+
+got the S1 jump, sline 915, ts 1596012915, mbox mt-000000001006
+
+got the S1 jump, sline 918, ts 1596012918, mbox mt-000000001006
+
+got the S1 jump, sline 919, ts 1596012919, mbox mt-000000001006
+
+got the S1 jump, sline 920, ts 1596012920, mbox mt-000000001006
+
+got the S1 jump, sline 928, ts 1596012928, mbox mt-000000001006
+
+got the S1 jump, sline 945, ts 1596012945, mbox mt-000000001006
+
+got the S1 jump, sline 946, ts 1596012946, mbox mt-000000001006
+
+got the S1 jump, sline 954, ts 1596012954, mbox mt-000000001006
+
+got the S1 jump, sline 1001, ts 1596013001, mbox mt-000000001006
+
+got the S1 jump, sline 1002, ts 1596013002, mbox mt-000000001006
+
+got the S1 jump, sline 1010, ts 1596013010, mbox mt-000000001006
+
+got the S1 jump, sline 1047, ts 1596013047, mbox mt-000000001006
+
+got the S1 jump, sline 1093, ts 1596013093, mbox mt-000000001016
+
+got the S1 jump, sline 1096, ts 1596013096, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 4170 4182 [ 13846 4982 4904 4926 ] 4916 4917 
+##DATA-LOSS### bt-000000001001-4 [0 0]: 7660 7670 [ 7680 -1 4757 4755 ] 4753 4751 
+
+got the S1 jump, sline 1107, ts 1596013107, mbox mt-000000001006
+
+got the S1 jump, sline 1108, ts 1596013108, mbox mt-000000001006
+
+got the S1 jump, sline 1109, ts 1596013109, mbox mt-000000001006
+
+got the S1 jump, sline 1117, ts 1596013117, mbox mt-000000001006
+
+got the S1 jump, sline 1207, ts 1596013207, mbox mt-000000001016
+
+got the S1 jump, sline 1230, ts 1596013230, mbox mt-000000001006
+
+got the S1 jump, sline 1264, ts 1596013264, mbox mt-000000001006
+
+got the S1 jump, sline 1265, ts 1596013265, mbox mt-000000001006
+
+got the S1 jump, sline 1273, ts 1596013273, mbox mt-000000001006
+
+got the S1 jump, sline 1274, ts 1596013274, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 19192 23479 [ 23414 21220 18333 17642 ] 17470 17273 
+
+got the S1 jump, sline 1335, ts 1596013335, mbox mt-000000001006
+
+got the S1 jump, sline 1336, ts 1596013336, mbox mt-000000001006
+
+got the S1 jump, sline 1337, ts 1596013337, mbox mt-000000001006
+
+got the S1 jump, sline 1338, ts 1596013338, mbox mt-000000001006
+
+got the S1 jump, sline 1383, ts 1596013383, mbox mt-000000001006
+
+got the S1 jump, sline 1384, ts 1596013384, mbox mt-000000001006
+
+got the S1 jump, sline 1424, ts 1596013424, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 16925 16916 [ 16893 16936 20559 24679 ] 24679 22821 
+
+got the S1 jump, sline 1465, ts 1596013465, mbox mt-000000001006
+
+got the S1 jump, sline 1520, ts 1596013520, mbox mt-000000001006
+
+got the S1 jump, sline 1523, ts 1596013523, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 413 411 [ 6534 421 407 411 ] 411 1404 
+
+got the S1 jump, sline 1605, ts 1596013605, mbox mt-000000001006
+
+got the S1 jump, sline 1614, ts 1596013614, mbox mt-000000001006
+
+got the S1 jump, sline 1615, ts 1596013615, mbox mt-000000001006
+
+got the S1 jump, sline 1626, ts 1596013626, mbox mt-000000001006
+
+got the S1 jump, sline 1653, ts 1596013653, mbox mt-000000001006
+
+got the S1 jump, sline 1698, ts 1596013698, mbox mt-000000001006
+
+got the S1 jump, sline 1706, ts 1596013706, mbox mt-000000001006
+
+got the S1 jump, sline 1752, ts 1596013752, mbox mt-000000001006
+
+got the S1 jump, sline 1753, ts 1596013753, mbox mt-000000001006
+
+got the S1 jump, sline 1754, ts 1596013754, mbox mt-000000001006
+
+got the S1 jump, sline 1762, ts 1596013762, mbox mt-000000001006
+
+got the S1 jump, sline 1788, ts 1596013788, mbox mt-000000001006
+
+got the S1 jump, sline 1789, ts 1596013789, mbox mt-000000001006
+
+got the S1 jump, sline 1798, ts 1596013798, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 9314 9638 [ 27300 4702 490 407 ] 411 432 
+
+got the S1 jump, sline 1838, ts 1596013838, mbox mt-000000001017
+
+got the S1 jump, sline 1856, ts 1596013856, mbox mt-000000001004
+
+got the S1 jump, sline 1929, ts 1596013929, mbox mt-000000001006
+
+got the S1 jump, sline 1932, ts 1596013932, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 3160 3154 [ 40714 18268 17275 16805 ] 17083 -1 
+
+got the S1 jump, sline 2028, ts 1596014028, mbox mt-000000001006
+
+got the S1 jump, sline 2060, ts 1596014060, mbox mt-000000001006
+
+got the S1 jump, sline 2061, ts 1596014061, mbox mt-000000001006
+
+got the S1 jump, sline 2062, ts 1596014062, mbox mt-000000001006
+
+got the S1 jump, sline 2130, ts 1596014130, mbox mt-000000001006
+
+got the S1 jump, sline 2131, ts 1596014131, mbox mt-000000001006
+
+got the S1 jump, sline 2132, ts 1596014132, mbox mt-000000001006
+
+got the S1 jump, sline 2133, ts 1596014133, mbox mt-000000001006
+
+got the S1 jump, sline 2140, ts 1596014140, mbox mt-000000001006
+
+got the S1 jump, sline 2141, ts 1596014141, mbox mt-000000001006
+
+got the S1 jump, sline 2161, ts 1596014161, mbox mt-000000001006
+
+got the S1 jump, sline 2175, ts 1596014175, mbox mt-000000001006
+
+got the S1 jump, sline 2176, ts 1596014176, mbox mt-000000001006
+
+got the S1 jump, sline 2177, ts 1596014177, mbox mt-000000001006
+
+got the S1 jump, sline 2178, ts 1596014178, mbox mt-000000001006
+
+got the S1 jump, sline 2180, ts 1596014180, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 22837 31714 [ 35167 33933 32990 28399 ] 28526 -1 
+
+got the S1 jump, sline 2192, ts 1596014192, mbox mt-000000001006
+
+got the S1 jump, sline 2193, ts 1596014193, mbox mt-000000001006
+
+got the S1 jump, sline 2194, ts 1596014194, mbox mt-000000001006
+
+got the S1 jump, sline 2195, ts 1596014195, mbox mt-000000001006
+
+got the S1 jump, sline 2197, ts 1596014197, mbox mt-000000001006
+
+got the S1 jump, sline 2198, ts 1596014198, mbox mt-000000001006
+
+got the S1 jump, sline 2323, ts 1596014323, mbox mt-000000001004
+
+got the S1 jump, sline 2336, ts 1596014336, mbox mt-000000001016
+
+got the S1 jump, sline 2339, ts 1596014339, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 4602 4682 [ 12826 5983 5457 5477 ] 5487 5491 
+
+got the S1 jump, sline 2420, ts 1596014420, mbox mt-000000001015
+
+got the S1 jump, sline 2421, ts 1596014421, mbox mt-000000001015
+
+got the S1 jump, sline 2422, ts 1596014422, mbox mt-000000001015
+
+got the S1 jump, sline 2445, ts 1596014445, mbox mt-000000001015
+
+got the S1 jump, sline 2567, ts 1596014567, mbox mt-000000001004
+
+got the S1 jump, sline 2568, ts 1596014568, mbox mt-000000001004
+
+got the S1 jump, sline 2714, ts 1596014714, mbox mt-000000001012
+
+got the S1 jump, sline 2802, ts 1596014802, mbox mt-000000001011
+
+got the S1 jump, sline 2818, ts 1596014818, mbox mt-000000001004
+
+got the S1 jump, sline 2990, ts 1596014990, mbox mt-000000001006
+
+got the S1 jump, sline 3275, ts 1596015275, mbox mt-000000001004
+
+got the S1 jump, sline 3283, ts 1596015283, mbox mt-000000001004
+
+got the S1 jump, sline 3517, ts 1596015517, mbox mt-000000001004
+
+got the S1 jump, sline 3518, ts 1596015518, mbox mt-000000001004
+
+got the S1 jump, sline 3580, ts 1596015580, mbox mt-000000001016
+
+got the S1 jump, sline 3583, ts 1596015583, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 4056 4052 [ 10158 4670 4668 4688 ] 4672 4707 
+ltopo_alg_set_path, start at 'Wed Jul 29 17:40:00 CST 2020', end 1596019199
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1596015600-1596019199
+
+got the S1 jump, sline 55, ts 1596015655, mbox mt-000000001016
+
+got the S1 jump, sline 90, ts 1596015690, mbox mt-000000001016
+
+got the S1 jump, sline 148, ts 1596015748, mbox mt-000000001006
+
+got the S1 jump, sline 151, ts 1596015751, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 3201 3201 [ 25193 17875 17381 17177 ] 16848 16940 
+
+got the S1 jump, sline 220, ts 1596015820, mbox mt-000000001006
+
+got the S1 jump, sline 221, ts 1596015821, mbox mt-000000001006
+
+got the S1 jump, sline 229, ts 1596015829, mbox mt-000000001006
+
+got the S1 jump, sline 316, ts 1596015916, mbox mt-000000001004
+
+got the S1 jump, sline 325, ts 1596015925, mbox mt-000000001006
+
+got the S1 jump, sline 328, ts 1596015928, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 415 413 [ 27230 16608 16708 17122 ] 17107 17044 
+
+got the S1 jump, sline 352, ts 1596015952, mbox mt-000000001016
+
+got the S1 jump, sline 386, ts 1596015986, mbox mt-000000001016
+
+got the S1 jump, sline 387, ts 1596015987, mbox mt-000000001016
+
+got the S1 jump, sline 524, ts 1596016124, mbox mt-000000001006
+
+got the S1 jump, sline 529, ts 1596016129, mbox mt-000000001006
+
+got the S1 jump, sline 530, ts 1596016130, mbox mt-000000001006
+
+got the S1 jump, sline 531, ts 1596016131, mbox mt-000000001006
+
+got the S1 jump, sline 587, ts 1596016187, mbox mt-000000001006
+
+got the S1 jump, sline 588, ts 1596016188, mbox mt-000000001006
+
+got the S1 jump, sline 692, ts 1596016292, mbox mt-000000001006
+
+got the S1 jump, sline 693, ts 1596016293, mbox mt-000000001006
+
+got the S1 jump, sline 694, ts 1596016294, mbox mt-000000001006
+
+got the S1 jump, sline 695, ts 1596016295, mbox mt-000000001006
+
+got the S1 jump, sline 697, ts 1596016297, mbox mt-000000001006
+
+got the S1 jump, sline 698, ts 1596016298, mbox mt-000000001006
+
+got the S1 jump, sline 699, ts 1596016299, mbox mt-000000001006
+
+got the S1 jump, sline 709, ts 1596016309, mbox mt-000000001006
+
+got the S1 jump, sline 802, ts 1596016402, mbox mt-000000001012
+
+got the S1 jump, sline 803, ts 1596016403, mbox mt-000000001012
+
+got the S1 jump, sline 804, ts 1596016404, mbox mt-000000001012
+
+got the S1 jump, sline 930, ts 1596016530, mbox mt-000000001004
+
+got the S1 jump, sline 931, ts 1596016531, mbox mt-000000001004
+
+got the S1 jump, sline 950, ts 1596016550, mbox mt-000000001004
+
+got the S1 jump, sline 951, ts 1596016551, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 4319 4321 [ 4319 5063 14797 16118 ] 16135 6974 
+
+got the S1 jump, sline 1054, ts 1596016654, mbox mt-000000001006
+
+got the S1 jump, sline 1057, ts 1596016657, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 3570 3570 [ 38467 18637 17381 17293 ] 17373 -1 
+
+got the S1 jump, sline 1149, ts 1596016749, mbox mt-000000001006
+
+got the S1 jump, sline 1159, ts 1596016759, mbox mt-000000001006
+
+got the S1 jump, sline 1160, ts 1596016760, mbox mt-000000001006
+
+got the S1 jump, sline 1185, ts 1596016785, mbox mt-000000001006
+
+got the S1 jump, sline 1186, ts 1596016786, mbox mt-000000001006
+
+got the S1 jump, sline 1200, ts 1596016800, mbox mt-000000001006
+
+got the S1 jump, sline 1261, ts 1596016861, mbox mt-000000001006
+
+got the S1 jump, sline 1262, ts 1596016862, mbox mt-000000001006
+
+got the S1 jump, sline 1263, ts 1596016863, mbox mt-000000001006
+
+got the S1 jump, sline 1266, ts 1596016866, mbox mt-000000001006
+
+got the S1 jump, sline 1267, ts 1596016867, mbox mt-000000001006
+
+got the S1 jump, sline 1268, ts 1596016868, mbox mt-000000001006
+
+got the S1 jump, sline 1298, ts 1596016898, mbox mt-000000001006
+
+got the S1 jump, sline 1323, ts 1596016923, mbox mt-000000001006
+
+got the S1 jump, sline 1326, ts 1596016926, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 798 798 [ 8526 805 805 805 ] 803 1863 
+
+got the S1 jump, sline 1334, ts 1596016934, mbox mt-000000001006
+
+got the S1 jump, sline 1342, ts 1596016942, mbox mt-000000001006
+
+got the S1 jump, sline 1343, ts 1596016943, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 798 800 [ 798 1622 8341 8922 ] 8922 6871 
+
+got the S1 jump, sline 1423, ts 1596017023, mbox mt-000000001006
+
+got the S1 jump, sline 1424, ts 1596017024, mbox mt-000000001006
+
+got the S1 jump, sline 1458, ts 1596017058, mbox mt-000000001006
+
+got the S1 jump, sline 1459, ts 1596017059, mbox mt-000000001006
+
+got the S1 jump, sline 1460, ts 1596017060, mbox mt-000000001006
+
+got the S1 jump, sline 1462, ts 1596017062, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 794 6201 [ 9400 9803 7709 805 ] 798 803 
+
+got the S1 jump, sline 1480, ts 1596017080, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 845 11213 [ 2948 839 10293 9897 ] 10125 9967 
+
+got the S1 jump, sline 1532, ts 1596017132, mbox mt-000000001006
+
+got the S1 jump, sline 1542, ts 1596017142, mbox mt-000000001006
+
+got the S1 jump, sline 1545, ts 1596017145, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 4949 7744 [ 10595 1690 800 798 ] 798 798 
+
+got the S1 jump, sline 1571, ts 1596017171, mbox mt-000000001012
+
+got the S1 jump, sline 1572, ts 1596017172, mbox mt-000000001012
+
+got the S1 jump, sline 1589, ts 1596017189, mbox mt-000000001004
+
+got the S1 jump, sline 1590, ts 1596017190, mbox mt-000000001004
+
+got the S1 jump, sline 1834, ts 1596017434, mbox mt-000000001004
+
+got the S1 jump, sline 1842, ts 1596017442, mbox mt-000000001004
+
+got the S1 jump, sline 1905, ts 1596017505, mbox mt-000000001018
+
+got the S1 jump, sline 1918, ts 1596017518, mbox mt-000000001013
+
+got the S1 jump, sline 1921, ts 1596017521, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 560 562 [ 11276 1465 1349 1339 ] 1327 1326 
+
+got the S1 jump, sline 2090, ts 1596017690, mbox mt-000000001004
+
+got the S1 jump, sline 2182, ts 1596017782, mbox mt-000000001018
+
+got the S1 jump, sline 2185, ts 1596017785, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 32621 32638 [ 39733 33541 33439 33480 ] 33445 33443 
+
+got the S1 jump, sline 2308, ts 1596017908, mbox mt-000000001004
+
+got the S1 jump, sline 2309, ts 1596017909, mbox mt-000000001004
+
+got the S1 jump, sline 2318, ts 1596017918, mbox mt-000000001009
+
+got the S1 jump, sline 2332, ts 1596017932, mbox mt-000000001016
+
+got the S1 jump, sline 2526, ts 1596018126, mbox mt-000000001016
+
+got the S1 jump, sline 2527, ts 1596018127, mbox mt-000000001016
+
+got the S1 jump, sline 2528, ts 1596018128, mbox mt-000000001016
+
+got the S1 jump, sline 2539, ts 1596018139, mbox mt-000000001004
+
+got the S1 jump, sline 2540, ts 1596018140, mbox mt-000000001004
+
+got the S1 jump, sline 2656, ts 1596018256, mbox mt-000000001016
+
+got the S1 jump, sline 2784, ts 1596018384, mbox mt-000000001004
+
+got the S1 jump, sline 2785, ts 1596018385, mbox mt-000000001004
+
+got the S1 jump, sline 2795, ts 1596018395, mbox mt-000000001016
+
+got the S1 jump, sline 2926, ts 1596018526, mbox mt-000000001016
+
+got the S1 jump, sline 3007, ts 1596018607, mbox mt-000000001016
+
+got the S1 jump, sline 3046, ts 1596018646, mbox mt-000000001004
+
+got the S1 jump, sline 3047, ts 1596018647, mbox mt-000000001004
+
+got the S1 jump, sline 3058, ts 1596018658, mbox mt-000000001016
+
+got the S1 jump, sline 3059, ts 1596018659, mbox mt-000000001016
+
+got the S1 jump, sline 3143, ts 1596018743, mbox mt-000000001016
+
+got the S1 jump, sline 3144, ts 1596018744, mbox mt-000000001016
+
+got the S1 jump, sline 3194, ts 1596018794, mbox mt-000000001016
+
+got the S1 jump, sline 3314, ts 1596018914, mbox mt-000000001004
+
+got the S1 jump, sline 3365, ts 1596018965, mbox mt-000000001004
+
+got the S1 jump, sline 3366, ts 1596018966, mbox mt-000000001004
+ltopo_alg_set_path, start at 'Wed Jul 29 18:40:00 CST 2020', end 1596022799
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1596019200-1596022799
+
+got the S1 jump, sline 134, ts 1596019334, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 5047 5388 [ 14850 5812 5635 5659 ] 5643 5642 
+
+got the S1 jump, sline 142, ts 1596019342, mbox mt-000000001004
+
+got the S1 jump, sline 172, ts 1596019372, mbox mt-000000001004
+
+got the S1 jump, sline 173, ts 1596019373, mbox mt-000000001004
+
+got the S1 jump, sline 207, ts 1596019407, mbox mt-000000001004
+
+got the S1 jump, sline 238, ts 1596019438, mbox mt-000000001004
+
+got the S1 jump, sline 239, ts 1596019439, mbox mt-000000001004
+
+got the S1 jump, sline 242, ts 1596019442, mbox mt-000000001004
+
+got the S1 jump, sline 243, ts 1596019443, mbox mt-000000001004
+
+got the S1 jump, sline 244, ts 1596019444, mbox mt-000000001004
+
+got the S1 jump, sline 245, ts 1596019445, mbox mt-000000001004
+
+got the S1 jump, sline 253, ts 1596019453, mbox mt-000000001004
+
+got the S1 jump, sline 254, ts 1596019454, mbox mt-000000001004
+
+got the S1 jump, sline 275, ts 1596019475, mbox mt-000000001004
+
+got the S1 jump, sline 309, ts 1596019509, mbox mt-000000001004
+
+got the S1 jump, sline 319, ts 1596019519, mbox mt-000000001004
+
+got the S1 jump, sline 322, ts 1596019522, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 12119 12127 [ 22148 13197 13189 13169 ] 13226 13229 
+
+got the S1 jump, sline 343, ts 1596019543, mbox mt-000000001004
+
+got the S1 jump, sline 360, ts 1596019560, mbox mt-000000001017
+
+got the S1 jump, sline 423, ts 1596019623, mbox mt-000000001004
+
+got the S1 jump, sline 436, ts 1596019636, mbox mt-000000001004
+
+got the S1 jump, sline 451, ts 1596019651, mbox mt-000000001004
+
+got the S1 jump, sline 463, ts 1596019663, mbox mt-000000001004
+
+got the S1 jump, sline 478, ts 1596019678, mbox mt-000000001004
+
+got the S1 jump, sline 479, ts 1596019679, mbox mt-000000001004
+
+got the S1 jump, sline 563, ts 1596019763, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 1520 796 [ 9565 9471 1404 807 ] 790 9704 
+
+got the S1 jump, sline 582, ts 1596019782, mbox mt-000000001006
+
+got the S1 jump, sline 585, ts 1596019785, mbox mt-000000001006
+##PULSE-DOWN## mt-000000001006 [0 1]: 896 798 [ 10432 835 798 798 ] 798 1116 
+
+got the S1 jump, sline 630, ts 1596019830, mbox mt-000000001004
+
+got the S1 jump, sline 649, ts 1596019849, mbox mt-000000001004
+
+got the S1 jump, sline 660, ts 1596019860, mbox mt-000000001004
+
+got the S1 jump, sline 679, ts 1596019879, mbox mt-000000001004
+
+got the S1 jump, sline 689, ts 1596019889, mbox mt-000000001004
+
+got the S1 jump, sline 697, ts 1596019897, mbox mt-000000001004
+
+got the S1 jump, sline 708, ts 1596019908, mbox mt-000000001004
+
+got the S1 jump, sline 718, ts 1596019918, mbox mt-000000001004
+
+got the S1 jump, sline 738, ts 1596019938, mbox mt-000000001004
+
+got the S1 jump, sline 748, ts 1596019948, mbox mt-000000001004
+
+got the S1 jump, sline 767, ts 1596019967, mbox mt-000000001004
+
+got the S1 jump, sline 768, ts 1596019968, mbox mt-000000001004
+
+got the S1 jump, sline 777, ts 1596019977, mbox mt-000000001004
+
+got the S1 jump, sline 778, ts 1596019978, mbox mt-000000001004
+
+got the S1 jump, sline 789, ts 1596019989, mbox mt-000000001016
+
+got the S1 jump, sline 797, ts 1596019997, mbox mt-000000001004
+
+got the S1 jump, sline 826, ts 1596020026, mbox mt-000000001004
+
+got the S1 jump, sline 836, ts 1596020036, mbox mt-000000001004
+
+got the S1 jump, sline 866, ts 1596020066, mbox mt-000000001004
+
+got the S1 jump, sline 884, ts 1596020084, mbox mt-000000001004
+
+got the S1 jump, sline 885, ts 1596020085, mbox mt-000000001004
+
+got the S1 jump, sline 895, ts 1596020095, mbox mt-000000001004
+
+got the S1 jump, sline 911, ts 1596020111, mbox mt-000000001004
+
+got the S1 jump, sline 912, ts 1596020112, mbox mt-000000001004
+
+got the S1 jump, sline 913, ts 1596020113, mbox mt-000000001004
+
+got the S1 jump, sline 914, ts 1596020114, mbox mt-000000001004
+
+got the S1 jump, sline 924, ts 1596020124, mbox mt-000000001004
+
+got the S1 jump, sline 944, ts 1596020144, mbox mt-000000001004
+
+got the S1 jump, sline 954, ts 1596020154, mbox mt-000000001004
+
+got the S1 jump, sline 962, ts 1596020162, mbox mt-000000001004
+
+got the S1 jump, sline 971, ts 1596020171, mbox mt-000000001004
+
+got the S1 jump, sline 983, ts 1596020183, mbox mt-000000001004
+
+got the S1 jump, sline 991, ts 1596020191, mbox mt-000000001004
+
+got the S1 jump, sline 1002, ts 1596020202, mbox mt-000000001004
+
+got the S1 jump, sline 1032, ts 1596020232, mbox mt-000000001004
+
+got the S1 jump, sline 1042, ts 1596020242, mbox mt-000000001004
+
+got the S1 jump, sline 1053, ts 1596020253, mbox mt-000000001004
+
+got the S1 jump, sline 1054, ts 1596020254, mbox mt-000000001004
+
+got the S1 jump, sline 1062, ts 1596020262, mbox mt-000000001004
+
+got the S1 jump, sline 1071, ts 1596020271, mbox mt-000000001004
+
+got the S1 jump, sline 1072, ts 1596020272, mbox mt-000000001004
+
+got the S1 jump, sline 1073, ts 1596020273, mbox mt-000000001004
+
+got the S1 jump, sline 1091, ts 1596020291, mbox mt-000000001004
+
+got the S1 jump, sline 1101, ts 1596020301, mbox mt-000000001004
+
+got the S1 jump, sline 1120, ts 1596020320, mbox mt-000000001004
+
+got the S1 jump, sline 1129, ts 1596020329, mbox mt-000000001004
+
+got the S1 jump, sline 1130, ts 1596020330, mbox mt-000000001004
+
+got the S1 jump, sline 1149, ts 1596020349, mbox mt-000000001004
+
+got the S1 jump, sline 1150, ts 1596020350, mbox mt-000000001004
+
+got the S1 jump, sline 1159, ts 1596020359, mbox mt-000000001004
+
+got the S1 jump, sline 1178, ts 1596020378, mbox mt-000000001004
+
+got the S1 jump, sline 1200, ts 1596020400, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 7841 40868 [ 40868 40878 13212 7696 ] 7733 7705 
+
+got the S1 jump, sline 1217, ts 1596020417, mbox mt-000000001004
+
+got the S1 jump, sline 1222, ts 1596020422, mbox mt-000000001004
+
+got the S1 jump, sline 1223, ts 1596020423, mbox mt-000000001004
+
+got the S1 jump, sline 1237, ts 1596020437, mbox mt-000000001004
+
+got the S1 jump, sline 1247, ts 1596020447, mbox mt-000000001004
+
+got the S1 jump, sline 1277, ts 1596020477, mbox mt-000000001004
+
+got the S1 jump, sline 1278, ts 1596020478, mbox mt-000000001004
+
+got the S1 jump, sline 1286, ts 1596020486, mbox mt-000000001004
+
+got the S1 jump, sline 1297, ts 1596020497, mbox mt-000000001004
+
+got the S1 jump, sline 1307, ts 1596020507, mbox mt-000000001004
+
+got the S1 jump, sline 1326, ts 1596020526, mbox mt-000000001004
+
+got the S1 jump, sline 1356, ts 1596020556, mbox mt-000000001004
+
+got the S1 jump, sline 1365, ts 1596020565, mbox mt-000000001004
+
+got the S1 jump, sline 1366, ts 1596020566, mbox mt-000000001004
+
+got the S1 jump, sline 1367, ts 1596020567, mbox mt-000000001004
+
+got the S1 jump, sline 1380, ts 1596020580, mbox mt-000000001016
+
+got the S1 jump, sline 1395, ts 1596020595, mbox mt-000000001004
+
+got the S1 jump, sline 1396, ts 1596020596, mbox mt-000000001004
+
+got the S1 jump, sline 1406, ts 1596020606, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 3733 3736 [ 14684 6585 5282 5271 ] 5263 5270 
+
+got the S1 jump, sline 1415, ts 1596020615, mbox mt-000000001004
+
+got the S1 jump, sline 1425, ts 1596020625, mbox mt-000000001004
+
+got the S1 jump, sline 1445, ts 1596020645, mbox mt-000000001004
+
+got the S1 jump, sline 1455, ts 1596020655, mbox mt-000000001004
+
+got the S1 jump, sline 1515, ts 1596020715, mbox mt-000000001004
+
+got the S1 jump, sline 1532, ts 1596020732, mbox mt-000000001004
+
+got the S1 jump, sline 1533, ts 1596020733, mbox mt-000000001004
+
+got the S1 jump, sline 1543, ts 1596020743, mbox mt-000000001004
+
+got the S1 jump, sline 1562, ts 1596020762, mbox mt-000000001004
+
+got the S1 jump, sline 1563, ts 1596020763, mbox mt-000000001004
+
+got the S1 jump, sline 1573, ts 1596020773, mbox mt-000000001004
+
+got the S1 jump, sline 1592, ts 1596020792, mbox mt-000000001004
+
+got the S1 jump, sline 1603, ts 1596020803, mbox mt-000000001004
+
+got the S1 jump, sline 1705, ts 1596020905, mbox mt-000000001018
+
+got the S1 jump, sline 1708, ts 1596020908, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 1323 1329 [ 11184 2134 2112 2128 ] 2138 2138 
+##DATA-LOSS### bt-000000001020-4 [0 0]: 2363 2365 [ -1 2132 2132 2132 ] 2132 2132 
+
+got the S1 jump, sline 1733, ts 1596020933, mbox mt-000000001018
+
+got the S1 jump, sline 1734, ts 1596020934, mbox mt-000000001018
+
+got the S1 jump, sline 1735, ts 1596020935, mbox mt-000000001018
+
+got the S1 jump, sline 1898, ts 1596021098, mbox mt-000000001010
+
+got the S1 jump, sline 1951, ts 1596021151, mbox mt-000000001018
+
+got the S1 jump, sline 1952, ts 1596021152, mbox mt-000000001018
+
+got the S1 jump, sline 1962, ts 1596021162, mbox mt-000000001004
+
+got the S1 jump, sline 1990, ts 1596021190, mbox mt-000000001004
+
+got the S1 jump, sline 1991, ts 1596021191, mbox mt-000000001004
+
+got the S1 jump, sline 1999, ts 1596021199, mbox mt-000000001004
+
+got the S1 jump, sline 2008, ts 1596021208, mbox mt-000000001004
+
+got the S1 jump, sline 2028, ts 1596021228, mbox mt-000000001004
+
+got the S1 jump, sline 2065, ts 1596021265, mbox mt-000000001004
+
+got the S1 jump, sline 2073, ts 1596021273, mbox mt-000000001004
+
+got the S1 jump, sline 2103, ts 1596021303, mbox mt-000000001004
+
+got the S1 jump, sline 2111, ts 1596021311, mbox mt-000000001004
+
+got the S1 jump, sline 2140, ts 1596021340, mbox mt-000000001004
+
+got the S1 jump, sline 2148, ts 1596021348, mbox mt-000000001004
+
+got the S1 jump, sline 2318, ts 1596021518, mbox mt-000000001004
+
+got the S1 jump, sline 2492, ts 1596021692, mbox mt-000000001004
+
+got the S1 jump, sline 2493, ts 1596021693, mbox mt-000000001004
+
+got the S1 jump, sline 2623, ts 1596021823, mbox mt-000000001016
+
+got the S1 jump, sline 2626, ts 1596021826, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 6679 6650 [ 12678 7386 7419 7425 ] 7554 7563 
+
+got the S1 jump, sline 2640, ts 1596021840, mbox mt-000000001004
+
+got the S1 jump, sline 2641, ts 1596021841, mbox mt-000000001004
+
+got the S1 jump, sline 2649, ts 1596021849, mbox mt-000000001004
+
+got the S1 jump, sline 2674, ts 1596021874, mbox mt-000000001004
+
+got the S1 jump, sline 2788, ts 1596021988, mbox mt-000000001010
+
+got the S1 jump, sline 2819, ts 1596022019, mbox mt-000000001004
+
+got the S1 jump, sline 2827, ts 1596022027, mbox mt-000000001004
+
+got the S1 jump, sline 2828, ts 1596022028, mbox mt-000000001004
+
+got the S1 jump, sline 3022, ts 1596022222, mbox mt-000000001010
+
+got the S1 jump, sline 3259, ts 1596022459, mbox mt-000000001007
+
+got the S1 jump, sline 3260, ts 1596022460, mbox mt-000000001007
+
+got the S1 jump, sline 3288, ts 1596022488, mbox mt-000000001004
+
+got the S1 jump, sline 3407, ts 1596022607, mbox mt-000000001004
+
+got the S1 jump, sline 3408, ts 1596022608, mbox mt-000000001004
+
+got the S1 jump, sline 3423, ts 1596022623, mbox mt-000000001004
+
+got the S1 jump, sline 3424, ts 1596022624, mbox mt-000000001004
+
+got the S1 jump, sline 3488, ts 1596022688, mbox mt-000000001004
+
+got the S1 jump, sline 3496, ts 1596022696, mbox mt-000000001004
+
+got the S1 jump, sline 3497, ts 1596022697, mbox mt-000000001004
+ltopo_alg_set_path, start at 'Wed Jul 29 19:40:00 CST 2020', end 1596026399
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1596022800-1596026399
+
+got the S1 jump, sline 91, ts 1596022891, mbox mt-000000001004
+
+got the S1 jump, sline 104, ts 1596022904, mbox mt-000000001004
+
+got the S1 jump, sline 122, ts 1596022922, mbox mt-000000001004
+
+got the S1 jump, sline 150, ts 1596022950, mbox mt-000000001014
+
+got the S1 jump, sline 446, ts 1596023246, mbox mt-000000001004
+
+got the S1 jump, sline 553, ts 1596023353, mbox mt-000000001004
+
+got the S1 jump, sline 554, ts 1596023354, mbox mt-000000001004
+
+got the S1 jump, sline 738, ts 1596023538, mbox mt-000000001004
+
+got the S1 jump, sline 877, ts 1596023677, mbox mt-000000001010
+
+got the S1 jump, sline 924, ts 1596023724, mbox mt-000000001013
+
+got the S1 jump, sline 927, ts 1596023727, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 558 560 [ 9965 1398 1359 1333 ] 1323 1323 
+
+got the S1 jump, sline 978, ts 1596023778, mbox mt-000000001004
+
+got the S1 jump, sline 1280, ts 1596024080, mbox mt-000000001018
+
+got the S1 jump, sline 1283, ts 1596024083, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 1345 1335 [ 10887 2193 2134 2140 ] 2150 2150 
+
+got the S1 jump, sline 1771, ts 1596024571, mbox mt-000000001004
+
+got the S1 jump, sline 2419, ts 1596025219, mbox mt-000000001004
+
+got the S1 jump, sline 2449, ts 1596025249, mbox mt-000000001017
+
+got the S1 jump, sline 2484, ts 1596025284, mbox mt-000000001007
+
+got the S1 jump, sline 2485, ts 1596025285, mbox mt-000000001007
+
+got the S1 jump, sline 2763, ts 1596025563, mbox mt-000000001016
+
+got the S1 jump, sline 2766, ts 1596025566, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 12049 12035 [ 20369 13322 13334 13045 ] 12783 12783 
+##DATA-LOSS### bt-000000001005-5 [0 0]: 73284 73298 [ 73312 -1 -1 -1 ] 72092 72092 
+
+got the S1 jump, sline 2964, ts 1596025764, mbox mt-000000001004
+
+got the S1 jump, sline 3005, ts 1596025805, mbox mt-000000001004
+
+got the S1 jump, sline 3008, ts 1596025808, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 23669 23636 [ 33498 25774 24722 24787 ] 24466 24016 
+
+got the S1 jump, sline 3189, ts 1596025989, mbox mt-000000001004
+
+got the S1 jump, sline 3190, ts 1596025990, mbox mt-000000001004
+
+got the S1 jump, sline 3322, ts 1596026122, mbox mt-000000001017
+
+got the S1 jump, sline 3354, ts 1596026154, mbox mt-000000001010
+
+got the S1 jump, sline 3395, ts 1596026195, mbox mt-000000001014
+
+got the S1 jump, sline 3438, ts 1596026238, mbox mt-000000001013
+
+got the S1 jump, sline 3441, ts 1596026241, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 560 558 [ 10713 1423 1349 1335 ] 1325 1325 
+ltopo_alg_set_path, start at 'Wed Jul 29 20:40:00 CST 2020', end 1596029999
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1596026400-1596029999
+
+got the S1 jump, sline 140, ts 1596026540, mbox mt-000000001016
+
+got the S1 jump, sline 141, ts 1596026541, mbox mt-000000001016
+
+got the S1 jump, sline 142, ts 1596026542, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 19149 19143 [ 19188 28793 82628 84674 ] 84617 82879 
+
+got the S1 jump, sline 162, ts 1596026562, mbox mt-000000001010
+
+got the S1 jump, sline 163, ts 1596026563, mbox mt-000000001010
+
+got the S1 jump, sline 304, ts 1596026704, mbox mt-000000001007
+
+got the S1 jump, sline 305, ts 1596026705, mbox mt-000000001007
+
+got the S1 jump, sline 315, ts 1596026715, mbox mt-000000001007
+##PULSE-DOWN## mt-000000001007 [0 1]: 18264 19202 [ 20916 22513 23023 2081 ] 1996 2002 
+
+got the S1 jump, sline 351, ts 1596026751, mbox mt-000000001016
+
+got the S1 jump, sline 407, ts 1596026807, mbox mt-000000001016
+
+got the S1 jump, sline 410, ts 1596026810, mbox mt-000000001016
+
+got the S1 jump, sline 420, ts 1596026820, mbox mt-000000001016
+
+got the S1 jump, sline 422, ts 1596026822, mbox mt-000000001016
+
+got the S1 jump, sline 443, ts 1596026843, mbox mt-000000001016
+
+got the S1 jump, sline 444, ts 1596026844, mbox mt-000000001016
+
+got the S1 jump, sline 445, ts 1596026845, mbox mt-000000001016
+
+got the S1 jump, sline 446, ts 1596026846, mbox mt-000000001016
+
+got the S1 jump, sline 447, ts 1596026847, mbox mt-000000001016
+
+got the S1 jump, sline 547, ts 1596026947, mbox mt-000000001016
+
+got the S1 jump, sline 548, ts 1596026948, mbox mt-000000001016
+
+got the S1 jump, sline 556, ts 1596026956, mbox mt-000000001016
+
+got the S1 jump, sline 557, ts 1596026957, mbox mt-000000001016
+
+got the S1 jump, sline 558, ts 1596026958, mbox mt-000000001016
+
+got the S1 jump, sline 559, ts 1596026959, mbox mt-000000001016
+
+got the S1 jump, sline 569, ts 1596026969, mbox mt-000000001016
+
+got the S1 jump, sline 570, ts 1596026970, mbox mt-000000001016
+
+got the S1 jump, sline 571, ts 1596026971, mbox mt-000000001016
+
+got the S1 jump, sline 839, ts 1596027239, mbox mt-000000001018
+
+got the S1 jump, sline 842, ts 1596027242, mbox mt-000000001018
+##PULSE-DOWN## mt-000000001018 [0 1]: 1343 1339 [ 11439 3015 2124 2128 ] 2138 2138 
+
+got the S1 jump, sline 882, ts 1596027282, mbox mt-000000001016
+
+got the S1 jump, sline 883, ts 1596027283, mbox mt-000000001016
+
+got the S1 jump, sline 897, ts 1596027297, mbox mt-000000001016
+
+got the S1 jump, sline 964, ts 1596027364, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 33507 35770 [ 60836 33870 33429 33425 ] 33421 33438 
+
+got the S1 jump, sline 972, ts 1596027372, mbox mt-000000001004
+
+got the S1 jump, sline 1009, ts 1596027409, mbox mt-000000001016
+
+got the S1 jump, sline 1010, ts 1596027410, mbox mt-000000001016
+
+got the S1 jump, sline 1011, ts 1596027411, mbox mt-000000001016
+
+got the S1 jump, sline 1050, ts 1596027450, mbox mt-000000001004
+
+got the S1 jump, sline 1189, ts 1596027589, mbox mt-000000001016
+
+got the S1 jump, sline 1190, ts 1596027590, mbox mt-000000001016
+
+got the S1 jump, sline 1235, ts 1596027635, mbox mt-000000001012
+
+got the S1 jump, sline 1267, ts 1596027667, mbox mt-000000001016
+
+got the S1 jump, sline 1268, ts 1596027668, mbox mt-000000001016
+
+got the S1 jump, sline 1316, ts 1596027716, mbox mt-000000001016
+
+got the S1 jump, sline 1317, ts 1596027717, mbox mt-000000001016
+
+got the S1 jump, sline 1458, ts 1596027858, mbox mt-000000001016
+
+got the S1 jump, sline 1459, ts 1596027859, mbox mt-000000001016
+
+got the S1 jump, sline 1549, ts 1596027949, mbox mt-000000001016
+
+got the S1 jump, sline 1585, ts 1596027985, mbox mt-000000001016
+
+got the S1 jump, sline 1586, ts 1596027986, mbox mt-000000001016
+
+got the S1 jump, sline 1594, ts 1596027994, mbox mt-000000001017
+
+got the S1 jump, sline 1656, ts 1596028056, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 10207 10152 [ 17444 10872 10907 10889 ] 10883 10880 
+
+got the S1 jump, sline 1759, ts 1596028159, mbox mt-000000001012
+
+got the S1 jump, sline 1810, ts 1596028210, mbox mt-000000001010
+
+got the S1 jump, sline 2372, ts 1596028772, mbox mt-000000001013
+
+got the S1 jump, sline 2373, ts 1596028773, mbox mt-000000001013
+
+got the S1 jump, sline 2374, ts 1596028774, mbox mt-000000001013
+##PULSE-DOWN## mt-000000001013 [0 1]: 555 553 [ 555 9750 8690 1382 ] 1343 1319 
+
+got the S1 jump, sline 2519, ts 1596028919, mbox mt-000000001010
+
+got the S1 jump, sline 2641, ts 1596029041, mbox mt-000000001015
+
+got the S1 jump, sline 2642, ts 1596029042, mbox mt-000000001015
+
+got the S1 jump, sline 2643, ts 1596029043, mbox mt-000000001015
+
+got the S1 jump, sline 2644, ts 1596029044, mbox mt-000000001015
+##PULSE-DOWN## mt-000000001015 [0 1]: 4447 4439 [ 16347 29655 30457 30047 ] 29800 28458 
+
+got the S1 jump, sline 2728, ts 1596029128, mbox mt-000000001010
+
+got the S1 jump, sline 2746, ts 1596029146, mbox mt-000000001015
+
+got the S1 jump, sline 2747, ts 1596029147, mbox mt-000000001015
+
+got the S1 jump, sline 2775, ts 1596029175, mbox mt-000000001015
+
+got the S1 jump, sline 2786, ts 1596029186, mbox mt-000000001015
+
+got the S1 jump, sline 2787, ts 1596029187, mbox mt-000000001015
+
+got the S1 jump, sline 2943, ts 1596029343, mbox mt-000000001014
+
+got the S1 jump, sline 2992, ts 1596029392, mbox mt-000000001002
+
+got the S1 jump, sline 2995, ts 1596029395, mbox mt-000000001002
+##PULSE-DOWN## mt-000000001002 [0 1]: 3776 7633 [ 12741 5808 5773 5777 ] 5759 5759 
+
+got the S1 jump, sline 3102, ts 1596029502, mbox mt-000000001017
+
+got the S1 jump, sline 3103, ts 1596029503, mbox mt-000000001017
+
+got the S1 jump, sline 3129, ts 1596029529, mbox mt-000000001015
+
+got the S1 jump, sline 3130, ts 1596029530, mbox mt-000000001015
+
+got the S1 jump, sline 3145, ts 1596029545, mbox mt-000000001017
+
+got the S1 jump, sline 3146, ts 1596029546, mbox mt-000000001017
+
+got the S1 jump, sline 3176, ts 1596029576, mbox mt-000000001010
+
+got the S1 jump, sline 3182, ts 1596029582, mbox mt-000000001017
+
+got the S1 jump, sline 3215, ts 1596029615, mbox mt-000000001004
+
+got the S1 jump, sline 3295, ts 1596029695, mbox mt-000000001004
+
+got the S1 jump, sline 3303, ts 1596029703, mbox mt-000000001017
+
+got the S1 jump, sline 3513, ts 1596029913, mbox mt-000000001017
+
+got the S1 jump, sline 3514, ts 1596029914, mbox mt-000000001017
+ltopo_alg_set_path, start at 'Wed Jul 29 21:40:00 CST 2020', end 1596033599
+ltopo_alg_run, cycle 1, vl 200, vh 5000, window 3, path topology/1596030000-1596033599
+
+got the S1 jump, sline 190, ts 1596030190, mbox mt-000000001004
+
+got the S1 jump, sline 191, ts 1596030191, mbox mt-000000001004
+
+got the S1 jump, sline 551, ts 1596030551, mbox mt-000000001016
+
+got the S1 jump, sline 554, ts 1596030554, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 8672 8657 [ 15735 9563 9369 9432 ] 9432 9432 
+##DATA-LOSS### bt-000000001005-5 [0 0]: 23838 24149 [ 24460 24771 -1 20799 ] 20801 20803 
+
+got the S1 jump, sline 934, ts 1596030934, mbox mt-000000001014
+
+got the S1 jump, sline 935, ts 1596030935, mbox mt-000000001014
+
+got the S1 jump, sline 1030, ts 1596031030, mbox mt-000000001016
+
+got the S1 jump, sline 1033, ts 1596031033, mbox mt-000000001016
+##PULSE-DOWN## mt-000000001016 [0 1]: 9555 9477 [ 19614 10505 9663 9671 ] 9651 9651 
+
+got the S1 jump, sline 1284, ts 1596031284, mbox mt-000000001015
+
+got the S1 jump, sline 1285, ts 1596031285, mbox mt-000000001015
+
+got the S1 jump, sline 1541, ts 1596031541, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 29347 29342 [ 29240 30490 26517 8127 ] 8133 8131 
+
+got the S1 jump, sline 1796, ts 1596031796, mbox mt-000000001016
+
+got the S1 jump, sline 1832, ts 1596031832, mbox mt-000000001015
+
+got the S1 jump, sline 1833, ts 1596031833, mbox mt-000000001015
+
+got the S1 jump, sline 1926, ts 1596031926, mbox mt-000000001004
+
+got the S1 jump, sline 2004, ts 1596032004, mbox mt-000000001004
+
+got the S1 jump, sline 2471, ts 1596032471, mbox mt-000000001004
+
+got the S1 jump, sline 2529, ts 1596032529, mbox mt-000000001014
+
+got the S1 jump, sline 2530, ts 1596032530, mbox mt-000000001014
+
+got the S1 jump, sline 2607, ts 1596032607, mbox mt-000000001013
+
+got the S1 jump, sline 2706, ts 1596032706, mbox mt-000000001004
+
+got the S1 jump, sline 2707, ts 1596032707, mbox mt-000000001004
+
+got the S1 jump, sline 2708, ts 1596032708, mbox mt-000000001004
+
+got the S1 jump, sline 2860, ts 1596032860, mbox mt-000000001004
+
+got the S1 jump, sline 2898, ts 1596032898, mbox mt-000000001002
+
+got the S1 jump, sline 3152, ts 1596033152, mbox mt-000000001017
+
+got the S1 jump, sline 3155, ts 1596033155, mbox mt-000000001017
+##PULSE-DOWN## mt-000000001017 [0 1]: 4150 4573 [ 12930 4976 4955 4994 ] 5012 5022 
+
+got the S1 jump, sline 3189, ts 1596033189, mbox mt-000000001004
+
+got the S1 jump, sline 3190, ts 1596033190, mbox mt-000000001004
+
+got the S1 jump, sline 3308, ts 1596033308, mbox mt-000000001004
+
+got the S1 jump, sline 3311, ts 1596033311, mbox mt-000000001004
+##PULSE-DOWN## mt-000000001004 [0 1]: 5112 5104 [ 11980 6061 6107 6152 ] 6185 6199 
+
+got the S1 jump, sline 3328, ts 1596033328, mbox mt-000000001004
+
+got the S1 jump, sline 3329, ts 1596033329, mbox mt-000000001004
+#######################
+total s1 1158
