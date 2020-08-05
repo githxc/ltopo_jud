@@ -7,6 +7,7 @@
 #include <unistd.h>
 #include <errno.h>
 #include <stdlib.h>
+#include "malloc.h"
 #include "ltopo_define.h"
 #include "ltopo_xml.h"
 
@@ -132,10 +133,9 @@ int ltopo_atol_after(char * buf, char * anchor, long int * val)
 
 
 
-long int* ltopo_proc_str(char * msg, FILE * fp)
+long int* ltopo_proc_str(char * msg, FILE * fp,long int *v)
 {
     /* mt-000000001013 [0 1]: 140 140 [ 142 4437 11037 1041 ] 922 908 */
-    long int v[8];
     int i;
     char buf[512];
     char * p;
@@ -203,7 +203,9 @@ int ltopo_proc_s1(char * start, int len, FILE* fp)
 
     g_s.s1_count++;
     long int* datas,*d_datas;
-	datas = ltopo_proc_str(msg, fp);
+	datas = (long int)malloc(8*sizeof(long int));
+	d_datas = (long int)malloc(8*sizeof(long int));
+	datas = ltopo_proc_str(msg, fp, datas);
 
 	int pulse,d_pulse;
 	int pul_num,d_pul_num;
@@ -221,20 +223,20 @@ int ltopo_proc_s1(char * start, int len, FILE* fp)
                 snprintf(mbox, sizeof(mbox), "%s-%d", pmeter->addr,i+1);
                 ltopo_get_str_between(p, mbox, "\n", msg, sizeof(msg));
 
-				d_datas = ltopo_proc_str(msg,fp);
+				d_datas = ltopo_proc_str(msg,fp,d_datas);
 				d_pul_num = pul_detect(d_datas);
 				d_pulse = pul_judg(d_pul_num);
-				pul_out_d(pulse,d_pulse,msg,fp);
+				pul_out_d(pulse,d_pulse,msg,fp,datas,d_datas);
             }
 	    }
 	    else{
 	  		snprintf(mbox, sizeof(mbox), "%s-%s", pmeter->addr, bno);
             ltopo_get_str_between(p, mbox, "\n", msg, sizeof(msg));
 
-			d_datas = ltopo_proc_str(msg,fp);
+			d_datas = ltopo_proc_str(msg,fp,d_datas);
 			d_pul_num = pul_detect(d_datas);
 			d_pulse = pul_judg(d_pul_num);
-			pul_out_d(pulse,d_pulse,msg,fp);
+			pul_out_d(pulse,d_pulse,msg,fp,datas,d_datas);
         }
     }
     free(s1);

@@ -3,6 +3,8 @@
 #include <string.h>
 #include <stdlib.h>
 #include "cha_ext.h"
+
+
 int pul_detect(long int *data)
 {
 	int i,n;
@@ -116,24 +118,58 @@ int pul_judg(int pul_num)
 	return u_or_d;
 }
 
-
 int pul_out_m(int pulse,char *msg, FILE *fpo)
 {
-	
+
 	if(pulse==1)
-   		fprintf(fpo, "%s%s\n", LTOOL_STR_PULS_DOWN,msg);
+   		fprintf(fpo, "%s%s\n", LTOOL_STR_PULS_UP,msg);
+	else if(pulse==0)
+		fprintf(fpo, "%s%s\n", LTOOL_STR_PULS_DOWN,msg);
+	else if(pulse==2)
+		fprintf(fpo,"%s%s\n", LTOOL_STR_STAGE_UP,msg);
+	else if(pulse==3)
+		fprintf(fpo,"%s%s\n", LTOOL_STR_STAGE_DOWN,msg);
+	else if(pulse==4)
+		fprintf(fpo, "%s%s\n", LTOOL_STR_STILL,msg);
+	else 
+		fprintf(fpo, "%s%s\n", LTOOL_STR_LOSS,msg);
 	return 1;
 }
 
-int pul_out_d(int pulse,int d_pulse,char *msg, FILE *fpo)
+int pul_out_d(int pulse,int d_pulse,char *msg, FILE *fpo,long int *sdata,long int * fdata)
 {
-	if((pulse == 1))
+	if(pulse == d_pulse)
 	{
-		if(d_pulse==-1)
+		if(d_pulse==1)
+			fprintf(fpo, "%s%s\n", LTOOL_STR_PULS_UP,msg);
+		else if(d_pulse==0)
+			fprintf(fpo, "%s%s\n", LTOOL_STR_PULS_DOWN,msg);
+		else if(d_pulse==2)
+			fprintf(fpo, "%s%s\n", LTOOL_STR_STAGE_UP,msg);
+		else if(d_pulse==3)
+			fprintf(fpo, "%s%s\n", LTOOL_STR_STAGE_DOWN,msg);
+		else if(d_pulse==4)
+			fprintf(fpo, "%s%s\n", LTOOL_STR_STILL,msg);
+		else
 			fprintf(fpo, "%s%s\n", LTOOL_STR_LOSS,msg);
 	}
+	else
+	{
+		if(d_pulse==1)
+			fprintf(fpo, "%s%s  %s\n", LTOOL_STR_PULS_UP,msg,LTOOL_STR_ERROR);
+		else if(d_pulse==0)
+			fprintf(fpo, "%s%s  %s\n", LTOOL_STR_PULS_DOWN,msg,LTOOL_STR_ERROR);
+		else if(d_pulse==2)
+			fprintf(fpo, "%s%s  %s\n", LTOOL_STR_STAGE_UP,msg,LTOOL_STR_ERROR);
+		else if(d_pulse==3)
+			fprintf(fpo, "%s%s  %s\n", LTOOL_STR_STAGE_DOWN,msg,LTOOL_STR_ERROR);
+		else if(d_pulse==4)
+			fprintf(fpo, "%s%s  %s\n", LTOOL_STR_STILL,msg,LTOOL_STR_ERROR);
+		else
+			fprintf(fpo, "%s%s\n", LTOOL_STR_LOSS,msg);
+	}
+	output(sdata,fdata,fpo);
 	return 1;
 }
-
 
  

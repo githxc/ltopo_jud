@@ -1,4 +1,8 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 #include "cha_ext.h"
+#include "math.h"
 
 long int bubble_sort_mid(long int a[8])
 {
@@ -22,7 +26,7 @@ long int bubble_sort_mid(long int a[8])
 float cha_dval(long int *s,long int*f)
 {
 	int i;
-	long int a,s_max=0,s_min=0,f_max,f_min;
+	long int s_max=0,s_min=0,f_max,f_min;
 	long int s_dval,f_dval;
 	
 	s_max = s[0];
@@ -66,7 +70,7 @@ float cha_uord(long int *s,long int*f)
 	int i;
 	long int sum_fs=0,sum_ls=0,sum_ff=0,sum_lf=0;
 	long int s_uord,f_uord;
-	float fs_uord,ff_uord;
+	//float fs_uord,ff_uord;
 	for(i=0;i<4;i++)
 	{
 		sum_fs = sum_fs + s[i];
@@ -86,8 +90,8 @@ float cha_uord(long int *s,long int*f)
 	
 	s_uord = sum_ls-sum_fs;
 	f_uord = sum_lf-sum_ff;
-	fs_uord = tanh((float)s_uord);
-	ff_uord = tanh((float)f_uord);
+	//fs_uord = tanh((float)s_uord);
+	//ff_uord = tanh((float)f_uord);
 	
 	if(s_uord*f_uord>0)
 		return 0;
@@ -128,7 +132,7 @@ float cha_jumt(long int *s,long int*f)
 }
 
 
-float cha_rel(long int *s, long int *f)
+void cha_rel(long int *s, long int *f,FILE *fp)
 {
 	float r[14];
     float sxy;
@@ -169,14 +173,14 @@ float cha_rel(long int *s, long int *f)
 	ssf = sqrt(ssf);
 	dsf = sss*ssf;
 
-	for(i=0;i<14;i++)
+	for(i=0;i<15;i++)
 		r[i] = r[i]/dsf;
 
 	
-	printf("%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f\n",r[0],r[1],r[2],r[3],r[4],r[5],r[6],r[7],r[8],r[9],r[10],r[11],r[12],r[13]);
+	fprintf(fp,"%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f\n",r[0],r[1],r[2],r[3],r[4],r[5],r[6],r[7],r[8],r[9],r[10],r[11],r[12],r[13],r[14]);
 }
 
-float cha_lost(long int *s,long int*f)
+float cha_lost(long int *s,long int*f,FILE *fp)
 {	
 	int s_p;
 	int f_p = -1;
@@ -200,9 +204,22 @@ float cha_lost(long int *s,long int*f)
 		}			
 	}
 	
-	printf("\n%d,%d\n",s_p,f_p);	
+	fprintf(fp,"%d,%d\n",s_p,f_p);	
 	if(f_p == -1)
 		return 0;
 	else
 		return ((float)f_p-(float)s_p)/4;
 }
+
+void output(long int *s,long int *f,FILE *fp)
+{
+	float dval,uord,jumt,lost;
+	dval = cha_dval(s,f);
+	uord = cha_uord(s,f);
+	jumt = cha_jumt(s,f);
+	cha_rel(s,f,fp);
+	lost = cha_lost(s,f,fp);
+
+	fprintf(fp,"%0.2f,%0.2f,%0.2f,%0.2f\n",dval,uord,jumt,lost);
+}
+
