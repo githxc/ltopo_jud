@@ -208,17 +208,44 @@ float cha_lost(long int *s,long int*f,FILE *fp)
 	if(f_p == -1)
 		return 0;
 	else
-		return ((float)f_p-(float)s_p)/4;
+		return ((float)f_p-(float)s_p+0.25)/4;
 }
 
 void output(long int *s,long int *f,FILE *fp)
 {
+	int i;
+	long int s_data[8],f_data[8];
 	float dval,uord,jumt,lost;
-	dval = cha_dval(s,f);
-	uord = cha_uord(s,f);
-	jumt = cha_jumt(s,f);
-	cha_rel(s,f,fp);
-	lost = cha_lost(s,f,fp);
+	for(i=0;i<8;i++)
+	{
+		s_data[i] = s[i];
+		f_data[i] = f[i];
+	}
+	dval = cha_dval(s_data,f_data);
+	for(i=0;i<8;i++)
+	{
+		s_data[i] = s[i];
+		f_data[i] = f[i];
+	}
+	uord = cha_uord(s_data,f_data);
+	for(i=0;i<8;i++)
+	{
+		s_data[i] = s[i];
+		f_data[i] = f[i];
+	}
+	jumt = cha_jumt(s_data,f_data);
+	for(i=0;i<8;i++)
+	{
+		s_data[i] = s[i];
+		f_data[i] = f[i];
+	}
+	cha_rel(s_data,f_data,fp);
+	for(i=0;i<8;i++)
+	{
+		s_data[i] = s[i];
+		f_data[i] = f[i];
+	}
+	lost = cha_lost(s_data,f_data,fp);
 
 	fprintf(fp,"%0.2f,%0.2f,%0.2f,%0.2f\n",dval,uord,jumt,lost);
 }
