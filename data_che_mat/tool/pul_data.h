@@ -25,7 +25,7 @@ extern "C" {
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#incldue "cha_ext.h"
+#include "cha_ext.h"
 
 
 

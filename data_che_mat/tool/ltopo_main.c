@@ -10,7 +10,7 @@
 #include "ltopo_define.h"
 #include "ltopo_xml.h"
 #include "pul_data.h"
-#incldue "cha_ext.h"
+#include "cha_ext.h"
 
 #define TOOL_TEST_INPUT_PATH "../test/tool"
 #define TOOL_XML_FILE TOOL_TEST_INPUT_PATH "/tool.xml"
@@ -89,14 +89,12 @@ int mfz_proc_file(char *filename, char * outfile)
 	char addr[12],d_addr[13];
 	char num2[10]={0};
 	
-	long int s[8];
+	long int s[8],f[8];
 	int pan;
 	
 	while(biaozhi != EOF)
 	{
 		int i;
-		for(i=0;i<8;i++)
-			s[i]=0;
 		
 		biaozhi = fgetc(fp);
    		if(biaozhi == 'L')
@@ -106,66 +104,81 @@ int mfz_proc_file(char *filename, char * outfile)
 	        if(biaozhi == 'm')
     	    {
         	   	du(2,fp);
-			fgets(addr,13,fp);
-			du(8,fp);
-			fscanf(fp,"%ld",&(s[0]));
-			du(1,fp);
-			fscanf(fp,"%ld",&s[1]);
-			du(3,fp);
-			fscanf(fp,"%ld",&s[2]);
-			du(1,fp);
-			fscanf(fp,"%ld",&s[3]);
-			du(1,fp);
-			fscanf(fp,"%ld",&s[4]);
-			du(1,fp);
-			fscanf(fp,"%ld",&s[5]);
-			du(3,fp);
-			fscanf(fp,"%ld",&s[6]);
-			du(1,fp);
-			fscanf(fp,"%ld",&s[7]);
-			tiaoguo(fp);
+				fgets(addr,13,fp);
+				du(8,fp);
+				fscanf(fp,"%ld",&(s[0]));
+				du(1,fp);
+				fscanf(fp,"%ld",&s[1]);
+				du(3,fp);
+				fscanf(fp,"%ld",&s[2]);
+				du(1,fp);
+				fscanf(fp,"%ld",&s[3]);
+				du(1,fp);
+				fscanf(fp,"%ld",&s[4]);
+				du(1,fp);
+				fscanf(fp,"%ld",&s[5]);
+				du(3,fp);
+				fscanf(fp,"%ld",&s[6]);
+				du(1,fp);
+				fscanf(fp,"%ld",&s[7]);
+				tiaoguo(fp);
        		}
         	else if(biaozhi == 'b')
        		{
     			du(2,fp);
-			fgets(d_addr,13,fp);
-			du(1,fp);
-			num2[0] = fgetc(fp);
-			du(8,fp);
-			fscanf(fp,"%ld",&(s[0]));
-			du(1,fp);
-			fscanf(fp,"%ld",&s[1]);
-			du(3,fp);
-			fscanf(fp,"%ld",&s[2]);
-			du(1,fp);
-			fscanf(fp,"%ld",&s[3]);
-			du(1,fp);
-			fscanf(fp,"%ld",&s[4]);
-			du(1,fp);
-			fscanf(fp,"%ld",&s[5]);
-			du(3,fp);
-			fscanf(fp,"%ld",&s[6]);
-			du(1,fp);
-			fscanf(fp,"%ld",&s[7]);
-			tiaoguo(fp);
+				fgets(d_addr,13,fp);
+				du(1,fp);
+				num2[0] = fgetc(fp);
+				du(8,fp);
+				fscanf(fp,"%ld",&(f[0]));
+				du(1,fp);
+				fscanf(fp,"%ld",&f[1]);
+				du(3,fp);
+				fscanf(fp,"%ld",&f[2]);
+				du(1,fp);
+				fscanf(fp,"%ld",&f[3]);
+				du(1,fp);
+				fscanf(fp,"%ld",&f[4]);
+				du(1,fp);
+				fscanf(fp,"%ld",&f[5]);
+				du(3,fp);
+				fscanf(fp,"%ld",&f[6]);
+				du(1,fp);
+				fscanf(fp,"%ld",&f[7]);
+				tiaoguo(fp);
 	        }
-		else
-			tiaoguo(fp);
+			else
+				tiaoguo(fp);
     	}
+
+		
 		if(biaozhi == 'm')
 		{
-			pul_num = pul_detect(s);
-			pulse = pul_judg(pul_num);
+			//pul_num = pul_detect(s);
+			//pulse = pul_judg(pul_num);
 			
-			pul_out_m(pulse,addr,s,fpo);
+			//pul_out_m(pulse,addr,s,fpo);
+			//fprintf(fpo,"%ld %ld %ld %ld %ld %ld %ld %ld\n",s[0],s[1],s[2],s[3],s[4],s[5],s[6],s[7]);
 		}
 		else if(biaozhi == 'b')
 		{
-			d_pul_num = pul_detect(s);
+			d_pul_num = pul_detect(f);
 			d_pulse = pul_judg(d_pul_num);
-			
+			//fprintf(fpo,"%ld %ld %ld %ld %ld %ld %ld %ld\n",f[0],f[1],f[2],f[3],f[4],f[5],f[6],f[7]);
 			pan = judge_fs(addr,d_addr, num2,fpo);
-			pul_out_d(pan,pulse,d_pulse,d_addr,num2,s,fpo);
+
+			
+			//fprintf(fpo,"%d\n",pan);
+			if(d_pulse!=4)
+			{
+				if(pan == 0)
+					fprintf(fpo,"+1 ");
+				else if(pan == 1)
+					fprintf(fpo,"-1 " );
+				output(s,f,fpo);
+			}
+				
+			//pul_out_d(pan,pulse,d_pulse,d_addr,num2,f,fpo);
 		}
 	}
 	printf("end\n");

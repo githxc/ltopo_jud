@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+#include "cha_ext.h"
 
 int pul_detect(long int *data)
 {

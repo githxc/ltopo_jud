@@ -35,7 +35,7 @@ ALL_TARGETS=$(APP)
 %.o : %.c
 	$(CC) -c $(CFLAGS) $(CPPFLAGS) $< -o $@ 
 
-OBJS = ltopo_list.o ltopo_xml.o pul_data.o
+OBJS = ltopo_list.o ltopo_xml.o pul_data.o cha_ext.o -lm
 
 
 all: $(ALL_TARGETS)
