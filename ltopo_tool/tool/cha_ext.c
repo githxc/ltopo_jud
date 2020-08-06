@@ -65,12 +65,12 @@ float cha_dval(long int *s,long int*f)
 	return (float)f_dval/s_dval;
 }
 
-float cha_uord(long int *s,long int*f)
+float cha_uord(long int *s,long int*f,FILE *fp)
 {
 	int i;
 	long int sum_fs=0,sum_ls=0,sum_ff=0,sum_lf=0;
 	long int s_uord,f_uord;
-	//float fs_uord,ff_uord;
+
 	for(i=0;i<4;i++)
 	{
 		sum_fs = sum_fs + s[i];
@@ -81,18 +81,16 @@ float cha_uord(long int *s,long int*f)
 	}
 	for(i=0;i<4;i++)
 	{
-		sum_ff = sum_ff + s[i];
+		sum_ff = sum_ff + f[i];
 	}
 	for(i=0;i<4;i++)
 	{
-		sum_lf = sum_lf + s[7-i];
+		sum_lf = sum_lf + f[7-i];
 	}
 	
 	s_uord = sum_ls-sum_fs;
 	f_uord = sum_lf-sum_ff;
-	//fs_uord = tanh((float)s_uord);
-	//ff_uord = tanh((float)f_uord);
-	
+
 	if(s_uord*f_uord>0)
 		return 0;
 	else 
@@ -100,7 +98,7 @@ float cha_uord(long int *s,long int*f)
 }
 
 
-float cha_jumt(long int *s,long int*f)
+float cha_jumt(long int *s,long int*f,FILE *fp)
 {
 	int sd[7];
 	int fd[7];
@@ -128,24 +126,23 @@ float cha_jumt(long int *s,long int*f)
 			nf = i;
 		}
 	}
-	return (float)(abs(nf-ns)/4);
+
+	return ((float)abs(nf-ns)/4.0);
 }
 
 
-void cha_rel(long int *s, long int *f,FILE *fp)
+float cha_rel(long int *s, long int *f,FILE *fp)
 {
 	float r[14];
     float sxy;
 	float sss,ssf,dsf;
     int    delay,i,j;
-	
+	float r_max=0;
 	for(i=0;i<8;i++)
 	{
 		s[i] = s[i] - bubble_sort_mid(s);
 		f[i] = f[i] - bubble_sort_mid(f);
 	}
-	printf("%ld,%ld,%ld,%ld,%ld,%ld,%ld,%ld\n",s[0],s[1],s[2],s[3],s[4],s[5],s[6],s[7]);
-	printf("%ld,%ld,%ld,%ld,%ld,%ld,%ld,%ld\n",f[0],f[1],f[2],f[3],f[4],f[5],f[6],f[7]);
 	
     for(delay = -7; delay < 8; delay++)
     {
@@ -173,11 +170,17 @@ void cha_rel(long int *s, long int *f,FILE *fp)
 	ssf = sqrt(ssf);
 	dsf = sss*ssf;
 
-	for(i=0;i<15;i++)
+	for(i=0;i<14;i++)
 		r[i] = r[i]/dsf;
 
+
+	for(i=0;i<14;i++)
+	{
+		if(r_max<r[i])
+			r_max = r[i];
+	}
 	
-	fprintf(fp,"%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f,%0.2f\n",r[0],r[1],r[2],r[3],r[4],r[5],r[6],r[7],r[8],r[9],r[10],r[11],r[12],r[13],r[14]);
+	return r_max;
 }
 
 float cha_lost(long int *s,long int*f,FILE *fp)
@@ -203,8 +206,7 @@ float cha_lost(long int *s,long int*f,FILE *fp)
 			break;
 		}			
 	}
-	
-	fprintf(fp,"%d,%d\n",s_p,f_p);	
+		
 	if(f_p == -1)
 		return 0;
 	else
@@ -215,7 +217,7 @@ void output(long int *s,long int *f,FILE *fp)
 {
 	int i;
 	long int s_data[8],f_data[8];
-	float dval,uord,jumt,lost;
+	float dval,uord,jumt,rel,lost;
 	for(i=0;i<8;i++)
 	{
 		s_data[i] = s[i];
@@ -227,19 +229,19 @@ void output(long int *s,long int *f,FILE *fp)
 		s_data[i] = s[i];
 		f_data[i] = f[i];
 	}
-	uord = cha_uord(s_data,f_data);
+	uord = cha_uord(s_data,f_data,fp);
 	for(i=0;i<8;i++)
 	{
 		s_data[i] = s[i];
 		f_data[i] = f[i];
 	}
-	jumt = cha_jumt(s_data,f_data);
+	jumt = cha_jumt(s_data,f_data,fp);
 	for(i=0;i<8;i++)
 	{
 		s_data[i] = s[i];
 		f_data[i] = f[i];
 	}
-	cha_rel(s_data,f_data,fp);
+	rel = cha_rel(s_data,f_data,fp);
 	for(i=0;i<8;i++)
 	{
 		s_data[i] = s[i];
@@ -247,6 +249,6 @@ void output(long int *s,long int *f,FILE *fp)
 	}
 	lost = cha_lost(s_data,f_data,fp);
 
-	fprintf(fp,"%0.2f,%0.2f,%0.2f,%0.2f\n",dval,uord,jumt,lost);
+	fprintf(fp,"+1 1:%0.2f 2:%0.2f 3:%0.2f 4:%0.2f 5:%0.2f\n",dval,uord,jumt,rel,lost);
 }
 

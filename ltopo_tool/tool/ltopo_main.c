@@ -10,9 +10,8 @@
 #include "malloc.h"
 #include "ltopo_define.h"
 #include "ltopo_xml.h"
-
-
 #include "pul_data.h"
+#include "cha_ext.h"
 #define TOOL_TEST_INPUT_PATH "../test/tool"
 #define TOOL_XML_FILE TOOL_TEST_INPUT_PATH "/tool.xml"
 
@@ -207,11 +206,11 @@ int ltopo_proc_s1(char * start, int len, FILE* fp)
 	d_datas = (long int)malloc(8*sizeof(long int));
 	datas = ltopo_proc_str(msg, fp, datas);
 
-	int pulse,d_pulse;
-	int pul_num,d_pul_num;
-	pul_num = pul_detect(datas);
-	pulse = pul_judg(pul_num);
-	pul_out_m(pulse,msg,fp);
+	//int pulse,d_pulse;
+	//int pul_num,d_pul_num;
+	//pul_num = pul_detect(datas);
+	//pulse = pul_judg(pul_num);
+	//pul_out_m(pulse,msg,fp);
 
 
     while(pmeter && strcmp(pmeter->f_addr, "-1")){
@@ -224,9 +223,9 @@ int ltopo_proc_s1(char * start, int len, FILE* fp)
                 ltopo_get_str_between(p, mbox, "\n", msg, sizeof(msg));
 
 				d_datas = ltopo_proc_str(msg,fp,d_datas);
-				d_pul_num = pul_detect(d_datas);
-				d_pulse = pul_judg(d_pul_num);
-				pul_out_d(pulse,d_pulse,msg,fp,datas,d_datas);
+				//d_pul_num = pul_detect(d_datas);
+				//d_pulse = pul_judg(d_pul_num);
+				output(datas,d_datas,fp);
             }
 	    }
 	    else{
@@ -234,9 +233,9 @@ int ltopo_proc_s1(char * start, int len, FILE* fp)
             ltopo_get_str_between(p, mbox, "\n", msg, sizeof(msg));
 
 			d_datas = ltopo_proc_str(msg,fp,d_datas);
-			d_pul_num = pul_detect(d_datas);
-			d_pulse = pul_judg(d_pul_num);
-			pul_out_d(pulse,d_pulse,msg,fp,datas,d_datas);
+			//d_pul_num = pul_detect(d_datas);
+			//d_pulse = pul_judg(d_pul_num);
+			output(datas,d_datas,fp);
         }
     }
     free(s1);
@@ -257,7 +256,7 @@ int ltopo_proc_period(char * start, int len, FILE * fp)
     while((ret=ltool_strstr(s1_p, s1_p+s1_p_len, &s1_start, &s1_end, LTOOL_KEYWORD_S1)))    {
         //printf("######got str %d!\n", ret);
         ltopo_get_str_between(s1_start, LTOOL_KEYWORD_S1, "\n", msg, sizeof(msg));
-        fprintf(fp, "\n%s\n", msg);
+        //fprintf(fp, "\n%s\n", msg);
         ltopo_proc_s1(s1_start, ret, fp);
         if(!s1_end){
             printf("***got end s1, break to the next period!\n");
@@ -271,8 +270,8 @@ int ltopo_proc_period(char * start, int len, FILE * fp)
 
 int ltopo_statis(FILE * fp)
 {
-    fprintf(fp, "#######################\n");
-    fprintf(fp, "total s1 %d\n", g_s.s1_count);
+    //fprintf(fp, "#######################\n");
+    //fprintf(fp, "total s1 %d\n", g_s.s1_count);
     return 0;
 }
 
@@ -324,9 +323,9 @@ int ltopo_proc_file(char * filename, char * outfile)
     while((ret=ltool_strstr(period_p, period_p+period_p_len, &period_start, &period_end, LTOOL_KEYWORD_PERIOD)))    {
         //printf("****got period, len %d\n", ret);
         ltopo_get_str_between(period_start, LTOOL_KEYWORD_PERIOD, "\n", msg, sizeof(msg));
-        fprintf(fpo, "%s\n", msg);
+        //fprintf(fpo, "%s\n", msg);
         ltopo_get_str_between(period_start, LTOOL_KEYWORD_ALGRUN, "\n", msg, sizeof(msg));
-        fprintf(fpo, "%s\n", msg);
+        //fprintf(fpo, "%s\n", msg);
         
         printf("****got period\n");
         ltopo_proc_period(period_start, ret, fpo);
